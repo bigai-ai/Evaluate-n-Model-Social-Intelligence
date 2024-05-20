@@ -1,0 +1,2924 @@
+{
+    "FOOD_TRUCK_0_0": {
+        "trajectory": "**Z*W\nAWW*W\n*X**W\n****W\nM**Y*\n (0, 1) view X; memory X\n(0, 0) memory X\n(1, 0) view Z; memory X,Z\n(0, 0) memory X,Z\n(0, 1) view X; memory X,Z\n(0, 2) view X; memory X,Z\n(0, 3) view X,M; memory X,Z,M\n(1, 3) view X,M; memory X,Z,M\n(2, 3) view X,Y; memory X,Z,M,Y\n(3, 3) view Y; memory X,Z,M,Y\n(3, 4) view Y; memory X,Z,M,Y; pick Y",
+        "gt": "Y > { {N,M,X,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_0"
+    },
+    "FOOD_TRUCK_0_1": {
+        "trajectory": "**Z*W\nAWW*W\n*X**W\n****W\nM**Y*\n (0, 1) view X; memory X\n(0, 2) view X; memory X\n(1, 2) view X; memory X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_0"
+    },
+    "FOOD_TRUCK_0_2": {
+        "trajectory": "**Z*W\nAWW*W\n*X**W\n****W\nM**Y*\n (0, 1) view X; memory X\n(0, 0) memory X\n(1, 0) view Z; memory X,Z\n(0, 0) memory X,Z\n(0, 1) view X; memory X,Z\n(0, 2) view X; memory X,Z\n(0, 3) view X,M; memory X,Z,M\n(1, 3) view X,M; memory X,Z,M\n(2, 3) view X,Y; memory X,Z,M,Y\n(2, 2) view X; memory X,Z,M,Y\n(3, 2) memory X,Z,M,Y\n(3, 1) view Z; memory X,Z,M,Y\n(3, 0) view Z; memory X,Z,M,Y\n(2, 0) view Z; memory X,Z,M,Y; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_0"
+    },
+    "FOOD_TRUCK_0_3": {
+        "trajectory": "**Z*W\nAWW*W\n*X**W\n****W\nM**Y*\n (0, 1) view X; memory X\n(0, 0) memory X\n(1, 0) view Z; memory X,Z\n(2, 0) view Z; memory X,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_0"
+    },
+    "FOOD_TRUCK_0_4": {
+        "trajectory": "**Z*W\nAWW*W\n*X**W\n****W\nM**Y*\n (0, 1) view X; memory X\n(0, 0) memory X\n(1, 0) view Z; memory X,Z\n(0, 0) memory X,Z\n(0, 1) view X; memory X,Z\n(0, 2) view X; memory X,Z\n(0, 3) view X,M; memory X,Z,M\n(0, 4) view M; memory X,Z,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_0"
+    },
+    "FOOD_TRUCK_1_0": {
+        "trajectory": "*W*ZA\n*W***\n*X***\n*WWWM\n*Y***\n (4, 0) view Z; memory Z\n(4, 1) view Z; memory Z\n(4, 2) view M; memory Z,M\n(3, 2) view M; memory Z,M\n(2, 2) view X; memory Z,M,X\n(1, 2) view X; memory Z,M,X\n(0, 2) view X; memory Z,M,X\n(0, 3) view X,Y; memory Z,M,X,Y\n(0, 4) view Y; memory Z,M,X,Y\n(1, 4) view Y; memory Z,M,X,Y; pick Y",
+        "gt": "Y > { {N,M,X,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_1"
+    },
+    "FOOD_TRUCK_1_1": {
+        "trajectory": "*W*ZA\n*W***\n*X***\n*WWWM\n*Y***\n (4, 0) view Z; memory Z\n(4, 1) view Z; memory Z\n(4, 2) view M; memory Z,M\n(3, 2) view M; memory Z,M\n(2, 2) view X; memory Z,M,X\n(1, 2) view X; memory Z,M,X\n(0, 2) view X; memory Z,M,X\n(0, 3) view X,Y; memory Z,M,X,Y\n(0, 2) view X; memory Z,M,X,Y\n(1, 2) view X; memory Z,M,X,Y\n(2, 2) view X; memory Z,M,X,Y\n(2, 1) view X,Z; memory Z,M,X,Y\n(2, 0) view Z; memory Z,M,X,Y\n(3, 0) view Z; memory Z,M,X,Y; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_1"
+    },
+    "FOOD_TRUCK_1_2": {
+        "trajectory": "*W*ZA\n*W***\n*X***\n*WWWM\n*Y***\n (4, 0) view Z; memory Z\n(3, 0) view Z; memory Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_1"
+    },
+    "FOOD_TRUCK_1_3": {
+        "trajectory": "*W*ZA\n*W***\n*X***\n*WWWM\n*Y***\n (4, 0) view Z; memory Z\n(4, 1) view Z; memory Z\n(4, 2) view M; memory Z,M\n(3, 2) view M; memory Z,M\n(2, 2) view X; memory Z,M,X\n(1, 2) view X; memory Z,M,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_1"
+    },
+    "FOOD_TRUCK_1_4": {
+        "trajectory": "*W*ZA\n*W***\n*X***\n*WWWM\n*Y***\n (4, 0) view Z; memory Z\n(4, 1) view Z; memory Z\n(4, 2) view M; memory Z,M\n(4, 3) view M; memory Z,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_1"
+    },
+    "FOOD_TRUCK_2_0": {
+        "trajectory": "A***W\n**MWW\nX**WW\n**ZW*\n*Y***\n (0, 0)\n(0, 1) view X; memory X\n(1, 1) view X,M; memory X,M\n(1, 2) view X,Z,M; memory X,M,Z\n(1, 3) view X,Y,Z; memory X,M,Z,Y\n(1, 4) view Y,Z; memory X,M,Z,Y; pick Y",
+        "gt": "Y > { {N,M,X,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_2"
+    },
+    "FOOD_TRUCK_2_1": {
+        "trajectory": "A***W\n**MWW\nX**WW\n**ZW*\n*Y***\n (0, 0)\n(0, 1) view X; memory X\n(1, 1) view X,M; memory X,M\n(2, 1) view M; memory X,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_2"
+    },
+    "FOOD_TRUCK_2_2": {
+        "trajectory": "A***W\n**MWW\nX**WW\n**ZW*\n*Y***\n (0, 0)\n(0, 1) view X; memory X\n(1, 1) view X,M; memory X,M\n(1, 2) view X,Z,M; memory X,M,Z\n(2, 2) view Z,M; memory X,M,Z\n(2, 3) view Y,Z; memory X,M,Z,Y; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_2"
+    },
+    "FOOD_TRUCK_2_3": {
+        "trajectory": "A***W\n**MWW\nX**WW\n**ZW*\n*Y***\n (0, 0)\n(0, 1) view X; memory X\n(0, 2) view X; memory X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_2"
+    },
+    "FOOD_TRUCK_2_4": {
+        "trajectory": "A***W\n**MWW\nX**WW\n**ZW*\n*Y***\n (0, 0)\n(0, 1) view X; memory X\n(1, 1) view X,M; memory X,M\n(1, 2) view X,Z,M; memory X,M,Z\n(1, 3) view X,Y,Z; memory X,M,Z,Y\n(1, 2) view X,Z,M; memory X,M,Z,Y\n(0, 2) view X; memory X,M,Z,Y; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_2"
+    },
+    "FOOD_TRUCK_3_0": {
+        "trajectory": "*Y**M\n*****\n*A*Z*\n**X**\nWWWW*\n (1, 2) view X; memory X\n(1, 1) view Y; memory X,Y\n(1, 0) view Y; memory X,Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_3"
+    },
+    "FOOD_TRUCK_3_1": {
+        "trajectory": "*Y**M\n*****\n*A*Z*\n**X**\nWWWW*\n (1, 2) view X; memory X\n(1, 1) view Y; memory X,Y\n(2, 1) view Y,Z; memory X,Y,Z\n(3, 1) view Z,M; memory X,Y,Z,M\n(3, 2) view X,Z; memory X,Y,Z,M; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_3"
+    },
+    "FOOD_TRUCK_3_2": {
+        "trajectory": "*Y**M\n*****\n*A*Z*\n**X**\nWWWW*\n (1, 2) view X; memory X\n(2, 2) view X,Z; memory X,Z\n(2, 3) view X,Z; memory X,Z; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_3"
+    },
+    "FOOD_TRUCK_3_3": {
+        "trajectory": "*Y**M\n*****\n*A*Z*\n**X**\nWWWW*\n (1, 2) view X; memory X\n(1, 1) view Y; memory X,Y\n(2, 1) view Y,Z; memory X,Y,Z\n(3, 1) view Z,M; memory X,Y,Z,M\n(3, 0) view M; memory X,Y,Z,M\n(4, 0) view M; memory X,Y,Z,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_3"
+    },
+    "FOOD_TRUCK_3_4": {
+        "trajectory": "*Y**M\n*****\n*A*Z*\n**X**\nWWWW*\n (1, 2) view X; memory X\n(1, 1) view Y; memory X,Y\n(2, 1) view Y,Z; memory X,Y,Z\n(3, 1) view Z,M; memory X,Y,Z,M\n(3, 2) view X,Z; memory X,Y,Z,M\n(3, 3) view X,Z; memory X,Y,Z,M\n(2, 3) view X,Z; memory X,Y,Z,M; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_3"
+    },
+    "FOOD_TRUCK_4_0": {
+        "trajectory": "*WWW*\nAZ***\n****Y\n*WWW*\nM*X**\n (0, 1) view Z; memory Z\n(0, 2) view Z; memory Z\n(0, 3) view M; memory Z,M\n(0, 4) view M; memory Z,M\n(1, 4) view X,M; memory Z,M,X\n(2, 4) view X; memory Z,M,X\n(3, 4) view X; memory Z,M,X\n(4, 4) memory Z,M,X\n(4, 3) view Y; memory Z,M,X,Y\n(4, 2) view Y; memory Z,M,X,Y\n(4, 1) view Y; memory Z,M,X,Y\n(3, 1) view Y; memory Z,M,X,Y\n(2, 1) view Z; memory Z,M,X,Y\n(1, 1) view Z; memory Z,M,X,Y; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_4"
+    },
+    "FOOD_TRUCK_4_1": {
+        "trajectory": "*WWW*\nAZ***\n****Y\n*WWW*\nM*X**\n (0, 1) view Z; memory Z\n(0, 2) view Z; memory Z\n(0, 3) view M; memory Z,M\n(0, 4) view M; memory Z,M\n(1, 4) view X,M; memory Z,M,X\n(2, 4) view X; memory Z,M,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_4"
+    },
+    "FOOD_TRUCK_4_2": {
+        "trajectory": "*WWW*\nAZ***\n****Y\n*WWW*\nM*X**\n (0, 1) view Z; memory Z\n(1, 1) view Z; memory Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_4"
+    },
+    "FOOD_TRUCK_4_3": {
+        "trajectory": "*WWW*\nAZ***\n****Y\n*WWW*\nM*X**\n (0, 1) view Z; memory Z\n(0, 2) view Z; memory Z\n(0, 3) view M; memory Z,M\n(0, 4) view M; memory Z,M\n(1, 4) view X,M; memory Z,M,X\n(2, 4) view X; memory Z,M,X\n(3, 4) view X; memory Z,M,X\n(4, 4) memory Z,M,X\n(4, 3) view Y; memory Z,M,X,Y\n(4, 4) memory Z,M,X,Y\n(3, 4) view X; memory Z,M,X,Y\n(2, 4) view X; memory Z,M,X,Y; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_4"
+    },
+    "FOOD_TRUCK_4_4": {
+        "trajectory": "*WWW*\nAZ***\n****Y\n*WWW*\nM*X**\n (0, 1) view Z; memory Z\n(0, 2) view Z; memory Z\n(0, 3) view M; memory Z,M\n(0, 4) view M; memory Z,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_4"
+    },
+    "FOOD_TRUCK_5_0": {
+        "trajectory": "***MA\n***W*\nZ**W*\nWWWWY\n***X*\n (4, 0) view M; memory M\n(4, 1) view M; memory M\n(4, 2) view Y; memory M,Y\n(4, 3) view X,Y; memory M,Y,X\n(4, 2) view Y; memory M,Y,X\n(4, 1) view M; memory M,Y,X\n(4, 0) view M; memory M,Y,X\n(3, 0) view M; memory M,Y,X\n(2, 0) view M; memory M,Y,X\n(2, 1) view M; memory M,Y,X\n(1, 1) view Z; memory M,Y,X,Z\n(1, 2) view Z; memory M,Y,X,Z\n(0, 2) view Z; memory M,Y,X,Z; pick Z",
+        "gt": "Z > { {N,M,X,Y}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_5"
+    },
+    "FOOD_TRUCK_5_1": {
+        "trajectory": "***MA\n***W*\nZ**W*\nWWWWY\n***X*\n (4, 0) view M; memory M\n(4, 1) view M; memory M\n(4, 2) view Y; memory M,Y\n(4, 3) view X,Y; memory M,Y,X; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_5"
+    },
+    "FOOD_TRUCK_5_2": {
+        "trajectory": "***MA\n***W*\nZ**W*\nWWWWY\n***X*\n (4, 0) view M; memory M\n(4, 1) view M; memory M\n(4, 2) view Y; memory M,Y\n(4, 3) view X,Y; memory M,Y,X\n(4, 4) view X,Y; memory M,Y,X\n(3, 4) view X,Y; memory M,Y,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_5"
+    },
+    "FOOD_TRUCK_5_3": {
+        "trajectory": "***MA\n***W*\nZ**W*\nWWWWY\n***X*\n (4, 0) view M; memory M\n(3, 0) view M; memory M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_5"
+    },
+    "FOOD_TRUCK_6_0": {
+        "trajectory": "*****\n*****\nA*WZ*\nWWW*M\nY**X*\n (0, 2)\n(0, 1)\n(1, 1)\n(2, 1) view Z; memory Z\n(3, 1) view Z; memory Z\n(3, 2) view Z,M; memory Z,M\n(4, 2) view Z,M; memory Z,M\n(4, 3) view X,Z,M; memory Z,M,X; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_6"
+    },
+    "FOOD_TRUCK_6_1": {
+        "trajectory": "*****\n*****\nA*WZ*\nWWW*M\nY**X*\n (0, 2)\n(0, 1)\n(1, 1)\n(2, 1) view Z; memory Z\n(3, 1) view Z; memory Z\n(3, 2) view Z,M; memory Z,M; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_6"
+    },
+    "FOOD_TRUCK_6_2": {
+        "trajectory": "*****\n*****\nA*WZ*\nWWW*M\nY**X*\n (0, 2)\n(0, 1)\n(1, 1)\n(2, 1) view Z; memory Z\n(3, 1) view Z; memory Z\n(3, 2) view Z,M; memory Z,M\n(3, 3) view X,Z,M; memory Z,M,X\n(3, 4) view X,M; memory Z,M,X\n(2, 4) view X; memory Z,M,X\n(1, 4) view Y; memory Z,M,X,Y\n(0, 4) view Y; memory Z,M,X,Y; pick Y",
+        "gt": "Y > { {N,M,X,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_6"
+    },
+    "FOOD_TRUCK_6_3": {
+        "trajectory": "*****\n*****\nA*WZ*\nWWW*M\nY**X*\n (0, 2)\n(0, 1)\n(1, 1)\n(2, 1) view Z; memory Z\n(3, 1) view Z; memory Z\n(3, 2) view Z,M; memory Z,M\n(3, 3) view X,Z,M; memory Z,M,X\n(3, 4) view X,M; memory Z,M,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_6"
+    },
+    "FOOD_TRUCK_6_4": {
+        "trajectory": "*****\n*****\nA*WZ*\nWWW*M\nY**X*\n (0, 2)\n(0, 1)\n(1, 1)\n(2, 1) view Z; memory Z\n(3, 1) view Z; memory Z\n(3, 2) view Z,M; memory Z,M\n(3, 3) view X,Z,M; memory Z,M,X\n(3, 4) view X,M; memory Z,M,X\n(2, 4) view X; memory Z,M,X\n(1, 4) view Y; memory Z,M,X,Y\n(2, 4) view X; memory Z,M,X,Y\n(3, 4) view X,M; memory Z,M,X,Y\n(3, 3) view X,Z,M; memory Z,M,X,Y\n(3, 2) view Z,M; memory Z,M,X,Y; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_6"
+    },
+    "FOOD_TRUCK_7_0": {
+        "trajectory": "*W*Y*\n*WZ**\nWWWW*\nX**M*\n**A**\n (2, 4) view M; memory M\n(1, 4) view X; memory M,X\n(1, 3) view X; memory M,X\n(2, 3) view M; memory M,X\n(3, 3) view M; memory M,X\n(4, 3) view M; memory M,X\n(4, 2) view M; memory M,X\n(4, 1) view Y; memory M,X,Y\n(3, 1) view Y,Z; memory M,X,Y,Z\n(4, 1) view Y; memory M,X,Y,Z\n(4, 2) view M; memory M,X,Y,Z\n(4, 3) view M; memory M,X,Y,Z\n(3, 3) view M; memory M,X,Y,Z; pick M",
+        "gt": "N > M > {X,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_7"
+    },
+    "FOOD_TRUCK_7_1": {
+        "trajectory": "*W*Y*\n*WZ**\nWWWW*\nX**M*\n**A**\n (2, 4) view M; memory M\n(2, 3) view M; memory M\n(3, 3) view M; memory M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_7"
+    },
+    "FOOD_TRUCK_7_2": {
+        "trajectory": "*W*Y*\n*WZ**\nWWWW*\nX**M*\n**A**\n (2, 4) view M; memory M\n(1, 4) view X; memory M,X\n(1, 3) view X; memory M,X\n(2, 3) view M; memory M,X\n(3, 3) view M; memory M,X\n(4, 3) view M; memory M,X\n(4, 2) view M; memory M,X\n(4, 1) view Y; memory M,X,Y\n(4, 0) view Y; memory M,X,Y\n(3, 0) view Y,Z; memory M,X,Y,Z; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_7"
+    },
+    "FOOD_TRUCK_7_3": {
+        "trajectory": "*W*Y*\n*WZ**\nWWWW*\nX**M*\n**A**\n (2, 4) view M; memory M\n(1, 4) view X; memory M,X\n(1, 3) view X; memory M,X\n(0, 3) view X; memory M,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_7"
+    },
+    "FOOD_TRUCK_7_4": {
+        "trajectory": "*W*Y*\n*WZ**\nWWWW*\nX**M*\n**A**\n (2, 4) view M; memory M\n(1, 4) view X; memory M,X\n(1, 3) view X; memory M,X\n(2, 3) view M; memory M,X\n(3, 3) view M; memory M,X\n(4, 3) view M; memory M,X\n(4, 2) view M; memory M,X\n(4, 1) view Y; memory M,X,Y\n(3, 1) view Y,Z; memory M,X,Y,Z\n(4, 1) view Y; memory M,X,Y,Z\n(4, 2) view M; memory M,X,Y,Z\n(4, 3) view M; memory M,X,Y,Z\n(3, 3) view M; memory M,X,Y,Z\n(2, 3) view M; memory M,X,Y,Z\n(1, 3) view X; memory M,X,Y,Z\n(0, 3) view X; memory M,X,Y,Z; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_7"
+    },
+    "FOOD_TRUCK_8_0": {
+        "trajectory": "Z**WY\n***W*\n***WA\nM*X**\n*****\n (4, 2)\n(4, 1) view Y; memory Y\n(4, 2) memory Y\n(4, 3) memory Y\n(3, 3) view X; memory Y,X\n(2, 3) view X; memory Y,X\n(1, 3) view X,M; memory Y,X,M\n(1, 2) view X,M; memory Y,X,M\n(1, 1) view Z; memory Y,X,M,Z\n(1, 0) view Z; memory Y,X,M,Z\n(0, 0) view Z; memory Y,X,M,Z; pick Z",
+        "gt": "Z > { {N,M,X,Y}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_8"
+    },
+    "FOOD_TRUCK_8_1": {
+        "trajectory": "Z**WY\n***W*\n***WA\nM*X**\n*****\n (4, 2)\n(4, 1) view Y; memory Y\n(4, 0) view Y; memory Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_8"
+    },
+    "FOOD_TRUCK_8_2": {
+        "trajectory": "Z**WY\n***W*\n***WA\nM*X**\n*****\n (4, 2)\n(4, 1) view Y; memory Y\n(4, 2) memory Y\n(4, 3) memory Y\n(3, 3) view X; memory Y,X\n(2, 3) view X; memory Y,X\n(1, 3) view X,M; memory Y,X,M\n(0, 3) view M; memory Y,X,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_8"
+    },
+    "FOOD_TRUCK_8_3": {
+        "trajectory": "Z**WY\n***W*\n***WA\nM*X**\n*****\n (4, 2)\n(4, 1) view Y; memory Y\n(4, 2) memory Y\n(4, 3) memory Y\n(3, 3) view X; memory Y,X\n(2, 3) view X; memory Y,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_8"
+    },
+    "FOOD_TRUCK_8_4": {
+        "trajectory": "Z**WY\n***W*\n***WA\nM*X**\n*****\n (4, 2)\n(4, 1) view Y; memory Y\n(4, 2) memory Y\n(4, 3) memory Y\n(3, 3) view X; memory Y,X\n(2, 3) view X; memory Y,X\n(1, 3) view X,M; memory Y,X,M\n(1, 2) view X,M; memory Y,X,M\n(1, 1) view Z; memory Y,X,M,Z\n(1, 2) view X,M; memory Y,X,M,Z\n(1, 3) view X,M; memory Y,X,M,Z\n(0, 3) view M; memory Y,X,M,Z; pick M",
+        "gt": "N > M > {X,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_8"
+    },
+    "FOOD_TRUCK_9_0": {
+        "trajectory": "WW***\n*Z**W\nXA**W\n****W\n*Y**M\n (1, 2) view X,Z; memory X,Z\n(1, 3) view X,Y; memory X,Z,Y\n(2, 3) view Y; memory X,Z,Y\n(3, 3) view M; memory X,Z,Y,M\n(3, 2) memory X,Z,Y,M\n(2, 2) view Z; memory X,Z,Y,M\n(1, 2) view X,Z; memory X,Z,Y,M\n(0, 2) view X,Z; memory X,Z,Y,M; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_9"
+    },
+    "FOOD_TRUCK_9_1": {
+        "trajectory": "WW***\n*Z**W\nXA**W\n****W\n*Y**M\n (1, 2) view X,Z; memory X,Z\n(1, 3) view X,Y; memory X,Z,Y\n(2, 3) view Y; memory X,Z,Y\n(3, 3) view M; memory X,Z,Y,M\n(3, 4) view M; memory X,Z,Y,M\n(4, 4) view M; memory X,Z,Y,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_9"
+    },
+    "FOOD_TRUCK_9_2": {
+        "trajectory": "WW***\n*Z**W\nXA**W\n****W\n*Y**M\n (1, 2) view X,Z; memory X,Z\n(0, 2) view X,Z; memory X,Z; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_9"
+    },
+    "FOOD_TRUCK_9_3": {
+        "trajectory": "WW***\n*Z**W\nXA**W\n****W\n*Y**M\n (1, 2) view X,Z; memory X,Z\n(1, 1) view X,Z; memory X,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_9"
+    },
+    "FOOD_TRUCK_9_4": {
+        "trajectory": "WW***\n*Z**W\nXA**W\n****W\n*Y**M\n (1, 2) view X,Z; memory X,Z\n(1, 3) view X,Y; memory X,Z,Y\n(1, 4) view Y; memory X,Z,Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_9"
+    },
+    "FOOD_TRUCK_10_0": {
+        "trajectory": "***M*\n**W*W\n*AW*W\n*YW*W\nX**Z*\n (1, 2) view Y; memory Y\n(1, 3) view X,Y; memory Y,X\n(1, 4) view X,Y; memory Y,X\n(2, 4) view Y,Z; memory Y,X,Z\n(3, 4) view Z; memory Y,X,Z\n(3, 3) view Z; memory Y,X,Z\n(3, 2) memory Y,X,Z\n(3, 1) view M; memory Y,X,Z,M\n(3, 0) view M; memory Y,X,Z,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_10"
+    },
+    "FOOD_TRUCK_10_1": {
+        "trajectory": "***M*\n**W*W\n*AW*W\n*YW*W\nX**Z*\n (1, 2) view Y; memory Y\n(1, 3) view X,Y; memory Y,X; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_10"
+    },
+    "FOOD_TRUCK_10_2": {
+        "trajectory": "***M*\n**W*W\n*AW*W\n*YW*W\nX**Z*\n (1, 2) view Y; memory Y\n(1, 3) view X,Y; memory Y,X\n(1, 4) view X,Y; memory Y,X\n(2, 4) view Y,Z; memory Y,X,Z\n(3, 4) view Z; memory Y,X,Z\n(3, 3) view Z; memory Y,X,Z\n(3, 2) memory Y,X,Z\n(3, 1) view M; memory Y,X,Z,M\n(3, 2) memory Y,X,Z,M\n(3, 3) view Z; memory Y,X,Z,M\n(3, 4) view Z; memory Y,X,Z,M\n(2, 4) view Y,Z; memory Y,X,Z,M\n(1, 4) view X,Y; memory Y,X,Z,M\n(0, 4) view X,Y; memory Y,X,Z,M; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_10"
+    },
+    "FOOD_TRUCK_10_3": {
+        "trajectory": "***M*\n**W*W\n*AW*W\n*YW*W\nX**Z*\n (1, 2) view Y; memory Y\n(1, 3) view X,Y; memory Y,X\n(1, 4) view X,Y; memory Y,X\n(2, 4) view Y,Z; memory Y,X,Z\n(3, 4) view Z; memory Y,X,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_10"
+    },
+    "FOOD_TRUCK_10_4": {
+        "trajectory": "***M*\n**W*W\n*AW*W\n*YW*W\nX**Z*\n (1, 2) view Y; memory Y\n(1, 3) view X,Y; memory Y,X\n(1, 4) view X,Y; memory Y,X\n(2, 4) view Y,Z; memory Y,X,Z\n(3, 4) view Z; memory Y,X,Z\n(3, 3) view Z; memory Y,X,Z\n(3, 2) memory Y,X,Z\n(3, 1) view M; memory Y,X,Z,M\n(3, 0) view M; memory Y,X,Z,M\n(2, 0) view M; memory Y,X,Z,M\n(1, 0) memory Y,X,Z,M\n(1, 1) memory Y,X,Z,M\n(1, 2) view Y; memory Y,X,Z,M\n(1, 3) view X,Y; memory Y,X,Z,M; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_10"
+    },
+    "FOOD_TRUCK_11_0": {
+        "trajectory": "Z****\n*MW**\n*WWWY\nA*W**\n****X\n (0, 3)\n(0, 2) view M; memory M\n(0, 1) view Z,M; memory M,Z\n(0, 0) view Z,M; memory M,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_11"
+    },
+    "FOOD_TRUCK_11_1": {
+        "trajectory": "Z****\n*MW**\n*WWWY\nA*W**\n****X\n (0, 3)\n(0, 2) view M; memory M\n(0, 1) view Z,M; memory M,Z\n(0, 0) view Z,M; memory M,Z\n(1, 0) view Z,M; memory M,Z\n(2, 0) view M; memory M,Z\n(3, 0) memory M,Z\n(3, 1) view Y; memory M,Z,Y\n(4, 1) view Y; memory M,Z,Y\n(4, 2) view Y; memory M,Z,Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_11"
+    },
+    "FOOD_TRUCK_11_2": {
+        "trajectory": "Z****\n*MW**\n*WWWY\nA*W**\n****X\n (0, 3)\n(0, 2) view M; memory M\n(0, 1) view Z,M; memory M,Z\n(0, 0) view Z,M; memory M,Z\n(1, 0) view Z,M; memory M,Z\n(2, 0) view M; memory M,Z\n(3, 0) memory M,Z\n(3, 1) view Y; memory M,Z,Y\n(4, 1) view Y; memory M,Z,Y\n(4, 2) view Y; memory M,Z,Y\n(4, 3) view X,Y; memory M,Z,Y,X\n(4, 2) view Y; memory M,Z,Y,X; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_11"
+    },
+    "FOOD_TRUCK_11_3": {
+        "trajectory": "Z****\n*MW**\n*WWWY\nA*W**\n****X\n (0, 3)\n(0, 2) view M; memory M\n(0, 1) view Z,M; memory M,Z\n(0, 0) view Z,M; memory M,Z\n(1, 0) view Z,M; memory M,Z\n(2, 0) view M; memory M,Z\n(3, 0) memory M,Z\n(3, 1) view Y; memory M,Z,Y\n(4, 1) view Y; memory M,Z,Y\n(4, 2) view Y; memory M,Z,Y\n(4, 3) view X,Y; memory M,Z,Y,X\n(4, 2) view Y; memory M,Z,Y,X\n(4, 1) view Y; memory M,Z,Y,X\n(4, 0) memory M,Z,Y,X\n(3, 0) memory M,Z,Y,X\n(2, 0) view M; memory M,Z,Y,X\n(1, 0) view Z,M; memory M,Z,Y,X\n(1, 1) view Z,M; memory M,Z,Y,X; pick M",
+        "gt": "N > M > {X,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_11"
+    },
+    "FOOD_TRUCK_11_4": {
+        "trajectory": "Z****\n*MW**\n*WWWY\nA*W**\n****X\n (0, 3)\n(0, 2) view M; memory M\n(0, 1) view Z,M; memory M,Z\n(1, 1) view Z,M; memory M,Z; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_11"
+    },
+    "FOOD_TRUCK_12_0": {
+        "trajectory": "WWW**\n*W***\n*W*A*\n*W*Y*\nZ*X*M\n (3, 2) view Y; memory Y\n(3, 3) view X,Y,M; memory Y,X,M\n(3, 4) view X,Y,M; memory Y,X,M\n(2, 4) view X,Y; memory Y,X,M\n(1, 4) view X,Z; memory Y,X,M,Z\n(0, 4) view Z; memory Y,X,M,Z; pick Z",
+        "gt": "Z > { {N,M,X,Y}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_12"
+    },
+    "FOOD_TRUCK_12_1": {
+        "trajectory": "WWW**\n*W***\n*W*A*\n*W*Y*\nZ*X*M\n (3, 2) view Y; memory Y\n(3, 3) view X,Y,M; memory Y,X,M\n(3, 4) view X,Y,M; memory Y,X,M\n(2, 4) view X,Y; memory Y,X,M\n(1, 4) view X,Z; memory Y,X,M,Z\n(2, 4) view X,Y; memory Y,X,M,Z; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_12"
+    },
+    "FOOD_TRUCK_12_2": {
+        "trajectory": "WWW**\n*W***\n*W*A*\n*W*Y*\nZ*X*M\n (3, 2) view Y; memory Y\n(3, 3) view X,Y,M; memory Y,X,M\n(4, 3) view Y,M; memory Y,X,M\n(4, 4) view Y,M; memory Y,X,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_12"
+    },
+    "FOOD_TRUCK_12_3": {
+        "trajectory": "WWW**\n*W***\n*W*A*\n*W*Y*\nZ*X*M\n (3, 2) view Y; memory Y\n(3, 3) view X,Y,M; memory Y,X,M; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_12"
+    },
+    "FOOD_TRUCK_12_4": {
+        "trajectory": "WWW**\n*W***\n*W*A*\n*W*Y*\nZ*X*M\n (3, 2) view Y; memory Y\n(3, 3) view X,Y,M; memory Y,X,M\n(3, 4) view X,Y,M; memory Y,X,M\n(2, 4) view X,Y; memory Y,X,M; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_12"
+    },
+    "FOOD_TRUCK_13_0": {
+        "trajectory": "*X**W\n***ZW\n***W*\nA**WM\n**Y**\n (0, 3)\n(1, 3) view Y; memory Y\n(1, 2) memory Y\n(1, 1) view X; memory Y,X\n(2, 1) view X,Z; memory Y,X,Z\n(3, 1) view Z; memory Y,X,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_13"
+    },
+    "FOOD_TRUCK_13_1": {
+        "trajectory": "*X**W\n***ZW\n***W*\nA**WM\n**Y**\n (0, 3)\n(1, 3) view Y; memory Y\n(1, 2) memory Y\n(1, 1) view X; memory Y,X\n(2, 1) view X,Z; memory Y,X,Z\n(2, 2) view Z; memory Y,X,Z\n(2, 3) view Y; memory Y,X,Z\n(2, 4) view Y; memory Y,X,Z\n(3, 4) view Y,M; memory Y,X,Z,M\n(4, 4) view M; memory Y,X,Z,M\n(4, 3) view M; memory Y,X,Z,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_13"
+    },
+    "FOOD_TRUCK_13_2": {
+        "trajectory": "*X**W\n***ZW\n***W*\nA**WM\n**Y**\n (0, 3)\n(1, 3) view Y; memory Y\n(1, 2) memory Y\n(1, 1) view X; memory Y,X\n(1, 0) view X; memory Y,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_13"
+    },
+    "FOOD_TRUCK_13_3": {
+        "trajectory": "*X**W\n***ZW\n***W*\nA**WM\n**Y**\n (0, 3)\n(1, 3) view Y; memory Y\n(1, 2) memory Y\n(1, 1) view X; memory Y,X\n(2, 1) view X,Z; memory Y,X,Z\n(2, 2) view Z; memory Y,X,Z\n(2, 3) view Y; memory Y,X,Z\n(2, 4) view Y; memory Y,X,Z\n(3, 4) view Y,M; memory Y,X,Z,M\n(2, 4) view Y; memory Y,X,Z,M\n(2, 3) view Y; memory Y,X,Z,M\n(2, 2) view Z; memory Y,X,Z,M\n(2, 1) view X,Z; memory Y,X,Z,M\n(2, 0) view X,Z; memory Y,X,Z,M\n(1, 0) view X; memory Y,X,Z,M; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_13"
+    },
+    "FOOD_TRUCK_13_4": {
+        "trajectory": "*X**W\n***ZW\n***W*\nA**WM\n**Y**\n (0, 3)\n(1, 3) view Y; memory Y\n(1, 2) memory Y\n(1, 1) view X; memory Y,X\n(2, 1) view X,Z; memory Y,X,Z\n(2, 2) view Z; memory Y,X,Z\n(2, 3) view Y; memory Y,X,Z\n(2, 4) view Y; memory Y,X,Z\n(3, 4) view Y,M; memory Y,X,Z,M\n(2, 4) view Y; memory Y,X,Z,M; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_13"
+    },
+    "FOOD_TRUCK_14_0": {
+        "trajectory": "***A*\n*X*W*\nW**W*\nW*Y**\n*M**Z\n (3, 0)\n(2, 0) view X; memory X\n(2, 1) view X; memory X\n(1, 1) view X; memory X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_14"
+    },
+    "FOOD_TRUCK_14_1": {
+        "trajectory": "***A*\n*X*W*\nW**W*\nW*Y**\n*M**Z\n (3, 0)\n(2, 0) view X; memory X\n(2, 1) view X; memory X\n(2, 2) view X,Y; memory X,Y\n(2, 3) view Y,M; memory X,Y,M; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_14"
+    },
+    "FOOD_TRUCK_14_2": {
+        "trajectory": "***A*\n*X*W*\nW**W*\nW*Y**\n*M**Z\n (3, 0)\n(2, 0) view X; memory X\n(2, 1) view X; memory X\n(2, 2) view X,Y; memory X,Y\n(2, 3) view Y,M; memory X,Y,M\n(3, 3) view Y,Z; memory X,Y,M,Z\n(4, 3) view Z; memory X,Y,M,Z\n(4, 4) view Z; memory X,Y,M,Z; pick Z",
+        "gt": "Z > { {N,M,X,Y}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_14"
+    },
+    "FOOD_TRUCK_14_3": {
+        "trajectory": "***A*\n*X*W*\nW**W*\nW*Y**\n*M**Z\n (3, 0)\n(2, 0) view X; memory X\n(2, 1) view X; memory X\n(2, 2) view X,Y; memory X,Y\n(2, 3) view Y,M; memory X,Y,M\n(3, 3) view Y,Z; memory X,Y,M,Z\n(2, 3) view Y,M; memory X,Y,M,Z\n(2, 2) view X,Y; memory X,Y,M,Z\n(2, 1) view X; memory X,Y,M,Z\n(1, 1) view X; memory X,Y,M,Z; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_14"
+    },
+    "FOOD_TRUCK_14_4": {
+        "trajectory": "***A*\n*X*W*\nW**W*\nW*Y**\n*M**Z\n (3, 0)\n(2, 0) view X; memory X\n(2, 1) view X; memory X\n(2, 2) view X,Y; memory X,Y\n(2, 3) view Y,M; memory X,Y,M\n(2, 4) view Y,M; memory X,Y,M\n(1, 4) view Y,M; memory X,Y,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_14"
+    },
+    "FOOD_TRUCK_15_0": {
+        "trajectory": "*WWAW\n**X*W\n*M***\n*****\n**Y*Z\n (3, 0) view X; memory X\n(3, 1) view X; memory X\n(2, 1) view X,M; memory X,M\n(2, 2) view X,M; memory X,M\n(2, 3) view Y,M; memory X,M,Y\n(3, 3) view Y,Z; memory X,M,Y,Z\n(4, 3) view Z; memory X,M,Y,Z\n(4, 4) view Z; memory X,M,Y,Z; pick Z",
+        "gt": "Z > { {N,M,X,Y}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_15"
+    },
+    "FOOD_TRUCK_15_1": {
+        "trajectory": "*WWAW\n**X*W\n*M***\n*****\n**Y*Z\n (3, 0) view X; memory X\n(3, 1) view X; memory X\n(2, 1) view X,M; memory X,M\n(2, 2) view X,M; memory X,M\n(1, 2) view X,M; memory X,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_15"
+    },
+    "FOOD_TRUCK_15_2": {
+        "trajectory": "*WWAW\n**X*W\n*M***\n*****\n**Y*Z\n (3, 0) view X; memory X\n(3, 1) view X; memory X\n(2, 1) view X,M; memory X,M; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_15"
+    },
+    "FOOD_TRUCK_15_3": {
+        "trajectory": "*WWAW\n**X*W\n*M***\n*****\n**Y*Z\n (3, 0) view X; memory X\n(3, 1) view X; memory X\n(2, 1) view X,M; memory X,M\n(2, 2) view X,M; memory X,M\n(2, 3) view Y,M; memory X,M,Y\n(2, 4) view Y; memory X,M,Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_15"
+    },
+    "FOOD_TRUCK_15_4": {
+        "trajectory": "*WWAW\n**X*W\n*M***\n*****\n**Y*Z\n (3, 0) view X; memory X\n(3, 1) view X; memory X\n(2, 1) view X,M; memory X,M\n(2, 2) view X,M; memory X,M\n(2, 3) view Y,M; memory X,M,Y\n(3, 3) view Y,Z; memory X,M,Y,Z\n(3, 2) view X; memory X,M,Y,Z\n(3, 1) view X; memory X,M,Y,Z\n(2, 1) view X,M; memory X,M,Y,Z; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_15"
+    },
+    "FOOD_TRUCK_16_0": {
+        "trajectory": "*****\n*Z***\n*WY*A\n*WW**\nM***X\n (4, 2)\n(4, 3) view X; memory X\n(3, 3) view X,Y; memory X,Y\n(3, 2) view Y; memory X,Y\n(2, 2) view Y,Z; memory X,Y,Z\n(2, 1) view Y,Z; memory X,Y,Z\n(1, 1) view Y,Z; memory X,Y,Z\n(0, 1) view Z; memory X,Y,Z\n(0, 2) view Z; memory X,Y,Z\n(0, 3) view M; memory X,Y,Z,M\n(0, 4) view M; memory X,Y,Z,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_16"
+    },
+    "FOOD_TRUCK_16_1": {
+        "trajectory": "*****\n*Z***\n*WY*A\n*WW**\nM***X\n (4, 2)\n(4, 3) view X; memory X\n(3, 3) view X,Y; memory X,Y\n(3, 2) view Y; memory X,Y\n(2, 2) view Y,Z; memory X,Y,Z\n(2, 1) view Y,Z; memory X,Y,Z\n(1, 1) view Y,Z; memory X,Y,Z\n(0, 1) view Z; memory X,Y,Z\n(0, 2) view Z; memory X,Y,Z\n(0, 3) view M; memory X,Y,Z,M\n(0, 4) view M; memory X,Y,Z,M\n(1, 4) view M; memory X,Y,Z,M\n(2, 4) memory X,Y,Z,M\n(3, 4) view X; memory X,Y,Z,M\n(4, 4) view X; memory X,Y,Z,M; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_16"
+    },
+    "FOOD_TRUCK_16_2": {
+        "trajectory": "*****\n*Z***\n*WY*A\n*WW**\nM***X\n (4, 2)\n(4, 3) view X; memory X\n(3, 3) view X,Y; memory X,Y\n(3, 2) view Y; memory X,Y\n(2, 2) view Y,Z; memory X,Y,Z\n(2, 1) view Y,Z; memory X,Y,Z\n(1, 1) view Y,Z; memory X,Y,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_16"
+    },
+    "FOOD_TRUCK_16_3": {
+        "trajectory": "*****\n*Z***\n*WY*A\n*WW**\nM***X\n (4, 2)\n(4, 3) view X; memory X\n(3, 3) view X,Y; memory X,Y\n(3, 2) view Y; memory X,Y\n(2, 2) view Y,Z; memory X,Y,Z; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_16"
+    },
+    "FOOD_TRUCK_16_4": {
+        "trajectory": "*****\n*Z***\n*WY*A\n*WW**\nM***X\n (4, 2)\n(4, 3) view X; memory X\n(4, 4) view X; memory X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_16"
+    },
+    "FOOD_TRUCK_17_0": {
+        "trajectory": "XA***\nWWY*M\n**WW*\n*****\n***Z*\n (1, 0) view X,Y; memory X,Y\n(2, 0) view Y; memory X,Y\n(3, 0) view Y,M; memory X,Y,M\n(4, 0) view M; memory X,Y,M\n(4, 1) view M; memory X,Y,M\n(4, 2) view M; memory X,Y,M\n(4, 3) view Z; memory X,Y,M,Z\n(4, 4) view Z; memory X,Y,M,Z\n(3, 4) view Z; memory X,Y,M,Z; pick Z",
+        "gt": "Z > { {N,M,X,Y}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_17"
+    },
+    "FOOD_TRUCK_17_1": {
+        "trajectory": "XA***\nWWY*M\n**WW*\n*****\n***Z*\n (1, 0) view X,Y; memory X,Y\n(0, 0) view X; memory X,Y; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_17"
+    },
+    "FOOD_TRUCK_17_2": {
+        "trajectory": "XA***\nWWY*M\n**WW*\n*****\n***Z*\n (1, 0) view X,Y; memory X,Y\n(2, 0) view Y; memory X,Y\n(2, 1) view Y; memory X,Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_17"
+    },
+    "FOOD_TRUCK_17_3": {
+        "trajectory": "XA***\nWWY*M\n**WW*\n*****\n***Z*\n (1, 0) view X,Y; memory X,Y\n(2, 0) view Y; memory X,Y\n(3, 0) view Y,M; memory X,Y,M\n(4, 0) view M; memory X,Y,M\n(4, 1) view M; memory X,Y,M\n(4, 2) view M; memory X,Y,M\n(4, 3) view Z; memory X,Y,M,Z\n(4, 2) view M; memory X,Y,M,Z\n(4, 1) view M; memory X,Y,M,Z\n(4, 0) view M; memory X,Y,M,Z\n(3, 0) view Y,M; memory X,Y,M,Z\n(2, 0) view Y; memory X,Y,M,Z\n(1, 0) view X,Y; memory X,Y,M,Z\n(0, 0) view X; memory X,Y,M,Z; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_17"
+    },
+    "FOOD_TRUCK_17_4": {
+        "trajectory": "XA***\nWWY*M\n**WW*\n*****\n***Z*\n (1, 0) view X,Y; memory X,Y\n(2, 0) view Y; memory X,Y\n(3, 0) view Y,M; memory X,Y,M\n(4, 0) view M; memory X,Y,M\n(4, 1) view M; memory X,Y,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_17"
+    },
+    "FOOD_TRUCK_18_0": {
+        "trajectory": "WWWMW\n*Y**W\n****W\n**Z*W\n**A*X\n (2, 4) view Z; memory Z\n(3, 4) view X,Z; memory Z,X\n(4, 4) view X; memory Z,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_18"
+    },
+    "FOOD_TRUCK_18_1": {
+        "trajectory": "WWWMW\n*Y**W\n****W\n**Z*W\n**A*X\n (2, 4) view Z; memory Z\n(2, 3) view Z; memory Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_18"
+    },
+    "FOOD_TRUCK_18_2": {
+        "trajectory": "WWWMW\n*Y**W\n****W\n**Z*W\n**A*X\n (2, 4) view Z; memory Z\n(3, 4) view X,Z; memory Z,X\n(3, 3) view X,Z; memory Z,X\n(3, 2) view Z; memory Z,X\n(2, 2) view Y,Z; memory Z,X,Y\n(2, 1) view Y,M; memory Z,X,Y,M\n(1, 1) view Y; memory Z,X,Y,M; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_18"
+    },
+    "FOOD_TRUCK_18_3": {
+        "trajectory": "WWWMW\n*Y**W\n****W\n**Z*W\n**A*X\n (2, 4) view Z; memory Z\n(3, 4) view X,Z; memory Z,X\n(3, 3) view X,Z; memory Z,X\n(3, 2) view Z; memory Z,X\n(2, 2) view Y,Z; memory Z,X,Y\n(2, 1) view Y,M; memory Z,X,Y,M\n(3, 1) view M; memory Z,X,Y,M\n(3, 0) view M; memory Z,X,Y,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_18"
+    },
+    "FOOD_TRUCK_18_4": {
+        "trajectory": "WWWMW\n*Y**W\n****W\n**Z*W\n**A*X\n (2, 4) view Z; memory Z\n(3, 4) view X,Z; memory Z,X\n(3, 3) view X,Z; memory Z,X\n(3, 2) view Z; memory Z,X\n(2, 2) view Y,Z; memory Z,X,Y\n(2, 1) view Y,M; memory Z,X,Y,M\n(2, 2) view Y,Z; memory Z,X,Y,M\n(2, 3) view Z; memory Z,X,Y,M; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_18"
+    },
+    "FOOD_TRUCK_19_0": {
+        "trajectory": "WWW*W\n**Z*W\n*Y***\n**A*M\n***X*\n (2, 3) view X,Y; memory X,Y\n(2, 2) view Y,Z; memory X,Y,Z\n(1, 2) view Y,Z; memory X,Y,Z; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_19"
+    },
+    "FOOD_TRUCK_19_1": {
+        "trajectory": "WWW*W\n**Z*W\n*Y***\n**A*M\n***X*\n (2, 3) view X,Y; memory X,Y\n(3, 3) view X,M; memory X,Y,M\n(3, 4) view X,M; memory X,Y,M; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_19"
+    },
+    "FOOD_TRUCK_19_2": {
+        "trajectory": "WWW*W\n**Z*W\n*Y***\n**A*M\n***X*\n (2, 3) view X,Y; memory X,Y\n(2, 2) view Y,Z; memory X,Y,Z\n(3, 2) view Z,M; memory X,Y,Z,M\n(4, 2) view M; memory X,Y,Z,M\n(4, 3) view X,M; memory X,Y,Z,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_19"
+    },
+    "FOOD_TRUCK_19_3": {
+        "trajectory": "WWW*W\n**Z*W\n*Y***\n**A*M\n***X*\n (2, 3) view X,Y; memory X,Y\n(2, 2) view Y,Z; memory X,Y,Z\n(2, 1) view Y,Z; memory X,Y,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_19"
+    },
+    "FOOD_TRUCK_19_4": {
+        "trajectory": "WWW*W\n**Z*W\n*Y***\n**A*M\n***X*\n (2, 3) view X,Y; memory X,Y\n(2, 2) view Y,Z; memory X,Y,Z\n(3, 2) view Z,M; memory X,Y,Z,M\n(2, 2) view Y,Z; memory X,Y,Z,M\n(1, 2) view Y,Z; memory X,Y,Z,M; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_19"
+    },
+    "FOOD_TRUCK_20_0": {
+        "trajectory": "M***W\n****W\nX***W\n****W\nYAZ**\n (1, 4) view Y,Z; memory Y,Z\n(1, 3) view X,Y,Z; memory Y,Z,X\n(1, 2) view X; memory Y,Z,X\n(0, 2) view X; memory Y,Z,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_20"
+    },
+    "FOOD_TRUCK_20_1": {
+        "trajectory": "M***W\n****W\nX***W\n****W\nYAZ**\n (1, 4) view Y,Z; memory Y,Z\n(1, 3) view X,Y,Z; memory Y,Z,X\n(1, 2) view X; memory Y,Z,X\n(1, 1) view X,M; memory Y,Z,X,M\n(1, 0) view M; memory Y,Z,X,M\n(0, 0) view M; memory Y,Z,X,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_20"
+    },
+    "FOOD_TRUCK_20_2": {
+        "trajectory": "M***W\n****W\nX***W\n****W\nYAZ**\n (1, 4) view Y,Z; memory Y,Z\n(0, 4) view Y; memory Y,Z; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_20"
+    },
+    "FOOD_TRUCK_20_3": {
+        "trajectory": "M***W\n****W\nX***W\n****W\nYAZ**\n (1, 4) view Y,Z; memory Y,Z\n(2, 4) view Z; memory Y,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_20"
+    },
+    "FOOD_TRUCK_20_4": {
+        "trajectory": "M***W\n****W\nX***W\n****W\nYAZ**\n (1, 4) view Y,Z; memory Y,Z\n(1, 3) view X,Y,Z; memory Y,Z,X\n(1, 2) view X; memory Y,Z,X\n(1, 1) view X,M; memory Y,Z,X,M\n(1, 2) view X; memory Y,Z,X,M\n(1, 3) view X,Y,Z; memory Y,Z,X,M\n(1, 4) view Y,Z; memory Y,Z,X,M\n(0, 4) view Y; memory Y,Z,X,M; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_20"
+    },
+    "FOOD_TRUCK_21_0": {
+        "trajectory": "***YW\n*AX*W\nZ**MW\n****W\n*WWW*\n (1, 1) view X,Z; memory X,Z\n(2, 1) view X,Y,M; memory X,Z,Y,M\n(3, 1) view X,Y,M; memory X,Z,Y,M\n(3, 2) view X,M; memory X,Z,Y,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_21"
+    },
+    "FOOD_TRUCK_21_1": {
+        "trajectory": "***YW\n*AX*W\nZ**MW\n****W\n*WWW*\n (1, 1) view X,Z; memory X,Z\n(2, 1) view X,Y,M; memory X,Z,Y,M; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_21"
+    },
+    "FOOD_TRUCK_21_2": {
+        "trajectory": "***YW\n*AX*W\nZ**MW\n****W\n*WWW*\n (1, 1) view X,Z; memory X,Z\n(1, 2) view X,Z; memory X,Z\n(0, 2) view Z; memory X,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_21"
+    },
+    "FOOD_TRUCK_21_3": {
+        "trajectory": "***YW\n*AX*W\nZ**MW\n****W\n*WWW*\n (1, 1) view X,Z; memory X,Z\n(2, 1) view X,Y,M; memory X,Z,Y,M\n(2, 0) view X,Y; memory X,Z,Y,M\n(3, 0) view X,Y; memory X,Z,Y,M; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_21"
+    },
+    "FOOD_TRUCK_21_4": {
+        "trajectory": "***YW\n*AX*W\nZ**MW\n****W\n*WWW*\n (1, 1) view X,Z; memory X,Z\n(2, 1) view X,Y,M; memory X,Z,Y,M\n(2, 2) view X,M; memory X,Z,Y,M\n(1, 2) view X,Z; memory X,Z,Y,M\n(0, 2) view Z; memory X,Z,Y,M; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_21"
+    },
+    "FOOD_TRUCK_22_0": {
+        "trajectory": "WW**Z\nW**Y*\nW****\nW*A**\n*X**M\n (2, 3) view X; memory X\n(2, 2) view Y; memory X,Y\n(2, 1) view Y; memory X,Y\n(3, 1) view Y,Z; memory X,Y,Z\n(3, 2) view Y; memory X,Y,Z\n(3, 3) view M; memory X,Y,Z,M\n(3, 2) view Y; memory X,Y,Z,M\n(3, 1) view Y,Z; memory X,Y,Z,M\n(3, 0) view Y,Z; memory X,Y,Z,M\n(4, 0) view Y,Z; memory X,Y,Z,M; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_22"
+    },
+    "FOOD_TRUCK_22_1": {
+        "trajectory": "WW**Z\nW**Y*\nW****\nW*A**\n*X**M\n (2, 3) view X; memory X\n(2, 2) view Y; memory X,Y\n(2, 1) view Y; memory X,Y\n(3, 1) view Y,Z; memory X,Y,Z\n(3, 2) view Y; memory X,Y,Z\n(3, 3) view M; memory X,Y,Z,M\n(4, 3) view M; memory X,Y,Z,M\n(4, 4) view M; memory X,Y,Z,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_22"
+    },
+    "FOOD_TRUCK_22_2": {
+        "trajectory": "WW**Z\nW**Y*\nW****\nW*A**\n*X**M\n (2, 3) view X; memory X\n(2, 4) view X; memory X\n(1, 4) view X; memory X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_22"
+    },
+    "FOOD_TRUCK_22_3": {
+        "trajectory": "WW**Z\nW**Y*\nW****\nW*A**\n*X**M\n (2, 3) view X; memory X\n(2, 2) view Y; memory X,Y\n(2, 1) view Y; memory X,Y\n(3, 1) view Y,Z; memory X,Y,Z; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_22"
+    },
+    "FOOD_TRUCK_22_4": {
+        "trajectory": "WW**Z\nW**Y*\nW****\nW*A**\n*X**M\n (2, 3) view X; memory X\n(2, 2) view Y; memory X,Y\n(2, 1) view Y; memory X,Y\n(3, 1) view Y,Z; memory X,Y,Z\n(3, 2) view Y; memory X,Y,Z\n(3, 3) view M; memory X,Y,Z,M\n(3, 2) view Y; memory X,Y,Z,M\n(3, 1) view Y,Z; memory X,Y,Z,M; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_22"
+    },
+    "FOOD_TRUCK_23_0": {
+        "trajectory": "M***Y\n****A\n***W*\n*WWW*\nZ*X**\n (4, 1) view Y; memory Y\n(3, 1) view Y; memory Y\n(2, 1) memory Y\n(1, 1) view M; memory Y,M\n(1, 0) view M; memory Y,M\n(0, 0) view M; memory Y,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_23"
+    },
+    "FOOD_TRUCK_23_1": {
+        "trajectory": "M***Y\n****A\n***W*\n*WWW*\nZ*X**\n (4, 1) view Y; memory Y\n(3, 1) view Y; memory Y\n(2, 1) memory Y\n(1, 1) view M; memory Y,M\n(1, 2) memory Y,M\n(0, 2) memory Y,M\n(0, 3) view Z; memory Y,M,Z\n(0, 4) view Z; memory Y,M,Z\n(1, 4) view X,Z; memory Y,M,Z,X\n(2, 4) view X; memory Y,M,Z,X; pick X",
+        "gt": "X > { {N,M,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_23"
+    },
+    "FOOD_TRUCK_23_2": {
+        "trajectory": "M***Y\n****A\n***W*\n*WWW*\nZ*X**\n (4, 1) view Y; memory Y\n(3, 1) view Y; memory Y\n(2, 1) memory Y\n(1, 1) view M; memory Y,M\n(1, 2) memory Y,M\n(0, 2) memory Y,M\n(0, 3) view Z; memory Y,M,Z\n(0, 4) view Z; memory Y,M,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_23"
+    },
+    "FOOD_TRUCK_23_3": {
+        "trajectory": "M***Y\n****A\n***W*\n*WWW*\nZ*X**\n (4, 1) view Y; memory Y\n(3, 1) view Y; memory Y\n(2, 1) memory Y\n(1, 1) view M; memory Y,M\n(1, 2) memory Y,M\n(0, 2) memory Y,M\n(0, 3) view Z; memory Y,M,Z\n(0, 4) view Z; memory Y,M,Z\n(1, 4) view X,Z; memory Y,M,Z,X\n(0, 4) view Z; memory Y,M,Z,X\n(0, 3) view Z; memory Y,M,Z,X\n(0, 2) memory Y,M,Z,X\n(0, 1) view M; memory Y,M,Z,X\n(0, 0) view M; memory Y,M,Z,X; pick M",
+        "gt": "N > M > {X,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_23"
+    },
+    "FOOD_TRUCK_23_4": {
+        "trajectory": "M***Y\n****A\n***W*\n*WWW*\nZ*X**\n (4, 1) view Y; memory Y\n(3, 1) view Y; memory Y\n(2, 1) memory Y\n(1, 1) view M; memory Y,M\n(1, 2) memory Y,M\n(0, 2) memory Y,M\n(0, 3) view Z; memory Y,M,Z\n(0, 4) view Z; memory Y,M,Z\n(1, 4) view X,Z; memory Y,M,Z,X\n(2, 4) view X; memory Y,M,Z,X\n(3, 4) view X; memory Y,M,Z,X\n(4, 4) memory Y,M,Z,X\n(4, 3) memory Y,M,Z,X\n(4, 2) memory Y,M,Z,X\n(4, 1) view Y; memory Y,M,Z,X\n(4, 0) view Y; memory Y,M,Z,X; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_23"
+    },
+    "FOOD_TRUCK_24_0": {
+        "trajectory": "W*X*Y\nWWWW*\nWM*Z*\nW****\n*A***\n (1, 4)\n(1, 3) view M; memory M\n(2, 3) view Z,M; memory M,Z\n(2, 2) view Z,M; memory M,Z\n(3, 2) view Z; memory M,Z\n(4, 2) view Z; memory M,Z\n(4, 1) view Y,Z; memory M,Z,Y\n(4, 0) view Y; memory M,Z,Y\n(3, 0) view X,Y; memory M,Z,Y,X\n(2, 0) view X; memory M,Z,Y,X; pick X",
+        "gt": "X > { {N,M,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_24"
+    },
+    "FOOD_TRUCK_24_1": {
+        "trajectory": "W*X*Y\nWWWW*\nWM*Z*\nW****\n*A***\n (1, 4)\n(1, 3) view M; memory M\n(2, 3) view Z,M; memory M,Z\n(2, 2) view Z,M; memory M,Z\n(3, 2) view Z; memory M,Z\n(4, 2) view Z; memory M,Z\n(4, 1) view Y,Z; memory M,Z,Y\n(4, 0) view Y; memory M,Z,Y\n(3, 0) view X,Y; memory M,Z,Y,X\n(4, 0) view Y; memory M,Z,Y,X; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_24"
+    },
+    "FOOD_TRUCK_24_2": {
+        "trajectory": "W*X*Y\nWWWW*\nWM*Z*\nW****\n*A***\n (1, 4)\n(1, 3) view M; memory M\n(2, 3) view Z,M; memory M,Z\n(2, 2) view Z,M; memory M,Z\n(3, 2) view Z; memory M,Z\n(4, 2) view Z; memory M,Z\n(4, 1) view Y,Z; memory M,Z,Y\n(4, 0) view Y; memory M,Z,Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_24"
+    },
+    "FOOD_TRUCK_24_3": {
+        "trajectory": "W*X*Y\nWWWW*\nWM*Z*\nW****\n*A***\n (1, 4)\n(1, 3) view M; memory M\n(1, 2) view M; memory M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_24"
+    },
+    "FOOD_TRUCK_24_4": {
+        "trajectory": "W*X*Y\nWWWW*\nWM*Z*\nW****\n*A***\n (1, 4)\n(1, 3) view M; memory M\n(2, 3) view Z,M; memory M,Z\n(2, 2) view Z,M; memory M,Z\n(3, 2) view Z; memory M,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_24"
+    },
+    "FOOD_TRUCK_25_0": {
+        "trajectory": "WWWWW\n**M*W\n**A*W\nX**ZW\n**Y**\n (2, 2) view Z,M; memory Z,M\n(1, 2) view X,M; memory Z,M,X\n(1, 3) view X,Y; memory Z,M,X,Y\n(2, 3) view Y,Z; memory Z,M,X,Y\n(3, 3) view Y,Z; memory Z,M,X,Y; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_25"
+    },
+    "FOOD_TRUCK_25_1": {
+        "trajectory": "WWWWW\n**M*W\n**A*W\nX**ZW\n**Y**\n (2, 2) view Z,M; memory Z,M\n(1, 2) view X,M; memory Z,M,X\n(1, 3) view X,Y; memory Z,M,X,Y\n(1, 2) view X,M; memory Z,M,X,Y\n(1, 1) view M; memory Z,M,X,Y\n(2, 1) view M; memory Z,M,X,Y; pick M",
+        "gt": "N > M > {X,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_25"
+    },
+    "FOOD_TRUCK_25_2": {
+        "trajectory": "WWWWW\n**M*W\n**A*W\nX**ZW\n**Y**\n (2, 2) view Z,M; memory Z,M\n(1, 2) view X,M; memory Z,M,X\n(1, 3) view X,Y; memory Z,M,X,Y\n(0, 3) view X; memory Z,M,X,Y; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_25"
+    },
+    "FOOD_TRUCK_25_3": {
+        "trajectory": "WWWWW\n**M*W\n**A*W\nX**ZW\n**Y**\n (2, 2) view Z,M; memory Z,M\n(3, 2) view Z,M; memory Z,M\n(3, 3) view Y,Z; memory Z,M,Y; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_25"
+    },
+    "FOOD_TRUCK_25_4": {
+        "trajectory": "WWWWW\n**M*W\n**A*W\nX**ZW\n**Y**\n (2, 2) view Z,M; memory Z,M\n(2, 1) view M; memory Z,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_25"
+    },
+    "FOOD_TRUCK_26_0": {
+        "trajectory": "A*Z**\nWWWW*\nM****\nWWWW*\n*X*Y*\n (0, 0)\n(1, 0) view Z; memory Z\n(2, 0) view Z; memory Z\n(3, 0) view Z; memory Z\n(4, 0) memory Z\n(4, 1) memory Z\n(4, 2) memory Z\n(4, 3) view Y; memory Z,Y\n(4, 4) view Y; memory Z,Y\n(3, 4) view Y; memory Z,Y\n(2, 4) view X,Y; memory Z,Y,X\n(1, 4) view X; memory Z,Y,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_26"
+    },
+    "FOOD_TRUCK_26_1": {
+        "trajectory": "A*Z**\nWWWW*\nM****\nWWWW*\n*X*Y*\n (0, 0)\n(1, 0) view Z; memory Z\n(2, 0) view Z; memory Z\n(3, 0) view Z; memory Z\n(4, 0) memory Z\n(4, 1) memory Z\n(4, 2) memory Z\n(4, 3) view Y; memory Z,Y\n(4, 4) view Y; memory Z,Y\n(3, 4) view Y; memory Z,Y\n(2, 4) view X,Y; memory Z,Y,X\n(3, 4) view Y; memory Z,Y,X\n(4, 4) view Y; memory Z,Y,X\n(4, 3) view Y; memory Z,Y,X\n(4, 2) memory Z,Y,X\n(3, 2) memory Z,Y,X\n(2, 2) memory Z,Y,X\n(1, 2) view M; memory Z,Y,X,M\n(0, 2) view M; memory Z,Y,X,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_26"
+    },
+    "FOOD_TRUCK_26_2": {
+        "trajectory": "A*Z**\nWWWW*\nM****\nWWWW*\n*X*Y*\n (0, 0)\n(1, 0) view Z; memory Z\n(2, 0) view Z; memory Z\n(3, 0) view Z; memory Z\n(4, 0) memory Z\n(4, 1) memory Z\n(4, 2) memory Z\n(4, 3) view Y; memory Z,Y\n(4, 4) view Y; memory Z,Y\n(3, 4) view Y; memory Z,Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_26"
+    },
+    "FOOD_TRUCK_26_3": {
+        "trajectory": "A*Z**\nWWWW*\nM****\nWWWW*\n*X*Y*\n (0, 0)\n(1, 0) view Z; memory Z\n(2, 0) view Z; memory Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_26"
+    },
+    "FOOD_TRUCK_27_0": {
+        "trajectory": "**WY*\nA*WW*\n*ZWW*\n**WW*\n*X*M*\n (0, 1) view Z; memory Z\n(0, 2) view Z; memory Z\n(0, 3) view X,Z; memory Z,X\n(1, 3) view X,Z; memory Z,X\n(1, 4) view X; memory Z,X\n(2, 4) view X,M; memory Z,X,M\n(3, 4) view M; memory Z,X,M\n(4, 4) view M; memory Z,X,M\n(4, 3) view M; memory Z,X,M\n(4, 2) memory Z,X,M\n(4, 1) view Y; memory Z,X,M,Y\n(4, 0) view Y; memory Z,X,M,Y\n(3, 0) view Y; memory Z,X,M,Y; pick Y",
+        "gt": "Y > { {N,M,X,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_27"
+    },
+    "FOOD_TRUCK_27_1": {
+        "trajectory": "**WY*\nA*WW*\n*ZWW*\n**WW*\n*X*M*\n (0, 1) view Z; memory Z\n(1, 1) view Z; memory Z\n(1, 2) view Z; memory Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_27"
+    },
+    "FOOD_TRUCK_27_2": {
+        "trajectory": "**WY*\nA*WW*\n*ZWW*\n**WW*\n*X*M*\n (0, 1) view Z; memory Z\n(0, 2) view Z; memory Z\n(0, 3) view X,Z; memory Z,X\n(1, 3) view X,Z; memory Z,X\n(1, 4) view X; memory Z,X\n(2, 4) view X,M; memory Z,X,M\n(3, 4) view M; memory Z,X,M\n(4, 4) view M; memory Z,X,M\n(4, 3) view M; memory Z,X,M\n(4, 2) memory Z,X,M\n(4, 1) view Y; memory Z,X,M,Y\n(4, 2) memory Z,X,M,Y\n(4, 3) view M; memory Z,X,M,Y\n(4, 4) view M; memory Z,X,M,Y\n(3, 4) view M; memory Z,X,M,Y\n(2, 4) view X,M; memory Z,X,M,Y\n(1, 4) view X; memory Z,X,M,Y\n(1, 3) view X,Z; memory Z,X,M,Y\n(1, 2) view Z; memory Z,X,M,Y; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_27"
+    },
+    "FOOD_TRUCK_27_3": {
+        "trajectory": "**WY*\nA*WW*\n*ZWW*\n**WW*\n*X*M*\n (0, 1) view Z; memory Z\n(0, 2) view Z; memory Z\n(0, 3) view X,Z; memory Z,X\n(1, 3) view X,Z; memory Z,X\n(1, 4) view X; memory Z,X\n(2, 4) view X,M; memory Z,X,M\n(3, 4) view M; memory Z,X,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_27"
+    },
+    "FOOD_TRUCK_27_4": {
+        "trajectory": "**WY*\nA*WW*\n*ZWW*\n**WW*\n*X*M*\n (0, 1) view Z; memory Z\n(0, 2) view Z; memory Z\n(0, 3) view X,Z; memory Z,X\n(1, 3) view X,Z; memory Z,X\n(1, 4) view X; memory Z,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_27"
+    },
+    "FOOD_TRUCK_28_0": {
+        "trajectory": "X***M\nWWW**\nWWWWY\nAZ***\n*****\n (0, 3) view Z; memory Z\n(1, 3) view Z; memory Z\n(2, 3) view Z; memory Z\n(3, 3) view Y; memory Z,Y\n(4, 3) view Y; memory Z,Y\n(4, 2) view Y; memory Z,Y\n(4, 1) view Y,M; memory Z,Y,M\n(4, 0) view M; memory Z,Y,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_28"
+    },
+    "FOOD_TRUCK_28_1": {
+        "trajectory": "X***M\nWWW**\nWWWWY\nAZ***\n*****\n (0, 3) view Z; memory Z\n(1, 3) view Z; memory Z\n(2, 3) view Z; memory Z\n(3, 3) view Y; memory Z,Y\n(4, 3) view Y; memory Z,Y\n(4, 2) view Y; memory Z,Y\n(4, 1) view Y,M; memory Z,Y,M\n(4, 0) view M; memory Z,Y,M\n(3, 0) view M; memory Z,Y,M\n(2, 0) memory Z,Y,M\n(1, 0) view X; memory Z,Y,M,X\n(2, 0) memory Z,Y,M,X\n(3, 0) view M; memory Z,Y,M,X\n(4, 0) view M; memory Z,Y,M,X\n(4, 1) view Y,M; memory Z,Y,M,X\n(4, 2) view Y; memory Z,Y,M,X; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_28"
+    },
+    "FOOD_TRUCK_28_2": {
+        "trajectory": "X***M\nWWW**\nWWWWY\nAZ***\n*****\n (0, 3) view Z; memory Z\n(1, 3) view Z; memory Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_28"
+    },
+    "FOOD_TRUCK_28_3": {
+        "trajectory": "X***M\nWWW**\nWWWWY\nAZ***\n*****\n (0, 3) view Z; memory Z\n(1, 3) view Z; memory Z\n(2, 3) view Z; memory Z\n(3, 3) view Y; memory Z,Y\n(4, 3) view Y; memory Z,Y\n(4, 2) view Y; memory Z,Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_28"
+    },
+    "FOOD_TRUCK_28_4": {
+        "trajectory": "X***M\nWWW**\nWWWWY\nAZ***\n*****\n (0, 3) view Z; memory Z\n(1, 3) view Z; memory Z\n(2, 3) view Z; memory Z\n(3, 3) view Y; memory Z,Y\n(4, 3) view Y; memory Z,Y\n(4, 2) view Y; memory Z,Y\n(4, 1) view Y,M; memory Z,Y,M\n(4, 0) view M; memory Z,Y,M\n(3, 0) view M; memory Z,Y,M\n(2, 0) memory Z,Y,M\n(1, 0) view X; memory Z,Y,M,X\n(0, 0) view X; memory Z,Y,M,X; pick X",
+        "gt": "X > { {N,M,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_28"
+    },
+    "FOOD_TRUCK_29_0": {
+        "trajectory": "***WX\n*M*W*\n**AWY\n**Z**\nWWWW*\n (2, 2) view Z,M; memory Z,M\n(2, 3) view Z; memory Z,M\n(3, 3) view Y,Z; memory Z,M,Y\n(4, 3) view Y; memory Z,M,Y\n(4, 2) view Y; memory Z,M,Y\n(4, 1) view X,Y; memory Z,M,Y,X\n(4, 0) view X; memory Z,M,Y,X; pick X",
+        "gt": "X > { {N,M,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_29"
+    },
+    "FOOD_TRUCK_29_1": {
+        "trajectory": "***WX\n*M*W*\n**AWY\n**Z**\nWWWW*\n (2, 2) view Z,M; memory Z,M\n(2, 1) view M; memory Z,M\n(1, 1) view M; memory Z,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_29"
+    },
+    "FOOD_TRUCK_29_2": {
+        "trajectory": "***WX\n*M*W*\n**AWY\n**Z**\nWWWW*\n (2, 2) view Z,M; memory Z,M\n(2, 3) view Z; memory Z,M\n(3, 3) view Y,Z; memory Z,M,Y\n(4, 3) view Y; memory Z,M,Y\n(4, 2) view Y; memory Z,M,Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_29"
+    },
+    "FOOD_TRUCK_29_3": {
+        "trajectory": "***WX\n*M*W*\n**AWY\n**Z**\nWWWW*\n (2, 2) view Z,M; memory Z,M\n(2, 3) view Z; memory Z,M; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_29"
+    },
+    "FOOD_TRUCK_29_4": {
+        "trajectory": "***WX\n*M*W*\n**AWY\n**Z**\nWWWW*\n (2, 2) view Z,M; memory Z,M\n(2, 3) view Z; memory Z,M\n(3, 3) view Y,Z; memory Z,M,Y\n(4, 3) view Y; memory Z,M,Y\n(4, 2) view Y; memory Z,M,Y\n(4, 1) view X,Y; memory Z,M,Y,X\n(4, 2) view Y; memory Z,M,Y,X\n(4, 3) view Y; memory Z,M,Y,X\n(3, 3) view Y,Z; memory Z,M,Y,X\n(2, 3) view Z; memory Z,M,Y,X; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_29"
+    },
+    "FOOD_TRUCK_30_0": {
+        "trajectory": "*WWW*\nYWW**\n**A*X\n*Z***\n**M**\n (2, 2) view Z; memory Z\n(3, 2) view X; memory Z,X\n(3, 3) view X,M; memory Z,X,M\n(3, 4) view M; memory Z,X,M\n(2, 4) view Z,M; memory Z,X,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_30"
+    },
+    "FOOD_TRUCK_30_1": {
+        "trajectory": "*WWW*\nYWW**\n**A*X\n*Z***\n**M**\n (2, 2) view Z; memory Z\n(3, 2) view X; memory Z,X\n(3, 3) view X,M; memory Z,X,M\n(3, 2) view X; memory Z,X,M\n(2, 2) view Z; memory Z,X,M\n(1, 2) view Y,Z; memory Z,X,M,Y\n(1, 3) view Z,M; memory Z,X,M,Y; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_30"
+    },
+    "FOOD_TRUCK_30_2": {
+        "trajectory": "*WWW*\nYWW**\n**A*X\n*Z***\n**M**\n (2, 2) view Z; memory Z\n(3, 2) view X; memory Z,X\n(3, 3) view X,M; memory Z,X,M\n(3, 2) view X; memory Z,X,M\n(2, 2) view Z; memory Z,X,M\n(1, 2) view Y,Z; memory Z,X,M,Y\n(0, 2) view Y,Z; memory Z,X,M,Y\n(0, 1) view Y; memory Z,X,M,Y; pick Y",
+        "gt": "Y > { {N,M,X,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_30"
+    },
+    "FOOD_TRUCK_30_3": {
+        "trajectory": "*WWW*\nYWW**\n**A*X\n*Z***\n**M**\n (2, 2) view Z; memory Z\n(2, 3) view Z,M; memory Z,M\n(1, 3) view Z,M; memory Z,M; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_30"
+    },
+    "FOOD_TRUCK_30_4": {
+        "trajectory": "*WWW*\nYWW**\n**A*X\n*Z***\n**M**\n (2, 2) view Z; memory Z\n(3, 2) view X; memory Z,X\n(4, 2) view X; memory Z,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_30"
+    },
+    "FOOD_TRUCK_31_0": {
+        "trajectory": "*W**Z\nWWWM*\n*W**Y\n*****\n*X**A\n (4, 4)\n(4, 3) view Y; memory Y\n(4, 2) view Y,M; memory Y,M\n(4, 1) view Y,Z,M; memory Y,M,Z\n(4, 2) view Y,M; memory Y,M,Z\n(4, 3) view Y; memory Y,M,Z\n(3, 3) view Y; memory Y,M,Z\n(2, 3) view X; memory Y,M,Z,X\n(2, 4) view X; memory Y,M,Z,X\n(1, 4) view X; memory Y,M,Z,X; pick X",
+        "gt": "X > { {N,M,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_31"
+    },
+    "FOOD_TRUCK_31_1": {
+        "trajectory": "*W**Z\nWWWM*\n*W**Y\n*****\n*X**A\n (4, 4)\n(4, 3) view Y; memory Y\n(4, 2) view Y,M; memory Y,M\n(4, 1) view Y,Z,M; memory Y,M,Z\n(4, 2) view Y,M; memory Y,M,Z\n(4, 3) view Y; memory Y,M,Z\n(3, 3) view Y; memory Y,M,Z\n(2, 3) view X; memory Y,M,Z,X\n(2, 2) view M; memory Y,M,Z,X\n(3, 2) view Y,M; memory Y,M,Z,X\n(3, 1) view Y,Z,M; memory Y,M,Z,X\n(3, 0) view Z,M; memory Y,M,Z,X\n(4, 0) view Z,M; memory Y,M,Z,X; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_31"
+    },
+    "FOOD_TRUCK_31_2": {
+        "trajectory": "*W**Z\nWWWM*\n*W**Y\n*****\n*X**A\n (4, 4)\n(4, 3) view Y; memory Y\n(4, 2) view Y,M; memory Y,M\n(4, 1) view Y,Z,M; memory Y,M,Z\n(3, 1) view Y,Z,M; memory Y,M,Z; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_31"
+    },
+    "FOOD_TRUCK_31_3": {
+        "trajectory": "*W**Z\nWWWM*\n*W**Y\n*****\n*X**A\n (4, 4)\n(4, 3) view Y; memory Y\n(4, 2) view Y,M; memory Y,M\n(4, 1) view Y,Z,M; memory Y,M,Z\n(4, 0) view Z,M; memory Y,M,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_31"
+    },
+    "FOOD_TRUCK_31_4": {
+        "trajectory": "*W**Z\nWWWM*\n*W**Y\n*****\n*X**A\n (4, 4)\n(4, 3) view Y; memory Y\n(4, 2) view Y,M; memory Y,M; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_31"
+    },
+    "FOOD_TRUCK_32_0": {
+        "trajectory": "*A***\nM****\n*WWW*\nWWWWZ\nY*X**\n (1, 0) view M; memory M\n(2, 0) memory M\n(3, 0) memory M\n(4, 0) memory M\n(4, 1) memory M\n(4, 2) view Z; memory M,Z\n(4, 3) view Z; memory M,Z\n(4, 4) view Z; memory M,Z\n(3, 4) view X,Z; memory M,Z,X\n(2, 4) view X; memory M,Z,X\n(1, 4) view X,Y; memory M,Z,X,Y\n(0, 4) view Y; memory M,Z,X,Y; pick Y",
+        "gt": "Y > { {N,M,X,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_32"
+    },
+    "FOOD_TRUCK_32_1": {
+        "trajectory": "*A***\nM****\n*WWW*\nWWWWZ\nY*X**\n (1, 0) view M; memory M\n(2, 0) memory M\n(3, 0) memory M\n(4, 0) memory M\n(4, 1) memory M\n(4, 2) view Z; memory M,Z\n(4, 3) view Z; memory M,Z\n(4, 4) view Z; memory M,Z\n(3, 4) view X,Z; memory M,Z,X\n(2, 4) view X; memory M,Z,X\n(1, 4) view X,Y; memory M,Z,X,Y\n(2, 4) view X; memory M,Z,X,Y; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_32"
+    },
+    "FOOD_TRUCK_32_2": {
+        "trajectory": "*A***\nM****\n*WWW*\nWWWWZ\nY*X**\n (1, 0) view M; memory M\n(2, 0) memory M\n(3, 0) memory M\n(4, 0) memory M\n(4, 1) memory M\n(4, 2) view Z; memory M,Z\n(4, 3) view Z; memory M,Z\n(4, 4) view Z; memory M,Z\n(3, 4) view X,Z; memory M,Z,X\n(2, 4) view X; memory M,Z,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_32"
+    },
+    "FOOD_TRUCK_32_3": {
+        "trajectory": "*A***\nM****\n*WWW*\nWWWWZ\nY*X**\n (1, 0) view M; memory M\n(1, 1) view M; memory M\n(0, 1) view M; memory M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_32"
+    },
+    "FOOD_TRUCK_32_4": {
+        "trajectory": "*A***\nM****\n*WWW*\nWWWWZ\nY*X**\n (1, 0) view M; memory M\n(2, 0) memory M\n(3, 0) memory M\n(4, 0) memory M\n(4, 1) memory M\n(4, 2) view Z; memory M,Z\n(4, 3) view Z; memory M,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_32"
+    },
+    "FOOD_TRUCK_33_0": {
+        "trajectory": "WWWW*\nYWWW*\n*****\n**AX*\n*Z**M\n (2, 3) view X,Z; memory X,Z\n(3, 3) view X,M; memory X,Z,M; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_33"
+    },
+    "FOOD_TRUCK_33_1": {
+        "trajectory": "WWWW*\nYWWW*\n*****\n**AX*\n*Z**M\n (2, 3) view X,Z; memory X,Z\n(3, 3) view X,M; memory X,Z,M\n(3, 2) view X; memory X,Z,M\n(2, 2) view X; memory X,Z,M\n(1, 2) view Y; memory X,Z,M,Y\n(0, 2) view Y; memory X,Z,M,Y\n(0, 1) view Y; memory X,Z,M,Y; pick Y",
+        "gt": "Y > { {N,M,X,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_33"
+    },
+    "FOOD_TRUCK_33_2": {
+        "trajectory": "WWWW*\nYWWW*\n*****\n**AX*\n*Z**M\n (2, 3) view X,Z; memory X,Z\n(2, 4) view X,Z; memory X,Z\n(1, 4) view Z; memory X,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_33"
+    },
+    "FOOD_TRUCK_33_3": {
+        "trajectory": "WWWW*\nYWWW*\n*****\n**AX*\n*Z**M\n (2, 3) view X,Z; memory X,Z\n(3, 3) view X,M; memory X,Z,M\n(4, 3) view X,M; memory X,Z,M\n(4, 4) view X,M; memory X,Z,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_33"
+    },
+    "FOOD_TRUCK_33_4": {
+        "trajectory": "WWWW*\nYWWW*\n*****\n**AX*\n*Z**M\n (2, 3) view X,Z; memory X,Z\n(3, 3) view X,M; memory X,Z,M\n(3, 2) view X; memory X,Z,M\n(2, 2) view X; memory X,Z,M\n(1, 2) view Y; memory X,Z,M,Y\n(1, 3) view Z; memory X,Z,M,Y\n(1, 4) view Z; memory X,Z,M,Y; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_33"
+    },
+    "FOOD_TRUCK_34_0": {
+        "trajectory": "****W\nA*WXW\n*YW**\n*****\nZ*M**\n (0, 1) view Y; memory Y\n(0, 2) view Y; memory Y\n(0, 3) view Y,Z; memory Y,Z\n(1, 3) view Y,Z,M; memory Y,Z,M\n(2, 3) view Y,M; memory Y,Z,M\n(3, 3) view M; memory Y,Z,M\n(3, 2) view X; memory Y,Z,M,X\n(3, 1) view X; memory Y,Z,M,X; pick X",
+        "gt": "X > { {N,M,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_34"
+    },
+    "FOOD_TRUCK_34_1": {
+        "trajectory": "****W\nA*WXW\n*YW**\n*****\nZ*M**\n (0, 1) view Y; memory Y\n(1, 1) view Y; memory Y\n(1, 2) view Y; memory Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_34"
+    },
+    "FOOD_TRUCK_34_2": {
+        "trajectory": "****W\nA*WXW\n*YW**\n*****\nZ*M**\n (0, 1) view Y; memory Y\n(0, 2) view Y; memory Y\n(0, 3) view Y,Z; memory Y,Z\n(1, 3) view Y,Z,M; memory Y,Z,M\n(2, 3) view Y,M; memory Y,Z,M\n(2, 4) view M; memory Y,Z,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_34"
+    },
+    "FOOD_TRUCK_34_3": {
+        "trajectory": "****W\nA*WXW\n*YW**\n*****\nZ*M**\n (0, 1) view Y; memory Y\n(0, 2) view Y; memory Y\n(0, 3) view Y,Z; memory Y,Z\n(0, 4) view Z; memory Y,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_34"
+    },
+    "FOOD_TRUCK_34_4": {
+        "trajectory": "****W\nA*WXW\n*YW**\n*****\nZ*M**\n (0, 1) view Y; memory Y\n(0, 2) view Y; memory Y\n(0, 3) view Y,Z; memory Y,Z\n(1, 3) view Y,Z,M; memory Y,Z,M\n(2, 3) view Y,M; memory Y,Z,M\n(3, 3) view M; memory Y,Z,M\n(3, 2) view X; memory Y,Z,M,X\n(3, 3) view M; memory Y,Z,M,X\n(3, 4) view M; memory Y,Z,M,X\n(2, 4) view M; memory Y,Z,M,X\n(1, 4) view Z,M; memory Y,Z,M,X\n(0, 4) view Z; memory Y,Z,M,X; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_34"
+    },
+    "FOOD_TRUCK_35_0": {
+        "trajectory": "*XW*W\n**W*W\n**WZW\nY*M**\n***A*\n (3, 4) view M; memory M\n(3, 3) view Z,M; memory M,Z\n(2, 3) view Z,M; memory M,Z\n(1, 3) view Y,M; memory M,Z,Y\n(0, 3) view Y; memory M,Z,Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_35"
+    },
+    "FOOD_TRUCK_35_1": {
+        "trajectory": "*XW*W\n**W*W\n**WZW\nY*M**\n***A*\n (3, 4) view M; memory M\n(3, 3) view Z,M; memory M,Z\n(2, 3) view Z,M; memory M,Z; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_35"
+    },
+    "FOOD_TRUCK_35_2": {
+        "trajectory": "*XW*W\n**W*W\n**WZW\nY*M**\n***A*\n (3, 4) view M; memory M\n(3, 3) view Z,M; memory M,Z\n(2, 3) view Z,M; memory M,Z\n(1, 3) view Y,M; memory M,Z,Y\n(1, 2) view Y,M; memory M,Z,Y\n(1, 1) view X; memory M,Z,Y,X\n(1, 0) view X; memory M,Z,Y,X; pick X",
+        "gt": "X > { {N,M,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_35"
+    },
+    "FOOD_TRUCK_35_3": {
+        "trajectory": "*XW*W\n**W*W\n**WZW\nY*M**\n***A*\n (3, 4) view M; memory M\n(3, 3) view Z,M; memory M,Z\n(2, 3) view Z,M; memory M,Z\n(1, 3) view Y,M; memory M,Z,Y\n(1, 2) view Y,M; memory M,Z,Y\n(1, 1) view X; memory M,Z,Y,X\n(1, 2) view Y,M; memory M,Z,Y,X\n(1, 3) view Y,M; memory M,Z,Y,X\n(2, 3) view Z,M; memory M,Z,Y,X\n(3, 3) view Z,M; memory M,Z,Y,X\n(3, 2) view Z,M; memory M,Z,Y,X; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_35"
+    },
+    "FOOD_TRUCK_35_4": {
+        "trajectory": "*XW*W\n**W*W\n**WZW\nY*M**\n***A*\n (3, 4) view M; memory M\n(3, 3) view Z,M; memory M,Z\n(3, 2) view Z,M; memory M,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_35"
+    },
+    "FOOD_TRUCK_36_0": {
+        "trajectory": "***Y*\n**Z**\n**A**\n*WWW*\n*X**M\n (2, 2) view Z; memory Z\n(2, 1) view Y,Z; memory Z,Y\n(2, 0) view Y,Z; memory Z,Y\n(3, 0) view Y,Z; memory Z,Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_36"
+    },
+    "FOOD_TRUCK_36_1": {
+        "trajectory": "***Y*\n**Z**\n**A**\n*WWW*\n*X**M\n (2, 2) view Z; memory Z\n(2, 1) view Y,Z; memory Z,Y; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_36"
+    },
+    "FOOD_TRUCK_36_2": {
+        "trajectory": "***Y*\n**Z**\n**A**\n*WWW*\n*X**M\n (2, 2) view Z; memory Z\n(2, 1) view Y,Z; memory Z,Y\n(2, 2) view Z; memory Z,Y\n(1, 2) view Z; memory Z,Y\n(0, 2) memory Z,Y\n(0, 3) view X; memory Z,Y,X\n(0, 4) view X; memory Z,Y,X\n(1, 4) view X; memory Z,Y,X\n(2, 4) view X; memory Z,Y,X\n(3, 4) view M; memory Z,Y,X,M\n(4, 4) view M; memory Z,Y,X,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_36"
+    },
+    "FOOD_TRUCK_36_3": {
+        "trajectory": "***Y*\n**Z**\n**A**\n*WWW*\n*X**M\n (2, 2) view Z; memory Z\n(2, 1) view Y,Z; memory Z,Y\n(2, 2) view Z; memory Z,Y\n(1, 2) view Z; memory Z,Y\n(0, 2) memory Z,Y\n(0, 3) view X; memory Z,Y,X\n(0, 4) view X; memory Z,Y,X\n(1, 4) view X; memory Z,Y,X\n(2, 4) view X; memory Z,Y,X\n(3, 4) view M; memory Z,Y,X,M\n(2, 4) view X; memory Z,Y,X,M\n(1, 4) view X; memory Z,Y,X,M; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_36"
+    },
+    "FOOD_TRUCK_36_4": {
+        "trajectory": "***Y*\n**Z**\n**A**\n*WWW*\n*X**M\n (2, 2) view Z; memory Z\n(2, 1) view Y,Z; memory Z,Y\n(2, 2) view Z; memory Z,Y\n(1, 2) view Z; memory Z,Y\n(0, 2) memory Z,Y\n(0, 3) view X; memory Z,Y,X\n(0, 4) view X; memory Z,Y,X\n(1, 4) view X; memory Z,Y,X\n(2, 4) view X; memory Z,Y,X\n(3, 4) view M; memory Z,Y,X,M\n(4, 4) view M; memory Z,Y,X,M\n(4, 3) view M; memory Z,Y,X,M\n(4, 2) memory Z,Y,X,M\n(4, 1) view Y; memory Z,Y,X,M\n(3, 1) view Y,Z; memory Z,Y,X,M\n(2, 1) view Y,Z; memory Z,Y,X,M; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_36"
+    },
+    "FOOD_TRUCK_37_0": {
+        "trajectory": "Z**WM\n*AWW*\n***W*\n**XW*\n***Y*\n (1, 1) view Z; memory Z\n(1, 2) view X; memory Z,X\n(2, 2) view X; memory Z,X\n(2, 3) view X,Y; memory Z,X,Y; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_37"
+    },
+    "FOOD_TRUCK_37_1": {
+        "trajectory": "Z**WM\n*AWW*\n***W*\n**XW*\n***Y*\n (1, 1) view Z; memory Z\n(1, 2) view X; memory Z,X\n(2, 2) view X; memory Z,X\n(2, 3) view X,Y; memory Z,X,Y\n(2, 4) view X,Y; memory Z,X,Y\n(3, 4) view X,Y; memory Z,X,Y\n(4, 4) view Y; memory Z,X,Y\n(4, 3) view Y; memory Z,X,Y\n(4, 2) memory Z,X,Y\n(4, 1) view M; memory Z,X,Y,M\n(4, 0) view M; memory Z,X,Y,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_37"
+    },
+    "FOOD_TRUCK_37_2": {
+        "trajectory": "Z**WM\n*AWW*\n***W*\n**XW*\n***Y*\n (1, 1) view Z; memory Z\n(1, 2) view X; memory Z,X\n(2, 2) view X; memory Z,X\n(2, 3) view X,Y; memory Z,X,Y\n(2, 4) view X,Y; memory Z,X,Y\n(3, 4) view X,Y; memory Z,X,Y\n(4, 4) view Y; memory Z,X,Y\n(4, 3) view Y; memory Z,X,Y\n(4, 2) memory Z,X,Y\n(4, 1) view M; memory Z,X,Y,M\n(4, 2) memory Z,X,Y,M\n(4, 3) view Y; memory Z,X,Y,M\n(4, 4) view Y; memory Z,X,Y,M\n(3, 4) view X,Y; memory Z,X,Y,M\n(2, 4) view X,Y; memory Z,X,Y,M\n(2, 3) view X,Y; memory Z,X,Y,M\n(2, 2) view X; memory Z,X,Y,M\n(1, 2) view X; memory Z,X,Y,M\n(1, 1) view Z; memory Z,X,Y,M\n(1, 0) view Z; memory Z,X,Y,M\n(0, 0) view Z; memory Z,X,Y,M; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_37"
+    },
+    "FOOD_TRUCK_37_3": {
+        "trajectory": "Z**WM\n*AWW*\n***W*\n**XW*\n***Y*\n (1, 1) view Z; memory Z\n(1, 2) view X; memory Z,X\n(2, 2) view X; memory Z,X\n(2, 3) view X,Y; memory Z,X,Y\n(2, 4) view X,Y; memory Z,X,Y\n(3, 4) view X,Y; memory Z,X,Y\n(4, 4) view Y; memory Z,X,Y\n(4, 3) view Y; memory Z,X,Y\n(4, 2) memory Z,X,Y\n(4, 1) view M; memory Z,X,Y,M\n(4, 2) memory Z,X,Y,M\n(4, 3) view Y; memory Z,X,Y,M\n(4, 4) view Y; memory Z,X,Y,M\n(3, 4) view X,Y; memory Z,X,Y,M; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_37"
+    },
+    "FOOD_TRUCK_37_4": {
+        "trajectory": "Z**WM\n*AWW*\n***W*\n**XW*\n***Y*\n (1, 1) view Z; memory Z\n(1, 2) view X; memory Z,X\n(2, 2) view X; memory Z,X\n(2, 3) view X,Y; memory Z,X,Y\n(2, 4) view X,Y; memory Z,X,Y\n(3, 4) view X,Y; memory Z,X,Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_37"
+    },
+    "FOOD_TRUCK_38_0": {
+        "trajectory": "Y***Z\nWWWW*\nW*M*A\n*X***\n*****\n (4, 2)\n(4, 1) view Z; memory Z\n(4, 0) view Z; memory Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_38"
+    },
+    "FOOD_TRUCK_38_1": {
+        "trajectory": "Y***Z\nWWWW*\nW*M*A\n*X***\n*****\n (4, 2)\n(4, 1) view Z; memory Z\n(4, 2) memory Z\n(3, 2) view M; memory Z,M\n(2, 2) view X,M; memory Z,M,X; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_38"
+    },
+    "FOOD_TRUCK_38_2": {
+        "trajectory": "Y***Z\nWWWW*\nW*M*A\n*X***\n*****\n (4, 2)\n(4, 1) view Z; memory Z\n(4, 2) memory Z\n(3, 2) view M; memory Z,M\n(2, 2) view X,M; memory Z,M,X\n(2, 3) view X,M; memory Z,M,X\n(1, 3) view X,M; memory Z,M,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_38"
+    },
+    "FOOD_TRUCK_39_0": {
+        "trajectory": "***Y*\n*ZA**\n**X**\nWWWW*\nM****\n (2, 1) view X,Y,Z; memory X,Y,Z\n(3, 1) view X,Y; memory X,Y,Z\n(4, 1) view Y; memory X,Y,Z\n(4, 2) memory X,Y,Z\n(4, 3) memory X,Y,Z\n(4, 4) memory X,Y,Z\n(3, 4) memory X,Y,Z\n(2, 4) memory X,Y,Z\n(1, 4) view M; memory X,Y,Z,M\n(0, 4) view M; memory X,Y,Z,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_39"
+    },
+    "FOOD_TRUCK_39_1": {
+        "trajectory": "***Y*\n*ZA**\n**X**\nWWWW*\nM****\n (2, 1) view X,Y,Z; memory X,Y,Z\n(1, 1) view X,Z; memory X,Y,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_39"
+    },
+    "FOOD_TRUCK_39_2": {
+        "trajectory": "***Y*\n*ZA**\n**X**\nWWWW*\nM****\n (2, 1) view X,Y,Z; memory X,Y,Z\n(2, 0) view Y,Z; memory X,Y,Z\n(3, 0) view Y; memory X,Y,Z; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_39"
+    },
+    "FOOD_TRUCK_39_3": {
+        "trajectory": "***Y*\n*ZA**\n**X**\nWWWW*\nM****\n (2, 1) view X,Y,Z; memory X,Y,Z\n(3, 1) view X,Y; memory X,Y,Z\n(4, 1) view Y; memory X,Y,Z\n(4, 2) memory X,Y,Z\n(4, 3) memory X,Y,Z\n(4, 4) memory X,Y,Z\n(3, 4) memory X,Y,Z\n(2, 4) memory X,Y,Z\n(1, 4) view M; memory X,Y,Z,M\n(2, 4) memory X,Y,Z,M\n(3, 4) memory X,Y,Z,M\n(4, 4) memory X,Y,Z,M\n(4, 3) memory X,Y,Z,M\n(4, 2) memory X,Y,Z,M\n(4, 1) view Y; memory X,Y,Z,M\n(4, 0) view Y; memory X,Y,Z,M\n(3, 0) view Y; memory X,Y,Z,M; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_39"
+    },
+    "FOOD_TRUCK_39_4": {
+        "trajectory": "***Y*\n*ZA**\n**X**\nWWWW*\nM****\n (2, 1) view X,Y,Z; memory X,Y,Z\n(2, 2) view X,Z; memory X,Y,Z; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_39"
+    },
+    "FOOD_TRUCK_40_0": {
+        "trajectory": "W***X\nW****\nW*ZA*\nWWWW*\nM*Y**\n (3, 2) view Z; memory Z\n(3, 1) view X,Z; memory Z,X\n(3, 0) view X; memory Z,X\n(4, 0) view X; memory Z,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_40"
+    },
+    "FOOD_TRUCK_40_1": {
+        "trajectory": "W***X\nW****\nW*ZA*\nWWWW*\nM*Y**\n (3, 2) view Z; memory Z\n(3, 1) view X,Z; memory Z,X\n(4, 1) view X; memory Z,X\n(4, 2) memory Z,X\n(4, 3) memory Z,X\n(4, 4) memory Z,X\n(3, 4) view Y; memory Z,X,Y\n(2, 4) view Y; memory Z,X,Y\n(1, 4) view Y,M; memory Z,X,Y,M\n(0, 4) view M; memory Z,X,Y,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_40"
+    },
+    "FOOD_TRUCK_40_2": {
+        "trajectory": "W***X\nW****\nW*ZA*\nWWWW*\nM*Y**\n (3, 2) view Z; memory Z\n(2, 2) view Z; memory Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_40"
+    },
+    "FOOD_TRUCK_40_3": {
+        "trajectory": "W***X\nW****\nW*ZA*\nWWWW*\nM*Y**\n (3, 2) view Z; memory Z\n(3, 1) view X,Z; memory Z,X\n(4, 1) view X; memory Z,X\n(4, 2) memory Z,X\n(4, 3) memory Z,X\n(4, 4) memory Z,X\n(3, 4) view Y; memory Z,X,Y\n(2, 4) view Y; memory Z,X,Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_40"
+    },
+    "FOOD_TRUCK_40_4": {
+        "trajectory": "W***X\nW****\nW*ZA*\nWWWW*\nM*Y**\n (3, 2) view Z; memory Z\n(3, 1) view X,Z; memory Z,X\n(4, 1) view X; memory Z,X\n(4, 2) memory Z,X\n(4, 3) memory Z,X\n(4, 4) memory Z,X\n(3, 4) view Y; memory Z,X,Y\n(2, 4) view Y; memory Z,X,Y\n(1, 4) view Y,M; memory Z,X,Y,M\n(2, 4) view Y; memory Z,X,Y,M\n(3, 4) view Y; memory Z,X,Y,M\n(4, 4) memory Z,X,Y,M\n(4, 3) memory Z,X,Y,M\n(4, 2) memory Z,X,Y,M\n(4, 1) view X; memory Z,X,Y,M\n(4, 0) view X; memory Z,X,Y,M; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_40"
+    },
+    "FOOD_TRUCK_41_0": {
+        "trajectory": "*WW*X\n*WW**\n*WWAM\n*WWZ*\nY****\n (3, 2) view Z,M; memory Z,M\n(4, 2) view Z,M; memory Z,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_41"
+    },
+    "FOOD_TRUCK_41_1": {
+        "trajectory": "*WW*X\n*WW**\n*WWAM\n*WWZ*\nY****\n (3, 2) view Z,M; memory Z,M\n(3, 1) view X,M; memory Z,M,X\n(3, 0) view X; memory Z,M,X\n(4, 0) view X; memory Z,M,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_41"
+    },
+    "FOOD_TRUCK_41_2": {
+        "trajectory": "*WW*X\n*WW**\n*WWAM\n*WWZ*\nY****\n (3, 2) view Z,M; memory Z,M\n(3, 3) view Z,M; memory Z,M; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_41"
+    },
+    "FOOD_TRUCK_41_3": {
+        "trajectory": "*WW*X\n*WW**\n*WWAM\n*WWZ*\nY****\n (3, 2) view Z,M; memory Z,M\n(3, 1) view X,M; memory Z,M,X\n(3, 2) view Z,M; memory Z,M,X\n(3, 3) view Z,M; memory Z,M,X\n(3, 4) view Z; memory Z,M,X\n(2, 4) view Z; memory Z,M,X\n(1, 4) view Y; memory Z,M,X,Y\n(0, 4) view Y; memory Z,M,X,Y; pick Y",
+        "gt": "Y > { {N,M,X,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_41"
+    },
+    "FOOD_TRUCK_41_4": {
+        "trajectory": "*WW*X\n*WW**\n*WWAM\n*WWZ*\nY****\n (3, 2) view Z,M; memory Z,M\n(3, 1) view X,M; memory Z,M,X\n(3, 2) view Z,M; memory Z,M,X\n(3, 3) view Z,M; memory Z,M,X\n(3, 4) view Z; memory Z,M,X\n(2, 4) view Z; memory Z,M,X\n(1, 4) view Y; memory Z,M,X,Y\n(2, 4) view Z; memory Z,M,X,Y\n(3, 4) view Z; memory Z,M,X,Y\n(3, 3) view Z,M; memory Z,M,X,Y; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_41"
+    },
+    "FOOD_TRUCK_42_0": {
+        "trajectory": "***M*\nAW***\n*W**X\n**Y**\n*WWZ*\n (0, 1)\n(0, 2)\n(0, 3)\n(1, 3) view Y; memory Y\n(2, 3) view Y,Z; memory Y,Z; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_42"
+    },
+    "FOOD_TRUCK_42_1": {
+        "trajectory": "***M*\nAW***\n*W**X\n**Y**\n*WWZ*\n (0, 1)\n(0, 2)\n(0, 3)\n(1, 3) view Y; memory Y\n(2, 3) view Y,Z; memory Y,Z\n(3, 3) view X,Y,Z; memory Y,Z,X\n(3, 2) view X,Y; memory Y,Z,X\n(4, 2) view X; memory Y,Z,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_42"
+    },
+    "FOOD_TRUCK_42_2": {
+        "trajectory": "***M*\nAW***\n*W**X\n**Y**\n*WWZ*\n (0, 1)\n(0, 2)\n(0, 3)\n(1, 3) view Y; memory Y\n(2, 3) view Y,Z; memory Y,Z\n(3, 3) view X,Y,Z; memory Y,Z,X\n(3, 4) view Y,Z; memory Y,Z,X; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_42"
+    },
+    "FOOD_TRUCK_42_3": {
+        "trajectory": "***M*\nAW***\n*W**X\n**Y**\n*WWZ*\n (0, 1)\n(0, 2)\n(0, 3)\n(1, 3) view Y; memory Y\n(2, 3) view Y,Z; memory Y,Z\n(3, 3) view X,Y,Z; memory Y,Z,X\n(3, 2) view X,Y; memory Y,Z,X\n(3, 1) view X,M; memory Y,Z,X,M\n(3, 0) view M; memory Y,Z,X,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_42"
+    },
+    "FOOD_TRUCK_42_4": {
+        "trajectory": "***M*\nAW***\n*W**X\n**Y**\n*WWZ*\n (0, 1)\n(0, 2)\n(0, 3)\n(1, 3) view Y; memory Y\n(2, 3) view Y,Z; memory Y,Z\n(3, 3) view X,Y,Z; memory Y,Z,X\n(3, 2) view X,Y; memory Y,Z,X\n(3, 1) view X,M; memory Y,Z,X,M\n(3, 2) view X,Y; memory Y,Z,X,M\n(3, 3) view X,Y,Z; memory Y,Z,X,M\n(2, 3) view Y,Z; memory Y,Z,X,M; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_42"
+    },
+    "FOOD_TRUCK_43_0": {
+        "trajectory": "***Z*\n*****\nYW***\nWWWWA\n*X*M*\n (4, 3) view M; memory M\n(4, 2) memory M\n(4, 1) view Z; memory M,Z\n(3, 1) view Z; memory M,Z\n(2, 1) view Z; memory M,Z\n(1, 1) view Y; memory M,Z,Y\n(0, 1) view Y; memory M,Z,Y\n(0, 2) view Y; memory M,Z,Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_43"
+    },
+    "FOOD_TRUCK_43_1": {
+        "trajectory": "***Z*\n*****\nYW***\nWWWWA\n*X*M*\n (4, 3) view M; memory M\n(4, 2) memory M\n(4, 1) view Z; memory M,Z\n(3, 1) view Z; memory M,Z\n(2, 1) view Z; memory M,Z\n(1, 1) view Y; memory M,Z,Y\n(2, 1) view Z; memory M,Z,Y\n(3, 1) view Z; memory M,Z,Y\n(4, 1) view Z; memory M,Z,Y\n(4, 2) memory M,Z,Y\n(4, 3) view M; memory M,Z,Y\n(4, 4) view M; memory M,Z,Y\n(3, 4) view M; memory M,Z,Y\n(2, 4) view X,M; memory M,Z,Y,X\n(1, 4) view X; memory M,Z,Y,X; pick X",
+        "gt": "X > { {N,M,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_43"
+    },
+    "FOOD_TRUCK_43_2": {
+        "trajectory": "***Z*\n*****\nYW***\nWWWWA\n*X*M*\n (4, 3) view M; memory M\n(4, 4) view M; memory M\n(3, 4) view M; memory M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_43"
+    },
+    "FOOD_TRUCK_43_3": {
+        "trajectory": "***Z*\n*****\nYW***\nWWWWA\n*X*M*\n (4, 3) view M; memory M\n(4, 2) memory M\n(4, 1) view Z; memory M,Z\n(4, 0) view Z; memory M,Z\n(3, 0) view Z; memory M,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_43"
+    },
+    "FOOD_TRUCK_43_4": {
+        "trajectory": "***Z*\n*****\nYW***\nWWWWA\n*X*M*\n (4, 3) view M; memory M\n(4, 2) memory M\n(4, 1) view Z; memory M,Z\n(3, 1) view Z; memory M,Z\n(2, 1) view Z; memory M,Z\n(1, 1) view Y; memory M,Z,Y\n(2, 1) view Z; memory M,Z,Y\n(3, 1) view Z; memory M,Z,Y\n(4, 1) view Z; memory M,Z,Y\n(4, 2) memory M,Z,Y\n(4, 3) view M; memory M,Z,Y\n(4, 4) view M; memory M,Z,Y\n(3, 4) view M; memory M,Z,Y\n(2, 4) view X,M; memory M,Z,Y,X\n(3, 4) view M; memory M,Z,Y,X; pick M",
+        "gt": "N > M > {X,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_43"
+    },
+    "FOOD_TRUCK_44_0": {
+        "trajectory": "**A*X\nM****\nWW***\n*Y***\nZ*WW*\n (2, 0)\n(3, 0) view X; memory X\n(4, 0) view X; memory X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_44"
+    },
+    "FOOD_TRUCK_44_1": {
+        "trajectory": "**A*X\nM****\nWW***\n*Y***\nZ*WW*\n (2, 0)\n(3, 0) view X; memory X\n(2, 0) memory X\n(1, 0) view M; memory X,M\n(1, 1) view M; memory X,M\n(0, 1) view M; memory X,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_44"
+    },
+    "FOOD_TRUCK_45_0": {
+        "trajectory": "***A*\nW**MW\nW*X*W\n*****\nZ***Y\n (3, 0) view M; memory M\n(3, 1) view X,M; memory M,X\n(3, 2) view X,M; memory M,X\n(3, 3) view X,Y; memory M,X,Y\n(2, 3) view X; memory M,X,Y\n(1, 3) view X,Z; memory M,X,Y,Z\n(2, 3) view X; memory M,X,Y,Z\n(3, 3) view X,Y; memory M,X,Y,Z\n(4, 3) view Y; memory M,X,Y,Z\n(4, 4) view Y; memory M,X,Y,Z; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_45"
+    },
+    "FOOD_TRUCK_45_1": {
+        "trajectory": "***A*\nW**MW\nW*X*W\n*****\nZ***Y\n (3, 0) view M; memory M\n(3, 1) view X,M; memory M,X\n(3, 2) view X,M; memory M,X\n(2, 2) view X,M; memory M,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_45"
+    },
+    "FOOD_TRUCK_45_2": {
+        "trajectory": "***A*\nW**MW\nW*X*W\n*****\nZ***Y\n (3, 0) view M; memory M\n(3, 1) view X,M; memory M,X\n(3, 2) view X,M; memory M,X\n(3, 3) view X,Y; memory M,X,Y\n(4, 3) view Y; memory M,X,Y\n(4, 4) view Y; memory M,X,Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_45"
+    },
+    "FOOD_TRUCK_45_3": {
+        "trajectory": "***A*\nW**MW\nW*X*W\n*****\nZ***Y\n (3, 0) view M; memory M\n(3, 1) view X,M; memory M,X; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_45"
+    },
+    "FOOD_TRUCK_45_4": {
+        "trajectory": "***A*\nW**MW\nW*X*W\n*****\nZ***Y\n (3, 0) view M; memory M\n(3, 1) view X,M; memory M,X\n(3, 2) view X,M; memory M,X\n(3, 3) view X,Y; memory M,X,Y\n(2, 3) view X; memory M,X,Y\n(1, 3) view X,Z; memory M,X,Y,Z\n(1, 4) view Z; memory M,X,Y,Z\n(0, 4) view Z; memory M,X,Y,Z; pick Z",
+        "gt": "Z > { {N,M,X,Y}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_45"
+    },
+    "FOOD_TRUCK_46_0": {
+        "trajectory": "WW*W*\nA**W*\n***WY\n*Z***\nM*X**\n (0, 1)\n(0, 2) view Z; memory Z\n(0, 3) view Z,M; memory Z,M\n(1, 3) view X,Z,M; memory Z,M,X\n(2, 3) view X,Z; memory Z,M,X\n(3, 3) view X,Y; memory Z,M,X,Y\n(4, 3) view Y; memory Z,M,X,Y\n(4, 2) view Y; memory Z,M,X,Y; pick Y",
+        "gt": "Y > { {N,M,X,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_46"
+    },
+    "FOOD_TRUCK_46_1": {
+        "trajectory": "WW*W*\nA**W*\n***WY\n*Z***\nM*X**\n (0, 1)\n(0, 2) view Z; memory Z\n(1, 2) view Z; memory Z\n(1, 3) view X,Z,M; memory Z,X,M; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_46"
+    },
+    "FOOD_TRUCK_46_2": {
+        "trajectory": "WW*W*\nA**W*\n***WY\n*Z***\nM*X**\n (0, 1)\n(0, 2) view Z; memory Z\n(0, 3) view Z,M; memory Z,M\n(1, 3) view X,Z,M; memory Z,M,X\n(2, 3) view X,Z; memory Z,M,X\n(2, 4) view X,Z; memory Z,M,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_46"
+    },
+    "FOOD_TRUCK_46_3": {
+        "trajectory": "WW*W*\nA**W*\n***WY\n*Z***\nM*X**\n (0, 1)\n(0, 2) view Z; memory Z\n(0, 3) view Z,M; memory Z,M\n(0, 4) view Z,M; memory Z,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_46"
+    },
+    "FOOD_TRUCK_46_4": {
+        "trajectory": "WW*W*\nA**W*\n***WY\n*Z***\nM*X**\n (0, 1)\n(0, 2) view Z; memory Z\n(0, 3) view Z,M; memory Z,M\n(1, 3) view X,Z,M; memory Z,M,X\n(2, 3) view X,Z; memory Z,M,X\n(3, 3) view X,Y; memory Z,M,X,Y\n(3, 4) view X; memory Z,M,X,Y\n(2, 4) view X,Z; memory Z,M,X,Y\n(1, 4) view X,Z,M; memory Z,M,X,Y\n(0, 4) view Z,M; memory Z,M,X,Y; pick M",
+        "gt": "N > M > {X,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_46"
+    },
+    "FOOD_TRUCK_47_0": {
+        "trajectory": "W*Z**\nWX***\nW****\nWYWW*\nA**M*\n (0, 4) view Y; memory Y\n(1, 4) view Y; memory Y\n(1, 3) view Y; memory Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_47"
+    },
+    "FOOD_TRUCK_47_1": {
+        "trajectory": "W*Z**\nWX***\nW****\nWYWW*\nA**M*\n (0, 4) view Y; memory Y\n(1, 4) view Y; memory Y\n(2, 4) view Y,M; memory Y,M\n(1, 4) view Y; memory Y,M\n(1, 3) view Y; memory Y,M\n(1, 2) view X,Y; memory Y,M,X\n(1, 1) view X,Z; memory Y,M,X,Z; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_47"
+    },
+    "FOOD_TRUCK_47_2": {
+        "trajectory": "W*Z**\nWX***\nW****\nWYWW*\nA**M*\n (0, 4) view Y; memory Y\n(1, 4) view Y; memory Y\n(2, 4) view Y,M; memory Y,M\n(1, 4) view Y; memory Y,M\n(1, 3) view Y; memory Y,M\n(1, 2) view X,Y; memory Y,M,X\n(1, 1) view X,Z; memory Y,M,X,Z\n(1, 0) view X,Z; memory Y,M,X,Z\n(2, 0) view X,Z; memory Y,M,X,Z; pick Z",
+        "gt": "Z > { {N,M,X,Y}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_47"
+    },
+    "FOOD_TRUCK_47_3": {
+        "trajectory": "W*Z**\nWX***\nW****\nWYWW*\nA**M*\n (0, 4) view Y; memory Y\n(1, 4) view Y; memory Y\n(2, 4) view Y,M; memory Y,M\n(3, 4) view M; memory Y,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_47"
+    },
+    "FOOD_TRUCK_47_4": {
+        "trajectory": "W*Z**\nWX***\nW****\nWYWW*\nA**M*\n (0, 4) view Y; memory Y\n(1, 4) view Y; memory Y\n(2, 4) view Y,M; memory Y,M\n(1, 4) view Y; memory Y,M\n(1, 3) view Y; memory Y,M\n(1, 2) view X,Y; memory Y,M,X\n(1, 1) view X,Z; memory Y,M,X,Z\n(1, 2) view X,Y; memory Y,M,X,Z\n(1, 3) view Y; memory Y,M,X,Z; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_47"
+    },
+    "FOOD_TRUCK_48_0": {
+        "trajectory": "***WA\n**WWX\nY*WW*\n**WW*\n*Z**M\n (4, 0) view X; memory X\n(4, 1) view X; memory X\n(4, 2) view X; memory X\n(4, 3) view M; memory X,M\n(4, 4) view M; memory X,M\n(3, 4) view M; memory X,M\n(2, 4) view Z; memory X,M,Z\n(1, 4) view Z; memory X,M,Z\n(1, 3) view Y,Z; memory X,M,Z,Y\n(1, 2) view Y; memory X,M,Z,Y\n(0, 2) view Y; memory X,M,Z,Y; pick Y",
+        "gt": "Y > { {N,M,X,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_48"
+    },
+    "FOOD_TRUCK_48_1": {
+        "trajectory": "***WA\n**WWX\nY*WW*\n**WW*\n*Z**M\n (4, 0) view X; memory X\n(4, 1) view X; memory X\n(4, 2) view X; memory X\n(4, 3) view M; memory X,M\n(4, 4) view M; memory X,M\n(3, 4) view M; memory X,M\n(2, 4) view Z; memory X,M,Z\n(1, 4) view Z; memory X,M,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_48"
+    },
+    "FOOD_TRUCK_48_2": {
+        "trajectory": "***WA\n**WWX\nY*WW*\n**WW*\n*Z**M\n (4, 0) view X; memory X\n(4, 1) view X; memory X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_48"
+    },
+    "FOOD_TRUCK_48_3": {
+        "trajectory": "***WA\n**WWX\nY*WW*\n**WW*\n*Z**M\n (4, 0) view X; memory X\n(4, 1) view X; memory X\n(4, 2) view X; memory X\n(4, 3) view M; memory X,M\n(4, 4) view M; memory X,M\n(3, 4) view M; memory X,M\n(2, 4) view Z; memory X,M,Z\n(1, 4) view Z; memory X,M,Z\n(1, 3) view Y,Z; memory X,M,Z,Y\n(1, 4) view Z; memory X,M,Z,Y\n(2, 4) view Z; memory X,M,Z,Y\n(3, 4) view M; memory X,M,Z,Y\n(4, 4) view M; memory X,M,Z,Y; pick M",
+        "gt": "N > M > {X,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_48"
+    },
+    "FOOD_TRUCK_48_4": {
+        "trajectory": "***WA\n**WWX\nY*WW*\n**WW*\n*Z**M\n (4, 0) view X; memory X\n(4, 1) view X; memory X\n(4, 2) view X; memory X\n(4, 3) view M; memory X,M\n(4, 4) view M; memory X,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_48"
+    },
+    "FOOD_TRUCK_49_0": {
+        "trajectory": "**WYA\n*WW*M\n*XW**\n**Z**\n*****\n (4, 0) view Y,M; memory Y,M\n(4, 1) view Y,M; memory Y,M\n(4, 2) view M; memory Y,M\n(3, 2) view Z,M; memory Y,M,Z\n(3, 3) view Z; memory Y,M,Z\n(2, 3) view X,Z; memory Y,M,Z,X; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_49"
+    },
+    "FOOD_TRUCK_49_1": {
+        "trajectory": "**WYA\n*WW*M\n*XW**\n**Z**\n*****\n (4, 0) view Y,M; memory Y,M\n(4, 1) view Y,M; memory Y,M\n(4, 2) view M; memory Y,M\n(3, 2) view Z,M; memory Y,M,Z\n(3, 3) view Z; memory Y,M,Z\n(2, 3) view X,Z; memory Y,M,Z,X\n(3, 3) view Z; memory Y,M,Z,X\n(3, 2) view Z,M; memory Y,M,Z,X\n(3, 1) view Y,M; memory Y,M,Z,X\n(4, 1) view Y,M; memory Y,M,Z,X; pick M",
+        "gt": "N > M > {X,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_49"
+    },
+    "FOOD_TRUCK_49_2": {
+        "trajectory": "**WYA\n*WW*M\n*XW**\n**Z**\n*****\n (4, 0) view Y,M; memory Y,M\n(4, 1) view Y,M; memory Y,M\n(4, 2) view M; memory Y,M\n(3, 2) view Z,M; memory Y,M,Z\n(3, 3) view Z; memory Y,M,Z\n(2, 3) view X,Z; memory Y,M,Z,X\n(1, 3) view X,Z; memory Y,M,Z,X\n(1, 2) view X,Z; memory Y,M,Z,X; pick X",
+        "gt": "X > { {N,M,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_49"
+    },
+    "FOOD_TRUCK_49_3": {
+        "trajectory": "**WYA\n*WW*M\n*XW**\n**Z**\n*****\n (4, 0) view Y,M; memory Y,M\n(3, 0) view Y,M; memory Y,M; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_49"
+    },
+    "FOOD_TRUCK_49_4": {
+        "trajectory": "**WYA\n*WW*M\n*XW**\n**Z**\n*****\n (4, 0) view Y,M; memory Y,M\n(4, 1) view Y,M; memory Y,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_49"
+    },
+    "FOOD_TRUCK_50_0": {
+        "trajectory": "**A*Y\n**XW*\n***WM\nWWWW*\n***Z*\n (2, 0) view X; memory X\n(3, 0) view X,Y; memory X,Y\n(4, 0) view Y; memory X,Y\n(4, 1) view Y,M; memory X,Y,M\n(4, 2) view M; memory X,Y,M\n(4, 3) view Z,M; memory X,Y,M,Z\n(4, 2) view M; memory X,Y,M,Z\n(4, 1) view Y,M; memory X,Y,M,Z\n(4, 0) view Y; memory X,Y,M,Z; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_50"
+    },
+    "FOOD_TRUCK_50_1": {
+        "trajectory": "**A*Y\n**XW*\n***WM\nWWWW*\n***Z*\n (2, 0) view X; memory X\n(2, 1) view X; memory X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_50"
+    },
+    "FOOD_TRUCK_50_2": {
+        "trajectory": "**A*Y\n**XW*\n***WM\nWWWW*\n***Z*\n (2, 0) view X; memory X\n(3, 0) view X,Y; memory X,Y\n(4, 0) view Y; memory X,Y\n(4, 1) view Y,M; memory X,Y,M\n(4, 2) view M; memory X,Y,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_50"
+    },
+    "FOOD_TRUCK_50_3": {
+        "trajectory": "**A*Y\n**XW*\n***WM\nWWWW*\n***Z*\n (2, 0) view X; memory X\n(3, 0) view X,Y; memory X,Y\n(4, 0) view Y; memory X,Y\n(4, 1) view Y,M; memory X,Y,M\n(4, 2) view M; memory X,Y,M\n(4, 3) view Z,M; memory X,Y,M,Z\n(4, 2) view M; memory X,Y,M,Z; pick M",
+        "gt": "N > M > {X,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_50"
+    },
+    "FOOD_TRUCK_50_4": {
+        "trajectory": "**A*Y\n**XW*\n***WM\nWWWW*\n***Z*\n (2, 0) view X; memory X\n(3, 0) view X,Y; memory X,Y\n(4, 0) view Y; memory X,Y\n(4, 1) view Y,M; memory X,Y,M\n(4, 2) view M; memory X,Y,M\n(4, 3) view Z,M; memory X,Y,M,Z\n(4, 2) view M; memory X,Y,M,Z\n(4, 1) view Y,M; memory X,Y,M,Z\n(4, 0) view Y; memory X,Y,M,Z\n(3, 0) view X,Y; memory X,Y,M,Z\n(2, 0) view X; memory X,Y,M,Z\n(2, 1) view X; memory X,Y,M,Z; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_50"
+    },
+    "FOOD_TRUCK_51_0": {
+        "trajectory": "*M**Y\n*****\nWWWWZ\nWWWW*\n*X*A*\n (3, 4)\n(2, 4) view X; memory X\n(3, 4) memory X\n(4, 4) memory X\n(4, 3) view Z; memory X,Z\n(4, 2) view Z; memory X,Z\n(4, 1) view Y,Z; memory X,Z,Y\n(4, 0) view Y; memory X,Z,Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_51"
+    },
+    "FOOD_TRUCK_51_1": {
+        "trajectory": "*M**Y\n*****\nWWWWZ\nWWWW*\n*X*A*\n (3, 4)\n(2, 4) view X; memory X\n(3, 4) memory X\n(4, 4) memory X\n(4, 3) view Z; memory X,Z\n(4, 2) view Z; memory X,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_51"
+    },
+    "FOOD_TRUCK_51_2": {
+        "trajectory": "*M**Y\n*****\nWWWWZ\nWWWW*\n*X*A*\n (3, 4)\n(2, 4) view X; memory X\n(3, 4) memory X\n(4, 4) memory X\n(4, 3) view Z; memory X,Z\n(4, 2) view Z; memory X,Z\n(4, 1) view Y,Z; memory X,Z,Y\n(3, 1) view Y,Z; memory X,Z,Y\n(2, 1) view M; memory X,Z,Y,M\n(2, 0) view M; memory X,Z,Y,M\n(1, 0) view M; memory X,Z,Y,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_51"
+    },
+    "FOOD_TRUCK_51_3": {
+        "trajectory": "*M**Y\n*****\nWWWWZ\nWWWW*\n*X*A*\n (3, 4)\n(2, 4) view X; memory X\n(1, 4) view X; memory X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_51"
+    },
+    "FOOD_TRUCK_51_4": {
+        "trajectory": "*M**Y\n*****\nWWWWZ\nWWWW*\n*X*A*\n (3, 4)\n(2, 4) view X; memory X\n(3, 4) memory X\n(4, 4) memory X\n(4, 3) view Z; memory X,Z\n(4, 2) view Z; memory X,Z\n(4, 1) view Y,Z; memory X,Z,Y\n(3, 1) view Y,Z; memory X,Z,Y\n(2, 1) view M; memory X,Z,Y,M\n(2, 0) view M; memory X,Z,Y,M\n(3, 0) view Y; memory X,Z,Y,M\n(4, 0) view Y; memory X,Z,Y,M; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_51"
+    },
+    "FOOD_TRUCK_52_0": {
+        "trajectory": "*****\n****M\n**WXA\nY*W**\nWWW*Z\n (4, 2) view X,M; memory X,M\n(4, 3) view X,Z; memory X,M,Z\n(4, 4) view Z; memory X,M,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_52"
+    },
+    "FOOD_TRUCK_52_1": {
+        "trajectory": "*****\n****M\n**WXA\nY*W**\nWWW*Z\n (4, 2) view X,M; memory X,M\n(4, 1) view X,M; memory X,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_52"
+    },
+    "FOOD_TRUCK_52_2": {
+        "trajectory": "*****\n****M\n**WXA\nY*W**\nWWW*Z\n (4, 2) view X,M; memory X,M\n(4, 3) view X,Z; memory X,M,Z\n(4, 2) view X,M; memory X,M,Z\n(4, 1) view X,M; memory X,M,Z\n(3, 1) view X,M; memory X,M,Z\n(2, 1) view X; memory X,M,Z\n(1, 1) memory X,M,Z\n(1, 2) view Y; memory X,M,Z,Y\n(1, 3) view Y; memory X,M,Z,Y\n(0, 3) view Y; memory X,M,Z,Y; pick Y",
+        "gt": "Y > { {N,M,X,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_52"
+    },
+    "FOOD_TRUCK_52_3": {
+        "trajectory": "*****\n****M\n**WXA\nY*W**\nWWW*Z\n (4, 2) view X,M; memory X,M\n(4, 3) view X,Z; memory X,M,Z\n(4, 2) view X,M; memory X,M,Z\n(4, 1) view X,M; memory X,M,Z\n(3, 1) view X,M; memory X,M,Z\n(2, 1) view X; memory X,M,Z\n(1, 1) memory X,M,Z\n(1, 2) view Y; memory X,M,Z,Y\n(1, 1) memory X,M,Z,Y\n(2, 1) view X; memory X,M,Z,Y\n(3, 1) view X,M; memory X,M,Z,Y\n(3, 2) view X,M; memory X,M,Z,Y; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_52"
+    },
+    "FOOD_TRUCK_52_4": {
+        "trajectory": "*****\n****M\n**WXA\nY*W**\nWWW*Z\n (4, 2) view X,M; memory X,M\n(3, 2) view X,M; memory X,M; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_52"
+    },
+    "FOOD_TRUCK_53_0": {
+        "trajectory": "**W**\n**W**\n**W*W\n*AWZW\nM*X*Y\n (1, 3) view X,M; memory X,M\n(1, 4) view X,M; memory X,M\n(0, 4) view M; memory X,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_53"
+    },
+    "FOOD_TRUCK_53_1": {
+        "trajectory": "**W**\n**W**\n**W*W\n*AWZW\nM*X*Y\n (1, 3) view X,M; memory X,M\n(1, 4) view X,M; memory X,M\n(2, 4) view X,Z; memory X,M,Z\n(3, 4) view X,Y,Z; memory X,M,Z,Y\n(4, 4) view Y,Z; memory X,M,Z,Y; pick Y",
+        "gt": "Y > { {N,M,X,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_53"
+    },
+    "FOOD_TRUCK_53_2": {
+        "trajectory": "**W**\n**W**\n**W*W\n*AWZW\nM*X*Y\n (1, 3) view X,M; memory X,M\n(1, 4) view X,M; memory X,M\n(2, 4) view X,Z; memory X,M,Z; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_53"
+    },
+    "FOOD_TRUCK_53_3": {
+        "trajectory": "**W**\n**W**\n**W*W\n*AWZW\nM*X*Y\n (1, 3) view X,M; memory X,M\n(1, 4) view X,M; memory X,M\n(2, 4) view X,Z; memory X,M,Z\n(3, 4) view X,Y,Z; memory X,M,Z,Y\n(3, 3) view X,Y,Z; memory X,M,Z,Y; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_53"
+    },
+    "FOOD_TRUCK_53_4": {
+        "trajectory": "**W**\n**W**\n**W*W\n*AWZW\nM*X*Y\n (1, 3) view X,M; memory X,M\n(1, 4) view X,M; memory X,M\n(2, 4) view X,Z; memory X,M,Z\n(3, 4) view X,Y,Z; memory X,M,Z,Y\n(2, 4) view X,Z; memory X,M,Z,Y; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_53"
+    },
+    "FOOD_TRUCK_54_0": {
+        "trajectory": "*****\n*Z***\nYA***\nWWWW*\n*M*X*\n (1, 2) view Y,Z; memory Y,Z\n(2, 2) view Z; memory Y,Z\n(3, 2) memory Y,Z\n(4, 2) memory Y,Z\n(4, 3) view X; memory Y,Z,X\n(4, 4) view X; memory Y,Z,X\n(3, 4) view X; memory Y,Z,X\n(2, 4) view X,M; memory Y,Z,X,M\n(1, 4) view M; memory Y,Z,X,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_54"
+    },
+    "FOOD_TRUCK_54_1": {
+        "trajectory": "*****\n*Z***\nYA***\nWWWW*\n*M*X*\n (1, 2) view Y,Z; memory Y,Z\n(1, 1) view Y,Z; memory Y,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_54"
+    },
+    "FOOD_TRUCK_54_2": {
+        "trajectory": "*****\n*Z***\nYA***\nWWWW*\n*M*X*\n (1, 2) view Y,Z; memory Y,Z\n(0, 2) view Y,Z; memory Y,Z; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_54"
+    },
+    "FOOD_TRUCK_54_3": {
+        "trajectory": "*****\n*Z***\nYA***\nWWWW*\n*M*X*\n (1, 2) view Y,Z; memory Y,Z\n(2, 2) view Z; memory Y,Z\n(3, 2) memory Y,Z\n(4, 2) memory Y,Z\n(4, 3) view X; memory Y,Z,X\n(4, 4) view X; memory Y,Z,X\n(3, 4) view X; memory Y,Z,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_54"
+    },
+    "FOOD_TRUCK_54_4": {
+        "trajectory": "*****\n*Z***\nYA***\nWWWW*\n*M*X*\n (1, 2) view Y,Z; memory Y,Z\n(2, 2) view Z; memory Y,Z\n(3, 2) memory Y,Z\n(4, 2) memory Y,Z\n(4, 3) view X; memory Y,Z,X\n(4, 4) view X; memory Y,Z,X\n(3, 4) view X; memory Y,Z,X\n(2, 4) view X,M; memory Y,Z,X,M\n(3, 4) view X; memory Y,Z,X,M\n(4, 4) view X; memory Y,Z,X,M\n(4, 3) view X; memory Y,Z,X,M\n(4, 2) memory Y,Z,X,M\n(3, 2) memory Y,Z,X,M\n(2, 2) view Z; memory Y,Z,X,M\n(1, 2) view Y,Z; memory Y,Z,X,M\n(0, 2) view Y,Z; memory Y,Z,X,M; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_54"
+    },
+    "FOOD_TRUCK_55_0": {
+        "trajectory": "WWWA*\nW*Z**\nW****\nW**X*\nY*M**\n (3, 0) view Z; memory Z\n(3, 1) view Z; memory Z\n(3, 2) view X,Z; memory Z,X\n(3, 3) view X,M; memory Z,X,M\n(2, 3) view X,M; memory Z,X,M\n(1, 3) view Y,M; memory Z,X,M,Y\n(1, 4) view Y,M; memory Z,X,M,Y\n(0, 4) view Y; memory Z,X,M,Y; pick Y",
+        "gt": "Y > { {N,M,X,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_55"
+    },
+    "FOOD_TRUCK_55_1": {
+        "trajectory": "WWWA*\nW*Z**\nW****\nW**X*\nY*M**\n (3, 0) view Z; memory Z\n(3, 1) view Z; memory Z\n(2, 1) view Z; memory Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_55"
+    },
+    "FOOD_TRUCK_55_2": {
+        "trajectory": "WWWA*\nW*Z**\nW****\nW**X*\nY*M**\n (3, 0) view Z; memory Z\n(3, 1) view Z; memory Z\n(3, 2) view X,Z; memory Z,X\n(3, 3) view X,M; memory Z,X,M; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_55"
+    },
+    "FOOD_TRUCK_55_3": {
+        "trajectory": "WWWA*\nW*Z**\nW****\nW**X*\nY*M**\n (3, 0) view Z; memory Z\n(3, 1) view Z; memory Z\n(3, 2) view X,Z; memory Z,X\n(3, 3) view X,M; memory Z,X,M\n(3, 4) view X,M; memory Z,X,M\n(2, 4) view X,M; memory Z,X,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_55"
+    },
+    "FOOD_TRUCK_55_4": {
+        "trajectory": "WWWA*\nW*Z**\nW****\nW**X*\nY*M**\n (3, 0) view Z; memory Z\n(3, 1) view Z; memory Z\n(3, 2) view X,Z; memory Z,X\n(3, 3) view X,M; memory Z,X,M\n(2, 3) view X,M; memory Z,X,M\n(1, 3) view Y,M; memory Z,X,M,Y\n(2, 3) view X,M; memory Z,X,M,Y\n(3, 3) view X,M; memory Z,X,M,Y; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_55"
+    },
+    "FOOD_TRUCK_56_0": {
+        "trajectory": "WWWWZ\nMW***\n*W***\nXWA**\n***Y*\n (2, 3) view Y; memory Y\n(2, 4) view Y; memory Y\n(1, 4) view X; memory Y,X\n(0, 4) view X; memory Y,X\n(0, 3) view X; memory Y,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_56"
+    },
+    "FOOD_TRUCK_56_1": {
+        "trajectory": "WWWWZ\nMW***\n*W***\nXWA**\n***Y*\n (2, 3) view Y; memory Y\n(3, 3) view Y; memory Y\n(3, 4) view Y; memory Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_56"
+    },
+    "FOOD_TRUCK_56_2": {
+        "trajectory": "WWWWZ\nMW***\n*W***\nXWA**\n***Y*\n (2, 3) view Y; memory Y\n(2, 4) view Y; memory Y\n(1, 4) view X; memory Y,X\n(0, 4) view X; memory Y,X\n(0, 3) view X; memory Y,X\n(0, 2) view X,M; memory Y,X,M\n(0, 1) view M; memory Y,X,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_56"
+    },
+    "FOOD_TRUCK_56_3": {
+        "trajectory": "WWWWZ\nMW***\n*W***\nXWA**\n***Y*\n (2, 3) view Y; memory Y\n(2, 4) view Y; memory Y\n(1, 4) view X; memory Y,X\n(0, 4) view X; memory Y,X\n(0, 3) view X; memory Y,X\n(0, 2) view X,M; memory Y,X,M\n(0, 3) view X; memory Y,X,M\n(0, 4) view X; memory Y,X,M\n(1, 4) view X; memory Y,X,M\n(2, 4) view Y; memory Y,X,M\n(2, 3) view Y; memory Y,X,M\n(2, 2) memory Y,X,M\n(2, 1) memory Y,X,M\n(3, 1) view Z; memory Y,X,M,Z\n(4, 1) view Z; memory Y,X,M,Z\n(4, 0) view Z; memory Y,X,M,Z; pick Z",
+        "gt": "Z > { {N,M,X,Y}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_56"
+    },
+    "FOOD_TRUCK_56_4": {
+        "trajectory": "WWWWZ\nMW***\n*W***\nXWA**\n***Y*\n (2, 3) view Y; memory Y\n(2, 4) view Y; memory Y\n(1, 4) view X; memory Y,X\n(0, 4) view X; memory Y,X\n(0, 3) view X; memory Y,X\n(0, 2) view X,M; memory Y,X,M\n(0, 3) view X; memory Y,X,M\n(0, 4) view X; memory Y,X,M\n(1, 4) view X; memory Y,X,M\n(2, 4) view Y; memory Y,X,M\n(2, 3) view Y; memory Y,X,M\n(2, 2) memory Y,X,M\n(2, 1) memory Y,X,M\n(3, 1) view Z; memory Y,X,M,Z\n(3, 2) memory Y,X,M,Z\n(3, 3) view Y; memory Y,X,M,Z\n(3, 4) view Y; memory Y,X,M,Z; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_56"
+    },
+    "FOOD_TRUCK_57_0": {
+        "trajectory": "*Z*M*\n*****\n*Y***\n*WWW*\nX*WWA\n (4, 4)\n(4, 3)\n(4, 2)\n(4, 1) view M; memory M\n(3, 1) view M; memory M\n(2, 1) view Y,Z,M; memory M,Y,Z\n(2, 2) view Y; memory M,Y,Z\n(1, 2) view Y; memory M,Y,Z\n(0, 2) view Y; memory M,Y,Z\n(0, 3) view X,Y; memory M,Y,Z,X\n(0, 4) view X; memory M,Y,Z,X; pick X",
+        "gt": "X > { {N,M,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_57"
+    },
+    "FOOD_TRUCK_57_1": {
+        "trajectory": "*Z*M*\n*****\n*Y***\n*WWW*\nX*WWA\n (4, 4)\n(4, 3)\n(4, 2)\n(4, 1) view M; memory M\n(3, 1) view M; memory M\n(2, 1) view Y,Z,M; memory M,Y,Z\n(2, 2) view Y; memory M,Y,Z\n(1, 2) view Y; memory M,Y,Z\n(0, 2) view Y; memory M,Y,Z\n(0, 3) view X,Y; memory M,Y,Z,X\n(0, 2) view Y; memory M,Y,Z,X\n(1, 2) view Y; memory M,Y,Z,X; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_57"
+    },
+    "FOOD_TRUCK_57_2": {
+        "trajectory": "*Z*M*\n*****\n*Y***\n*WWW*\nX*WWA\n (4, 4)\n(4, 3)\n(4, 2)\n(4, 1) view M; memory M\n(3, 1) view M; memory M\n(2, 1) view Y,Z,M; memory M,Y,Z\n(2, 0) view Z,M; memory M,Y,Z\n(1, 0) view Z; memory M,Y,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_57"
+    },
+    "FOOD_TRUCK_57_3": {
+        "trajectory": "*Z*M*\n*****\n*Y***\n*WWW*\nX*WWA\n (4, 4)\n(4, 3)\n(4, 2)\n(4, 1) view M; memory M\n(3, 1) view M; memory M\n(2, 1) view Y,Z,M; memory M,Y,Z\n(2, 2) view Y; memory M,Y,Z\n(1, 2) view Y; memory M,Y,Z; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_57"
+    },
+    "FOOD_TRUCK_57_4": {
+        "trajectory": "*Z*M*\n*****\n*Y***\n*WWW*\nX*WWA\n (4, 4)\n(4, 3)\n(4, 2)\n(4, 1) view M; memory M\n(4, 0) view M; memory M\n(3, 0) view M; memory M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_57"
+    },
+    "FOOD_TRUCK_58_0": {
+        "trajectory": "*****\nA*WW*\n**WW*\n*ZW*M\nY**X*\n (0, 1)\n(0, 2) view Z; memory Z\n(0, 3) view Y,Z; memory Z,Y\n(1, 3) view Y,Z; memory Z,Y\n(1, 4) view Y,Z; memory Z,Y\n(2, 4) view X,Z; memory Z,Y,X\n(3, 4) view X,M; memory Z,Y,X,M\n(2, 4) view X,Z; memory Z,Y,X,M\n(1, 4) view Y,Z; memory Z,Y,X,M\n(0, 4) view Y,Z; memory Z,Y,X,M; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_58"
+    },
+    "FOOD_TRUCK_58_1": {
+        "trajectory": "*****\nA*WW*\n**WW*\n*ZW*M\nY**X*\n (0, 1)\n(0, 2) view Z; memory Z\n(0, 3) view Y,Z; memory Z,Y\n(1, 3) view Y,Z; memory Z,Y\n(1, 4) view Y,Z; memory Z,Y\n(2, 4) view X,Z; memory Z,Y,X\n(3, 4) view X,M; memory Z,Y,X,M; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_58"
+    },
+    "FOOD_TRUCK_58_2": {
+        "trajectory": "*****\nA*WW*\n**WW*\n*ZW*M\nY**X*\n (0, 1)\n(0, 2) view Z; memory Z\n(1, 2) view Z; memory Z\n(1, 3) view Y,Z; memory Z,Y; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_58"
+    },
+    "FOOD_TRUCK_58_3": {
+        "trajectory": "*****\nA*WW*\n**WW*\n*ZW*M\nY**X*\n (0, 1)\n(0, 2) view Z; memory Z\n(0, 3) view Y,Z; memory Z,Y\n(0, 4) view Y,Z; memory Z,Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_58"
+    },
+    "FOOD_TRUCK_58_4": {
+        "trajectory": "*****\nA*WW*\n**WW*\n*ZW*M\nY**X*\n (0, 1)\n(0, 2) view Z; memory Z\n(0, 3) view Y,Z; memory Z,Y\n(1, 3) view Y,Z; memory Z,Y\n(1, 4) view Y,Z; memory Z,Y\n(2, 4) view X,Z; memory Z,Y,X\n(3, 4) view X,M; memory Z,Y,X,M\n(2, 4) view X,Z; memory Z,Y,X,M\n(1, 4) view Y,Z; memory Z,Y,X,M\n(1, 3) view Y,Z; memory Z,Y,X,M; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_58"
+    },
+    "FOOD_TRUCK_59_0": {
+        "trajectory": "**WA*\n*ZWX*\n**WWY\n*MWW*\n*****\n (3, 0) view X; memory X\n(3, 1) view X,Y; memory X,Y\n(4, 1) view X,Y; memory X,Y\n(4, 2) view X,Y; memory X,Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_59"
+    },
+    "FOOD_TRUCK_59_1": {
+        "trajectory": "**WA*\n*ZWX*\n**WWY\n*MWW*\n*****\n (3, 0) view X; memory X\n(3, 1) view X,Y; memory X,Y\n(4, 1) view X,Y; memory X,Y\n(4, 2) view X,Y; memory X,Y\n(4, 3) view Y; memory X,Y\n(4, 4) memory X,Y\n(3, 4) memory X,Y\n(2, 4) view M; memory X,Y,M\n(1, 4) view M; memory X,Y,M\n(1, 3) view M; memory X,Y,M\n(1, 2) view Z,M; memory X,Y,M,Z\n(1, 3) view M; memory X,Y,M,Z\n(1, 4) view M; memory X,Y,M,Z\n(2, 4) view M; memory X,Y,M,Z\n(3, 4) memory X,Y,M,Z\n(4, 4) memory X,Y,M,Z\n(4, 3) view Y; memory X,Y,M,Z\n(4, 2) view X,Y; memory X,Y,M,Z\n(4, 1) view X,Y; memory X,Y,M,Z\n(3, 1) view X,Y; memory X,Y,M,Z; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_59"
+    },
+    "FOOD_TRUCK_59_2": {
+        "trajectory": "**WA*\n*ZWX*\n**WWY\n*MWW*\n*****\n (3, 0) view X; memory X\n(3, 1) view X,Y; memory X,Y; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_59"
+    },
+    "FOOD_TRUCK_59_3": {
+        "trajectory": "**WA*\n*ZWX*\n**WWY\n*MWW*\n*****\n (3, 0) view X; memory X\n(3, 1) view X,Y; memory X,Y\n(4, 1) view X,Y; memory X,Y\n(4, 2) view X,Y; memory X,Y\n(4, 3) view Y; memory X,Y\n(4, 4) memory X,Y\n(3, 4) memory X,Y\n(2, 4) view M; memory X,Y,M\n(1, 4) view M; memory X,Y,M\n(1, 3) view M; memory X,Y,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_59"
+    },
+    "FOOD_TRUCK_59_4": {
+        "trajectory": "**WA*\n*ZWX*\n**WWY\n*MWW*\n*****\n (3, 0) view X; memory X\n(3, 1) view X,Y; memory X,Y\n(4, 1) view X,Y; memory X,Y\n(4, 2) view X,Y; memory X,Y\n(4, 3) view Y; memory X,Y\n(4, 4) memory X,Y\n(3, 4) memory X,Y\n(2, 4) view M; memory X,Y,M\n(1, 4) view M; memory X,Y,M\n(1, 3) view M; memory X,Y,M\n(1, 2) view Z,M; memory X,Y,M,Z\n(1, 1) view Z; memory X,Y,M,Z; pick Z",
+        "gt": "Z > { {N,M,X,Y}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_59"
+    },
+    "FOOD_TRUCK_60_0": {
+        "trajectory": "***X*\n*ZW**\nWWWW*\n**WM*\nYA***\n (1, 4) view Y; memory Y\n(2, 4) view M; memory Y,M\n(3, 4) view M; memory Y,M\n(3, 3) view M; memory Y,M\n(4, 3) view M; memory Y,M\n(4, 2) view M; memory Y,M\n(4, 1) view X; memory Y,M,X\n(4, 0) view X; memory Y,M,X\n(3, 0) view X; memory Y,M,X\n(2, 0) view X,Z; memory Y,M,X,Z\n(1, 0) view Z; memory Y,M,X,Z\n(1, 1) view Z; memory Y,M,X,Z; pick Z",
+        "gt": "Z > { {N,M,X,Y}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_60"
+    },
+    "FOOD_TRUCK_60_1": {
+        "trajectory": "***X*\n*ZW**\nWWWW*\n**WM*\nYA***\n (1, 4) view Y; memory Y\n(2, 4) view M; memory Y,M\n(3, 4) view M; memory Y,M\n(3, 3) view M; memory Y,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_60"
+    },
+    "FOOD_TRUCK_60_2": {
+        "trajectory": "***X*\n*ZW**\nWWWW*\n**WM*\nYA***\n (1, 4) view Y; memory Y\n(0, 4) view Y; memory Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_60"
+    },
+    "FOOD_TRUCK_60_3": {
+        "trajectory": "***X*\n*ZW**\nWWWW*\n**WM*\nYA***\n (1, 4) view Y; memory Y\n(2, 4) view M; memory Y,M\n(3, 4) view M; memory Y,M\n(3, 3) view M; memory Y,M\n(4, 3) view M; memory Y,M\n(4, 2) view M; memory Y,M\n(4, 1) view X; memory Y,M,X\n(4, 0) view X; memory Y,M,X\n(3, 0) view X; memory Y,M,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_60"
+    },
+    "FOOD_TRUCK_60_4": {
+        "trajectory": "***X*\n*ZW**\nWWWW*\n**WM*\nYA***\n (1, 4) view Y; memory Y\n(2, 4) view M; memory Y,M\n(3, 4) view M; memory Y,M\n(3, 3) view M; memory Y,M\n(4, 3) view M; memory Y,M\n(4, 2) view M; memory Y,M\n(4, 1) view X; memory Y,M,X\n(4, 0) view X; memory Y,M,X\n(3, 0) view X; memory Y,M,X\n(2, 0) view X,Z; memory Y,M,X,Z\n(3, 0) view X; memory Y,M,X,Z\n(4, 0) view X; memory Y,M,X,Z\n(4, 1) view X; memory Y,M,X,Z\n(4, 2) view M; memory Y,M,X,Z\n(4, 3) view M; memory Y,M,X,Z\n(3, 3) view M; memory Y,M,X,Z; pick M",
+        "gt": "N > M > {X,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_60"
+    },
+    "FOOD_TRUCK_61_0": {
+        "trajectory": "**W**\n*YW*Z\n**M**\n****X\n*WWWA\n (4, 4) view X; memory X\n(4, 3) view X; memory X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_61"
+    },
+    "FOOD_TRUCK_61_1": {
+        "trajectory": "**W**\n*YW*Z\n**M**\n****X\n*WWWA\n (4, 4) view X; memory X\n(4, 3) view X; memory X\n(4, 2) view X,Z; memory X,Z\n(3, 2) view X,Z,M; memory X,Z,M\n(2, 2) view Y,M; memory X,Z,M,Y\n(3, 2) view X,Z,M; memory X,Z,M,Y\n(3, 1) view Z,M; memory X,Z,M,Y\n(4, 1) view Z; memory X,Z,M,Y; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_61"
+    },
+    "FOOD_TRUCK_61_2": {
+        "trajectory": "**W**\n*YW*Z\n**M**\n****X\n*WWWA\n (4, 4) view X; memory X\n(4, 3) view X; memory X\n(4, 2) view X,Z; memory X,Z\n(3, 2) view X,Z,M; memory X,Z,M\n(2, 2) view Y,M; memory X,Z,M,Y\n(1, 2) view Y,M; memory X,Z,M,Y\n(1, 1) view Y,M; memory X,Z,M,Y; pick Y",
+        "gt": "Y > { {N,M,X,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_61"
+    },
+    "FOOD_TRUCK_61_3": {
+        "trajectory": "**W**\n*YW*Z\n**M**\n****X\n*WWWA\n (4, 4) view X; memory X\n(4, 3) view X; memory X\n(4, 2) view X,Z; memory X,Z\n(3, 2) view X,Z,M; memory X,Z,M\n(2, 2) view Y,M; memory X,Z,M,Y; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_61"
+    },
+    "FOOD_TRUCK_61_4": {
+        "trajectory": "**W**\n*YW*Z\n**M**\n****X\n*WWWA\n (4, 4) view X; memory X\n(4, 3) view X; memory X\n(4, 2) view X,Z; memory X,Z\n(4, 1) view Z; memory X,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_61"
+    },
+    "FOOD_TRUCK_62_0": {
+        "trajectory": "*M*Z*\n***W*\n*AYW*\n*WWWX\n*****\n (1, 2) view Y; memory Y\n(2, 2) view Y; memory Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_62"
+    },
+    "FOOD_TRUCK_62_1": {
+        "trajectory": "*M*Z*\n***W*\n*AYW*\n*WWWX\n*****\n (1, 2) view Y; memory Y\n(1, 1) view Y,M; memory Y,M\n(1, 0) view M; memory Y,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_62"
+    },
+    "FOOD_TRUCK_62_2": {
+        "trajectory": "*M*Z*\n***W*\n*AYW*\n*WWWX\n*****\n (1, 2) view Y; memory Y\n(1, 1) view Y,M; memory Y,M\n(2, 1) view Y,Z,M; memory Y,M,Z\n(2, 0) view Z,M; memory Y,M,Z\n(3, 0) view Z; memory Y,M,Z\n(4, 0) view Z; memory Y,M,Z\n(4, 1) view Z; memory Y,M,Z\n(4, 2) view X; memory Y,M,Z,X\n(4, 1) view Z; memory Y,M,Z,X\n(4, 0) view Z; memory Y,M,Z,X\n(3, 0) view Z; memory Y,M,Z,X; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_62"
+    },
+    "FOOD_TRUCK_62_3": {
+        "trajectory": "*M*Z*\n***W*\n*AYW*\n*WWWX\n*****\n (1, 2) view Y; memory Y\n(1, 1) view Y,M; memory Y,M\n(2, 1) view Y,Z,M; memory Y,M,Z\n(2, 0) view Z,M; memory Y,M,Z\n(3, 0) view Z; memory Y,M,Z\n(4, 0) view Z; memory Y,M,Z\n(4, 1) view Z; memory Y,M,Z\n(4, 2) view X; memory Y,M,Z,X\n(4, 3) view X; memory Y,M,Z,X; pick X",
+        "gt": "X > { {N,M,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_62"
+    },
+    "FOOD_TRUCK_62_4": {
+        "trajectory": "*M*Z*\n***W*\n*AYW*\n*WWWX\n*****\n (1, 2) view Y; memory Y\n(1, 1) view Y,M; memory Y,M\n(2, 1) view Y,Z,M; memory Y,M,Z\n(2, 0) view Z,M; memory Y,M,Z\n(3, 0) view Z; memory Y,M,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_62"
+    },
+    "FOOD_TRUCK_63_0": {
+        "trajectory": "****Z\n*WWM*\n*X*A*\nWW***\n****Y\n (3, 2) view M; memory M\n(2, 2) view X,M; memory M,X\n(1, 2) view X; memory M,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_63"
+    },
+    "FOOD_TRUCK_63_1": {
+        "trajectory": "****Z\n*WWM*\n*X*A*\nWW***\n****Y\n (3, 2) view M; memory M\n(3, 1) view Z,M; memory M,Z; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_63"
+    },
+    "FOOD_TRUCK_63_2": {
+        "trajectory": "****Z\n*WWM*\n*X*A*\nWW***\n****Y\n (3, 2) view M; memory M\n(2, 2) view X,M; memory M,X\n(3, 2) view M; memory M,X\n(3, 3) view Y; memory M,X,Y\n(4, 3) view Y; memory M,X,Y\n(4, 4) view Y; memory M,X,Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_63"
+    },
+    "FOOD_TRUCK_64_0": {
+        "trajectory": "W*Y**\nW****\nW*M*A\nWZ***\n****X\n (4, 2)\n(4, 3) view X; memory X\n(3, 3) view X,M; memory X,M\n(2, 3) view Z,M; memory X,M,Z\n(2, 2) view Z,M; memory X,M,Z\n(2, 1) view Y,M; memory X,M,Z,Y\n(2, 0) view Y; memory X,M,Z,Y; pick Y",
+        "gt": "Y > { {N,M,X,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_64"
+    },
+    "FOOD_TRUCK_64_1": {
+        "trajectory": "W*Y**\nW****\nW*M*A\nWZ***\n****X\n (4, 2)\n(4, 3) view X; memory X\n(3, 3) view X,M; memory X,M\n(3, 2) view M; memory X,M\n(2, 2) view Z,M; memory X,M,Z; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_64"
+    },
+    "FOOD_TRUCK_64_2": {
+        "trajectory": "W*Y**\nW****\nW*M*A\nWZ***\n****X\n (4, 2)\n(4, 3) view X; memory X\n(3, 3) view X,M; memory X,M\n(2, 3) view Z,M; memory X,M,Z\n(2, 2) view Z,M; memory X,M,Z\n(2, 1) view Y,M; memory X,M,Z,Y\n(2, 2) view Z,M; memory X,M,Z,Y\n(2, 3) view Z,M; memory X,M,Z,Y\n(1, 3) view Z,M; memory X,M,Z,Y; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_64"
+    },
+    "FOOD_TRUCK_64_3": {
+        "trajectory": "W*Y**\nW****\nW*M*A\nWZ***\n****X\n (4, 2)\n(4, 3) view X; memory X\n(4, 4) view X; memory X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_64"
+    },
+    "FOOD_TRUCK_64_4": {
+        "trajectory": "W*Y**\nW****\nW*M*A\nWZ***\n****X\n (4, 2)\n(4, 3) view X; memory X\n(3, 3) view X,M; memory X,M\n(2, 3) view Z,M; memory X,M,Z\n(2, 2) view Z,M; memory X,M,Z\n(2, 1) view Y,M; memory X,M,Z,Y\n(2, 2) view Z,M; memory X,M,Z,Y; pick M",
+        "gt": "N > M > {X,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_64"
+    },
+    "FOOD_TRUCK_65_0": {
+        "trajectory": "WWWW*\nZW***\n*W**X\nAW***\n*Y**M\n (0, 3) view Y; memory Y\n(0, 2) view Z; memory Y,Z\n(0, 1) view Z; memory Y,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_65"
+    },
+    "FOOD_TRUCK_65_1": {
+        "trajectory": "WWWW*\nZW***\n*W**X\nAW***\n*Y**M\n (0, 3) view Y; memory Y\n(0, 2) view Z; memory Y,Z\n(0, 3) view Y; memory Y,Z\n(0, 4) view Y; memory Y,Z\n(1, 4) view Y; memory Y,Z\n(2, 4) view Y; memory Y,Z\n(3, 4) view M; memory Y,Z,M\n(3, 3) view X,M; memory Y,Z,M,X\n(3, 2) view X; memory Y,Z,M,X\n(4, 2) view X; memory Y,Z,M,X; pick X",
+        "gt": "X > { {N,M,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_65"
+    },
+    "FOOD_TRUCK_65_2": {
+        "trajectory": "WWWW*\nZW***\n*W**X\nAW***\n*Y**M\n (0, 3) view Y; memory Y\n(0, 4) view Y; memory Y\n(1, 4) view Y; memory Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_65"
+    },
+    "FOOD_TRUCK_65_3": {
+        "trajectory": "WWWW*\nZW***\n*W**X\nAW***\n*Y**M\n (0, 3) view Y; memory Y\n(0, 2) view Z; memory Y,Z\n(0, 3) view Y; memory Y,Z\n(0, 4) view Y; memory Y,Z\n(1, 4) view Y; memory Y,Z\n(2, 4) view Y; memory Y,Z\n(3, 4) view M; memory Y,Z,M\n(3, 3) view X,M; memory Y,Z,M,X\n(4, 3) view X,M; memory Y,Z,M,X\n(4, 4) view M; memory Y,Z,M,X; pick M",
+        "gt": "N > M > {X,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_65"
+    },
+    "FOOD_TRUCK_65_4": {
+        "trajectory": "WWWW*\nZW***\n*W**X\nAW***\n*Y**M\n (0, 3) view Y; memory Y\n(0, 2) view Z; memory Y,Z\n(0, 3) view Y; memory Y,Z\n(0, 4) view Y; memory Y,Z\n(1, 4) view Y; memory Y,Z\n(2, 4) view Y; memory Y,Z\n(3, 4) view M; memory Y,Z,M\n(3, 3) view X,M; memory Y,Z,M,X\n(3, 4) view M; memory Y,Z,M,X\n(2, 4) view Y; memory Y,Z,M,X\n(1, 4) view Y; memory Y,Z,M,X; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_65"
+    },
+    "FOOD_TRUCK_66_0": {
+        "trajectory": "*****\nA**M*\n*X***\nZWWW*\n*WW*Y\n (0, 1) view X; memory X\n(0, 2) view X,Z; memory X,Z\n(1, 2) view X,Z; memory X,Z\n(2, 2) view X,M; memory X,Z,M\n(3, 2) view M; memory X,Z,M\n(4, 2) view M; memory X,Z,M\n(4, 3) view Y; memory X,Z,M,Y\n(4, 4) view Y; memory X,Z,M,Y; pick Y",
+        "gt": "Y > { {N,M,X,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_66"
+    },
+    "FOOD_TRUCK_66_1": {
+        "trajectory": "*****\nA**M*\n*X***\nZWWW*\n*WW*Y\n (0, 1) view X; memory X\n(0, 2) view X,Z; memory X,Z\n(0, 3) view X,Z; memory X,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_66"
+    },
+    "FOOD_TRUCK_66_2": {
+        "trajectory": "*****\nA**M*\n*X***\nZWWW*\n*WW*Y\n (0, 1) view X; memory X\n(0, 2) view X,Z; memory X,Z\n(1, 2) view X,Z; memory X,Z\n(2, 2) view X,M; memory X,Z,M\n(2, 1) view X,M; memory X,Z,M\n(3, 1) view M; memory X,Z,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_66"
+    },
+    "FOOD_TRUCK_66_3": {
+        "trajectory": "*****\nA**M*\n*X***\nZWWW*\n*WW*Y\n (0, 1) view X; memory X\n(1, 1) view X; memory X\n(1, 2) view X,Z; memory X,Z; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_66"
+    },
+    "FOOD_TRUCK_66_4": {
+        "trajectory": "*****\nA**M*\n*X***\nZWWW*\n*WW*Y\n (0, 1) view X; memory X\n(0, 2) view X,Z; memory X,Z\n(1, 2) view X,Z; memory X,Z\n(2, 2) view X,M; memory X,Z,M\n(3, 2) view M; memory X,Z,M\n(4, 2) view M; memory X,Z,M\n(4, 3) view Y; memory X,Z,M,Y\n(4, 2) view M; memory X,Z,M,Y\n(3, 2) view M; memory X,Z,M,Y\n(2, 2) view X,M; memory X,Z,M,Y\n(1, 2) view X,Z; memory X,Z,M,Y; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_66"
+    },
+    "FOOD_TRUCK_67_0": {
+        "trajectory": "**X*Z\n***W*\n***W*\nY*AWM\nWWWW*\n (2, 3)\n(1, 3) view Y; memory Y\n(1, 2) view Y; memory Y\n(1, 1) view X; memory Y,X\n(1, 0) view X; memory Y,X\n(2, 0) view X; memory Y,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_67"
+    },
+    "FOOD_TRUCK_67_1": {
+        "trajectory": "**X*Z\n***W*\n***W*\nY*AWM\nWWWW*\n (2, 3)\n(1, 3) view Y; memory Y\n(0, 3) view Y; memory Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_67"
+    },
+    "FOOD_TRUCK_67_2": {
+        "trajectory": "**X*Z\n***W*\n***W*\nY*AWM\nWWWW*\n (2, 3)\n(1, 3) view Y; memory Y\n(1, 2) view Y; memory Y\n(1, 1) view X; memory Y,X\n(1, 0) view X; memory Y,X\n(2, 0) view X; memory Y,X\n(3, 0) view X,Z; memory Y,X,Z\n(4, 0) view Z; memory Y,X,Z\n(4, 1) view Z; memory Y,X,Z\n(4, 2) view M; memory Y,X,Z,M\n(4, 3) view M; memory Y,X,Z,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_67"
+    },
+    "FOOD_TRUCK_67_3": {
+        "trajectory": "**X*Z\n***W*\n***W*\nY*AWM\nWWWW*\n (2, 3)\n(1, 3) view Y; memory Y\n(1, 2) view Y; memory Y\n(1, 1) view X; memory Y,X\n(1, 0) view X; memory Y,X\n(2, 0) view X; memory Y,X\n(3, 0) view X,Z; memory Y,X,Z\n(4, 0) view Z; memory Y,X,Z\n(4, 1) view Z; memory Y,X,Z\n(4, 2) view M; memory Y,X,Z,M\n(4, 1) view Z; memory Y,X,Z,M\n(4, 0) view Z; memory Y,X,Z,M\n(3, 0) view X,Z; memory Y,X,Z,M\n(2, 0) view X; memory Y,X,Z,M; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_67"
+    },
+    "FOOD_TRUCK_67_4": {
+        "trajectory": "**X*Z\n***W*\n***W*\nY*AWM\nWWWW*\n (2, 3)\n(1, 3) view Y; memory Y\n(1, 2) view Y; memory Y\n(1, 1) view X; memory Y,X\n(1, 0) view X; memory Y,X\n(2, 0) view X; memory Y,X\n(3, 0) view X,Z; memory Y,X,Z\n(4, 0) view Z; memory Y,X,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_67"
+    },
+    "FOOD_TRUCK_68_0": {
+        "trajectory": "**W**\n*WW**\n**Y*M\n**AZ*\nX****\n (2, 3) view Y,Z; memory Y,Z\n(1, 3) view X,Y; memory Y,Z,X\n(2, 3) view Y,Z; memory Y,Z,X\n(3, 3) view Y,Z,M; memory Y,Z,X,M\n(3, 2) view Y,Z,M; memory Y,Z,X,M\n(4, 2) view Z,M; memory Y,Z,X,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_68"
+    },
+    "FOOD_TRUCK_68_1": {
+        "trajectory": "**W**\n*WW**\n**Y*M\n**AZ*\nX****\n (2, 3) view Y,Z; memory Y,Z\n(3, 3) view Y,Z,M; memory Y,Z,M; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_68"
+    },
+    "FOOD_TRUCK_68_2": {
+        "trajectory": "**W**\n*WW**\n**Y*M\n**AZ*\nX****\n (2, 3) view Y,Z; memory Y,Z\n(2, 2) view Y,Z; memory Y,Z; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_68"
+    },
+    "FOOD_TRUCK_68_3": {
+        "trajectory": "**W**\n*WW**\n**Y*M\n**AZ*\nX****\n (2, 3) view Y,Z; memory Y,Z\n(1, 3) view X,Y; memory Y,Z,X\n(1, 4) view X; memory Y,Z,X\n(0, 4) view X; memory Y,Z,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_68"
+    },
+    "FOOD_TRUCK_68_4": {
+        "trajectory": "**W**\n*WW**\n**Y*M\n**AZ*\nX****\n (2, 3) view Y,Z; memory Y,Z\n(1, 3) view X,Y; memory Y,Z,X\n(2, 3) view Y,Z; memory Y,Z,X\n(3, 3) view Y,Z,M; memory Y,Z,X,M\n(3, 4) view Z; memory Y,Z,X,M\n(2, 4) view Z; memory Y,Z,X,M\n(1, 4) view X; memory Y,Z,X,M\n(0, 4) view X; memory Y,Z,X,M; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_68"
+    },
+    "FOOD_TRUCK_69_0": {
+        "trajectory": "**A*X\n*****\nYWW**\nWWWWM\nZ****\n (2, 0)\n(3, 0) view X; memory X\n(3, 1) view X; memory X\n(3, 2) view M; memory X,M\n(4, 2) view M; memory X,M\n(4, 3) view M; memory X,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_69"
+    },
+    "FOOD_TRUCK_69_1": {
+        "trajectory": "**A*X\n*****\nYWW**\nWWWWM\nZ****\n (2, 0)\n(3, 0) view X; memory X\n(4, 0) view X; memory X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_69"
+    },
+    "FOOD_TRUCK_69_2": {
+        "trajectory": "**A*X\n*****\nYWW**\nWWWWM\nZ****\n (2, 0)\n(3, 0) view X; memory X\n(3, 1) view X; memory X\n(3, 2) view M; memory X,M\n(3, 1) view X; memory X,M\n(2, 1) memory X,M\n(1, 1) view Y; memory X,M,Y\n(0, 1) view Y; memory X,M,Y\n(0, 2) view Y; memory X,M,Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_69"
+    },
+    "FOOD_TRUCK_70_0": {
+        "trajectory": "Y**Z*\n**MWX\n***W*\nWWWWA\n*****\n (4, 3)\n(4, 2) view X; memory X\n(4, 1) view X,Z; memory X,Z\n(4, 0) view X,Z; memory X,Z\n(3, 0) view X,Z,M; memory X,Z,M; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_70"
+    },
+    "FOOD_TRUCK_70_1": {
+        "trajectory": "Y**Z*\n**MWX\n***W*\nWWWWA\n*****\n (4, 3)\n(4, 2) view X; memory X\n(4, 1) view X,Z; memory X,Z\n(4, 0) view X,Z; memory X,Z\n(3, 0) view X,Z,M; memory X,Z,M\n(2, 0) view Z,M; memory X,Z,M\n(1, 0) view Y,M; memory X,Z,M,Y\n(0, 0) view Y; memory X,Z,M,Y; pick Y",
+        "gt": "Y > { {N,M,X,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_70"
+    },
+    "FOOD_TRUCK_70_2": {
+        "trajectory": "Y**Z*\n**MWX\n***W*\nWWWWA\n*****\n (4, 3)\n(4, 2) view X; memory X\n(4, 1) view X,Z; memory X,Z\n(4, 0) view X,Z; memory X,Z\n(3, 0) view X,Z,M; memory X,Z,M\n(2, 0) view Z,M; memory X,Z,M\n(1, 0) view Y,M; memory X,Z,M,Y\n(2, 0) view Z,M; memory X,Z,M,Y\n(3, 0) view X,Z,M; memory X,Z,M,Y; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_70"
+    },
+    "FOOD_TRUCK_70_3": {
+        "trajectory": "Y**Z*\n**MWX\n***W*\nWWWWA\n*****\n (4, 3)\n(4, 2) view X; memory X\n(4, 1) view X,Z; memory X,Z; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_70"
+    },
+    "FOOD_TRUCK_70_4": {
+        "trajectory": "Y**Z*\n**MWX\n***W*\nWWWWA\n*****\n (4, 3)\n(4, 2) view X; memory X\n(4, 1) view X,Z; memory X,Z\n(4, 0) view X,Z; memory X,Z\n(3, 0) view X,Z,M; memory X,Z,M\n(2, 0) view Z,M; memory X,Z,M\n(2, 1) view Z,M; memory X,Z,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_70"
+    },
+    "FOOD_TRUCK_71_0": {
+        "trajectory": "*M*ZW\n****W\nWWW*W\n*XA*W\n**Y**\n (2, 3) view X,Y; memory X,Y\n(3, 3) view Y; memory X,Y\n(3, 2) memory X,Y\n(3, 1) view Z; memory X,Y,Z\n(2, 1) view Z,M; memory X,Y,Z,M\n(2, 0) view Z,M; memory X,Y,Z,M\n(1, 0) view M; memory X,Y,Z,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_71"
+    },
+    "FOOD_TRUCK_71_1": {
+        "trajectory": "*M*ZW\n****W\nWWW*W\n*XA*W\n**Y**\n (2, 3) view X,Y; memory X,Y\n(3, 3) view Y; memory X,Y\n(3, 2) memory X,Y\n(3, 1) view Z; memory X,Y,Z\n(3, 0) view Z; memory X,Y,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_71"
+    },
+    "FOOD_TRUCK_71_2": {
+        "trajectory": "*M*ZW\n****W\nWWW*W\n*XA*W\n**Y**\n (2, 3) view X,Y; memory X,Y\n(1, 3) view X,Y; memory X,Y; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_71"
+    },
+    "FOOD_TRUCK_71_3": {
+        "trajectory": "*M*ZW\n****W\nWWW*W\n*XA*W\n**Y**\n (2, 3) view X,Y; memory X,Y\n(2, 4) view X,Y; memory X,Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_71"
+    },
+    "FOOD_TRUCK_71_4": {
+        "trajectory": "*M*ZW\n****W\nWWW*W\n*XA*W\n**Y**\n (2, 3) view X,Y; memory X,Y\n(3, 3) view Y; memory X,Y\n(3, 2) memory X,Y\n(3, 1) view Z; memory X,Y,Z\n(2, 1) view Z,M; memory X,Y,Z,M\n(2, 0) view Z,M; memory X,Y,Z,M\n(3, 0) view Z; memory X,Y,Z,M; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_71"
+    },
+    "FOOD_TRUCK_72_0": {
+        "trajectory": "**YA*\nWWWW*\n****X\n*WWM*\n**Z**\n (3, 0) view Y; memory Y\n(4, 0) memory Y\n(4, 1) view X; memory Y,X\n(4, 2) view X,M; memory Y,X,M\n(4, 3) view X,M; memory Y,X,M\n(3, 3) view X,Z,M; memory Y,X,M,Z\n(3, 4) view Z,M; memory Y,X,M,Z\n(2, 4) view Z,M; memory Y,X,M,Z; pick Z",
+        "gt": "Z > { {N,M,X,Y}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_72"
+    },
+    "FOOD_TRUCK_72_1": {
+        "trajectory": "**YA*\nWWWW*\n****X\n*WWM*\n**Z**\n (3, 0) view Y; memory Y\n(4, 0) memory Y\n(4, 1) view X; memory Y,X\n(4, 2) view X,M; memory Y,X,M\n(4, 3) view X,M; memory Y,X,M\n(3, 3) view X,Z,M; memory Y,X,M,Z; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_72"
+    },
+    "FOOD_TRUCK_72_2": {
+        "trajectory": "**YA*\nWWWW*\n****X\n*WWM*\n**Z**\n (3, 0) view Y; memory Y\n(2, 0) view Y; memory Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_72"
+    },
+    "FOOD_TRUCK_72_3": {
+        "trajectory": "**YA*\nWWWW*\n****X\n*WWM*\n**Z**\n (3, 0) view Y; memory Y\n(4, 0) memory Y\n(4, 1) view X; memory Y,X\n(4, 2) view X,M; memory Y,X,M; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_72"
+    },
+    "FOOD_TRUCK_72_4": {
+        "trajectory": "**YA*\nWWWW*\n****X\n*WWM*\n**Z**\n (3, 0) view Y; memory Y\n(4, 0) memory Y\n(4, 1) view X; memory Y,X\n(4, 2) view X,M; memory Y,X,M\n(4, 3) view X,M; memory Y,X,M\n(3, 3) view X,Z,M; memory Y,X,M,Z\n(3, 2) view X,M; memory Y,X,M,Z\n(4, 2) view X,M; memory Y,X,M,Z\n(4, 1) view X; memory Y,X,M,Z\n(4, 0) memory Y,X,M,Z\n(3, 0) view Y; memory Y,X,M,Z\n(2, 0) view Y; memory Y,X,M,Z; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_72"
+    },
+    "FOOD_TRUCK_73_0": {
+        "trajectory": "X**WM\n*W*W*\n*W*W*\n*WZW*\n***YA\n (4, 4) view Y; memory Y\n(3, 4) view Y,Z; memory Y,Z\n(2, 4) view Y,Z; memory Y,Z\n(2, 3) view Y,Z; memory Y,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_73"
+    },
+    "FOOD_TRUCK_73_1": {
+        "trajectory": "X**WM\n*W*W*\n*W*W*\n*WZW*\n***YA\n (4, 4) view Y; memory Y\n(3, 4) view Y,Z; memory Y,Z\n(4, 4) view Y; memory Y,Z\n(4, 3) view Y; memory Y,Z\n(4, 2) memory Y,Z\n(4, 1) view M; memory Y,Z,M\n(4, 0) view M; memory Y,Z,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_73"
+    },
+    "FOOD_TRUCK_73_2": {
+        "trajectory": "X**WM\n*W*W*\n*W*W*\n*WZW*\n***YA\n (4, 4) view Y; memory Y\n(3, 4) view Y,Z; memory Y,Z; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_73"
+    },
+    "FOOD_TRUCK_74_0": {
+        "trajectory": "WMWWA\nW****\nW***Z\nW*X**\n***Y*\n (4, 0)\n(4, 1) view Z; memory Z\n(4, 2) view Z; memory Z\n(3, 2) view X,Z; memory Z,X\n(3, 3) view X,Y,Z; memory Z,X,Y\n(2, 3) view X,Y; memory Z,X,Y; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_74"
+    },
+    "FOOD_TRUCK_74_1": {
+        "trajectory": "WMWWA\nW****\nW***Z\nW*X**\n***Y*\n (4, 0)\n(4, 1) view Z; memory Z\n(4, 2) view Z; memory Z\n(3, 2) view X,Z; memory Z,X\n(3, 3) view X,Y,Z; memory Z,X,Y\n(3, 2) view X,Z; memory Z,X,Y\n(3, 1) view Z; memory Z,X,Y\n(2, 1) view M; memory Z,X,Y,M\n(1, 1) view M; memory Z,X,Y,M\n(1, 0) view M; memory Z,X,Y,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_74"
+    },
+    "FOOD_TRUCK_74_2": {
+        "trajectory": "WMWWA\nW****\nW***Z\nW*X**\n***Y*\n (4, 0)\n(4, 1) view Z; memory Z\n(4, 2) view Z; memory Z\n(3, 2) view X,Z; memory Z,X\n(3, 3) view X,Y,Z; memory Z,X,Y\n(3, 4) view X,Y; memory Z,X,Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_74"
+    },
+    "FOOD_TRUCK_74_3": {
+        "trajectory": "WMWWA\nW****\nW***Z\nW*X**\n***Y*\n (4, 0)\n(4, 1) view Z; memory Z\n(4, 2) view Z; memory Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_74"
+    },
+    "FOOD_TRUCK_74_4": {
+        "trajectory": "WMWWA\nW****\nW***Z\nW*X**\n***Y*\n (4, 0)\n(4, 1) view Z; memory Z\n(4, 2) view Z; memory Z\n(3, 2) view X,Z; memory Z,X\n(3, 3) view X,Y,Z; memory Z,X,Y\n(3, 2) view X,Z; memory Z,X,Y\n(3, 1) view Z; memory Z,X,Y\n(2, 1) view M; memory Z,X,Y,M\n(3, 1) view Z; memory Z,X,Y,M\n(4, 1) view Z; memory Z,X,Y,M\n(4, 2) view Z; memory Z,X,Y,M; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_74"
+    },
+    "FOOD_TRUCK_75_0": {
+        "trajectory": "***W*\n***W*\nW**M*\nW****\nYAZ*X\n (1, 4) view Y,Z; memory Y,Z\n(2, 4) view Z; memory Y,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_75"
+    },
+    "FOOD_TRUCK_75_1": {
+        "trajectory": "***W*\n***W*\nW**M*\nW****\nYAZ*X\n (1, 4) view Y,Z; memory Y,Z\n(2, 4) view Z; memory Y,Z\n(3, 4) view X,Z; memory Y,Z,X\n(3, 3) view X,Z,M; memory Y,Z,X,M\n(4, 3) view X,M; memory Y,Z,X,M\n(4, 4) view X; memory Y,Z,X,M; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_75"
+    },
+    "FOOD_TRUCK_75_2": {
+        "trajectory": "***W*\n***W*\nW**M*\nW****\nYAZ*X\n (1, 4) view Y,Z; memory Y,Z\n(0, 4) view Y; memory Y,Z; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_75"
+    },
+    "FOOD_TRUCK_75_3": {
+        "trajectory": "***W*\n***W*\nW**M*\nW****\nYAZ*X\n (1, 4) view Y,Z; memory Y,Z\n(2, 4) view Z; memory Y,Z\n(3, 4) view X,Z; memory Y,Z,X\n(3, 3) view X,Z,M; memory Y,Z,X,M\n(3, 2) view M; memory Y,Z,X,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_75"
+    },
+    "FOOD_TRUCK_75_4": {
+        "trajectory": "***W*\n***W*\nW**M*\nW****\nYAZ*X\n (1, 4) view Y,Z; memory Y,Z\n(2, 4) view Z; memory Y,Z\n(3, 4) view X,Z; memory Y,Z,X\n(4, 4) view X; memory Y,Z,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_75"
+    },
+    "FOOD_TRUCK_76_0": {
+        "trajectory": "***A*\nZ**Y*\nWWWWX\nWWWW*\n*M***\n (3, 0) view Y; memory Y\n(3, 1) view X,Y; memory Y,X\n(2, 1) view Y; memory Y,X\n(1, 1) view Z; memory Y,X,Z\n(2, 1) view Y; memory Y,X,Z\n(3, 1) view X,Y; memory Y,X,Z\n(4, 1) view X,Y; memory Y,X,Z\n(4, 2) view X,Y; memory Y,X,Z\n(4, 3) view X; memory Y,X,Z\n(4, 4) memory Y,X,Z\n(3, 4) memory Y,X,Z\n(2, 4) view M; memory Y,X,Z,M\n(1, 4) view M; memory Y,X,Z,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_76"
+    },
+    "FOOD_TRUCK_76_1": {
+        "trajectory": "***A*\nZ**Y*\nWWWWX\nWWWW*\n*M***\n (3, 0) view Y; memory Y\n(3, 1) view X,Y; memory Y,X\n(2, 1) view Y; memory Y,X\n(1, 1) view Z; memory Y,X,Z\n(0, 1) view Z; memory Y,X,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_76"
+    },
+    "FOOD_TRUCK_76_2": {
+        "trajectory": "***A*\nZ**Y*\nWWWWX\nWWWW*\n*M***\n (3, 0) view Y; memory Y\n(3, 1) view X,Y; memory Y,X\n(4, 1) view X,Y; memory Y,X\n(4, 2) view X,Y; memory Y,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_76"
+    },
+    "FOOD_TRUCK_76_3": {
+        "trajectory": "***A*\nZ**Y*\nWWWWX\nWWWW*\n*M***\n (3, 0) view Y; memory Y\n(3, 1) view X,Y; memory Y,X; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_76"
+    },
+    "FOOD_TRUCK_76_4": {
+        "trajectory": "***A*\nZ**Y*\nWWWWX\nWWWW*\n*M***\n (3, 0) view Y; memory Y\n(3, 1) view X,Y; memory Y,X\n(2, 1) view Y; memory Y,X\n(1, 1) view Z; memory Y,X,Z\n(2, 1) view Y; memory Y,X,Z\n(3, 1) view X,Y; memory Y,X,Z\n(4, 1) view X,Y; memory Y,X,Z\n(4, 2) view X,Y; memory Y,X,Z\n(4, 3) view X; memory Y,X,Z\n(4, 4) memory Y,X,Z\n(3, 4) memory Y,X,Z\n(2, 4) view M; memory Y,X,Z,M\n(3, 4) memory Y,X,Z,M\n(4, 4) memory Y,X,Z,M\n(4, 3) view X; memory Y,X,Z,M\n(4, 2) view X,Y; memory Y,X,Z,M; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_76"
+    },
+    "FOOD_TRUCK_77_0": {
+        "trajectory": "WWWW*\nA*Z*X\nY****\n*MWW*\n*****\n (0, 1) view Y; memory Y\n(1, 1) view Y,Z; memory Y,Z\n(1, 2) view Y,Z,M; memory Y,Z,M\n(2, 2) view Z,M; memory Y,Z,M\n(3, 2) view X,Z; memory Y,Z,M,X\n(2, 2) view Z,M; memory Y,Z,M,X\n(1, 2) view Y,Z,M; memory Y,Z,M,X\n(1, 3) view Y,M; memory Y,Z,M,X; pick M",
+        "gt": "N > M > {X,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_77"
+    },
+    "FOOD_TRUCK_77_1": {
+        "trajectory": "WWWW*\nA*Z*X\nY****\n*MWW*\n*****\n (0, 1) view Y; memory Y\n(1, 1) view Y,Z; memory Y,Z\n(1, 2) view Y,Z,M; memory Y,Z,M\n(2, 2) view Z,M; memory Y,Z,M\n(3, 2) view X,Z; memory Y,Z,M,X\n(2, 2) view Z,M; memory Y,Z,M,X\n(1, 2) view Y,Z,M; memory Y,Z,M,X\n(0, 2) view Y,M; memory Y,Z,M,X; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_77"
+    },
+    "FOOD_TRUCK_77_2": {
+        "trajectory": "WWWW*\nA*Z*X\nY****\n*MWW*\n*****\n (0, 1) view Y; memory Y\n(1, 1) view Y,Z; memory Y,Z\n(2, 1) view Z; memory Y,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_77"
+    },
+    "FOOD_TRUCK_77_3": {
+        "trajectory": "WWWW*\nA*Z*X\nY****\n*MWW*\n*****\n (0, 1) view Y; memory Y\n(1, 1) view Y,Z; memory Y,Z\n(1, 2) view Y,Z,M; memory Y,Z,M\n(2, 2) view Z,M; memory Y,Z,M\n(3, 2) view X,Z; memory Y,Z,M,X\n(3, 1) view X,Z; memory Y,Z,M,X\n(2, 1) view Z; memory Y,Z,M,X; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_77"
+    },
+    "FOOD_TRUCK_77_4": {
+        "trajectory": "WWWW*\nA*Z*X\nY****\n*MWW*\n*****\n (0, 1) view Y; memory Y\n(1, 1) view Y,Z; memory Y,Z\n(1, 2) view Y,Z,M; memory Y,Z,M\n(1, 3) view Y,M; memory Y,Z,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_77"
+    },
+    "FOOD_TRUCK_78_0": {
+        "trajectory": "*Z*WW\nMAXWW\n***WW\nY**WW\n*****\n (1, 1) view X,Z,M; memory X,Z,M\n(2, 1) view X,Z; memory X,Z,M; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_78"
+    },
+    "FOOD_TRUCK_78_1": {
+        "trajectory": "*Z*WW\nMAXWW\n***WW\nY**WW\n*****\n (1, 1) view X,Z,M; memory X,Z,M\n(1, 2) view X,Y,M; memory X,Z,M,Y\n(1, 1) view X,Z,M; memory X,Z,M,Y\n(2, 1) view X,Z; memory X,Z,M,Y; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_78"
+    },
+    "FOOD_TRUCK_78_2": {
+        "trajectory": "*Z*WW\nMAXWW\n***WW\nY**WW\n*****\n (1, 1) view X,Z,M; memory X,Z,M\n(1, 0) view X,Z,M; memory X,Z,M; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_78"
+    },
+    "FOOD_TRUCK_78_3": {
+        "trajectory": "*Z*WW\nMAXWW\n***WW\nY**WW\n*****\n (1, 1) view X,Z,M; memory X,Z,M\n(0, 1) view Z,M; memory X,Z,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_78"
+    },
+    "FOOD_TRUCK_78_4": {
+        "trajectory": "*Z*WW\nMAXWW\n***WW\nY**WW\n*****\n (1, 1) view X,Z,M; memory X,Z,M\n(1, 2) view X,Y,M; memory X,Z,M,Y\n(1, 1) view X,Z,M; memory X,Z,M,Y\n(1, 0) view X,Z,M; memory X,Z,M,Y; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_78"
+    },
+    "FOOD_TRUCK_79_0": {
+        "trajectory": "Y*XWZ\n***W*\n**AW*\n*****\n*WW*M\n (2, 2)\n(2, 1) view X; memory X\n(1, 1) view X,Y; memory X,Y\n(1, 0) view X,Y; memory X,Y\n(0, 0) view Y; memory X,Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_79"
+    },
+    "FOOD_TRUCK_79_1": {
+        "trajectory": "Y*XWZ\n***W*\n**AW*\n*****\n*WW*M\n (2, 2)\n(2, 1) view X; memory X\n(1, 1) view X,Y; memory X,Y\n(2, 1) view X; memory X,Y\n(2, 2) memory X,Y\n(2, 3) memory X,Y\n(3, 3) view M; memory X,Y,M\n(4, 3) view M; memory X,Y,M\n(4, 2) memory X,Y,M\n(4, 1) view Z; memory X,Y,M,Z\n(4, 0) view Z; memory X,Y,M,Z; pick Z",
+        "gt": "Z > { {N,M,X,Y}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_79"
+    },
+    "FOOD_TRUCK_79_2": {
+        "trajectory": "Y*XWZ\n***W*\n**AW*\n*****\n*WW*M\n (2, 2)\n(2, 1) view X; memory X\n(1, 1) view X,Y; memory X,Y\n(2, 1) view X; memory X,Y\n(2, 2) memory X,Y\n(2, 3) memory X,Y\n(3, 3) view M; memory X,Y,M\n(4, 3) view M; memory X,Y,M\n(4, 4) view M; memory X,Y,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_79"
+    },
+    "FOOD_TRUCK_79_3": {
+        "trajectory": "Y*XWZ\n***W*\n**AW*\n*****\n*WW*M\n (2, 2)\n(2, 1) view X; memory X\n(2, 0) view X; memory X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_79"
+    },
+    "FOOD_TRUCK_79_4": {
+        "trajectory": "Y*XWZ\n***W*\n**AW*\n*****\n*WW*M\n (2, 2)\n(2, 1) view X; memory X\n(1, 1) view X,Y; memory X,Y\n(2, 1) view X; memory X,Y\n(2, 2) memory X,Y\n(2, 3) memory X,Y\n(3, 3) view M; memory X,Y,M\n(4, 3) view M; memory X,Y,M\n(4, 2) memory X,Y,M\n(4, 1) view Z; memory X,Y,M,Z\n(4, 2) memory X,Y,M,Z\n(4, 3) view M; memory X,Y,M,Z\n(4, 4) view M; memory X,Y,M,Z; pick M",
+        "gt": "N > M > {X,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_79"
+    },
+    "FOOD_TRUCK_80_0": {
+        "trajectory": "Y**W*\n*WWW*\nAZ*W*\n*****\n*M**X\n (0, 2) view Z; memory Z\n(0, 1) view Y,Z; memory Z,Y\n(0, 2) view Z; memory Z,Y\n(0, 3) view Z,M; memory Z,Y,M\n(1, 3) view Z,M; memory Z,Y,M\n(2, 3) view Z,M; memory Z,Y,M\n(3, 3) view X; memory Z,Y,M,X\n(4, 3) view X; memory Z,Y,M,X\n(4, 4) view X; memory Z,Y,M,X; pick X",
+        "gt": "X > { {N,M,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_80"
+    },
+    "FOOD_TRUCK_80_1": {
+        "trajectory": "Y**W*\n*WWW*\nAZ*W*\n*****\n*M**X\n (0, 2) view Z; memory Z\n(0, 1) view Y,Z; memory Z,Y\n(0, 0) view Y; memory Z,Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_80"
+    },
+    "FOOD_TRUCK_80_2": {
+        "trajectory": "Y**W*\n*WWW*\nAZ*W*\n*****\n*M**X\n (0, 2) view Z; memory Z\n(0, 1) view Y,Z; memory Z,Y\n(0, 2) view Z; memory Z,Y\n(0, 3) view Z,M; memory Z,Y,M\n(1, 3) view Z,M; memory Z,Y,M\n(1, 4) view M; memory Z,Y,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_80"
+    },
+    "FOOD_TRUCK_80_3": {
+        "trajectory": "Y**W*\n*WWW*\nAZ*W*\n*****\n*M**X\n (0, 2) view Z; memory Z\n(0, 1) view Y,Z; memory Z,Y\n(0, 2) view Z; memory Z,Y\n(0, 3) view Z,M; memory Z,Y,M\n(1, 3) view Z,M; memory Z,Y,M\n(2, 3) view Z,M; memory Z,Y,M\n(3, 3) view X; memory Z,Y,M,X\n(3, 4) view X; memory Z,Y,M,X\n(2, 4) view M; memory Z,Y,M,X\n(1, 4) view M; memory Z,Y,M,X; pick M",
+        "gt": "N > M > {X,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_80"
+    },
+    "FOOD_TRUCK_80_4": {
+        "trajectory": "Y**W*\n*WWW*\nAZ*W*\n*****\n*M**X\n (0, 2) view Z; memory Z\n(1, 2) view Z; memory Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_80"
+    },
+    "FOOD_TRUCK_81_0": {
+        "trajectory": "WWM**\nW****\nWZ**X\n***YA\n*****\n (4, 3) view X,Y; memory X,Y\n(4, 2) view X,Y; memory X,Y; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_81"
+    },
+    "FOOD_TRUCK_81_1": {
+        "trajectory": "WWM**\nW****\nWZ**X\n***YA\n*****\n (4, 3) view X,Y; memory X,Y\n(3, 3) view X,Y; memory X,Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_81"
+    },
+    "FOOD_TRUCK_81_2": {
+        "trajectory": "WWM**\nW****\nWZ**X\n***YA\n*****\n (4, 3) view X,Y; memory X,Y\n(3, 3) view X,Y; memory X,Y\n(2, 3) view Y,Z; memory X,Y,Z\n(2, 2) view Y,Z; memory X,Y,Z\n(2, 1) view Z,M; memory X,Y,Z,M\n(2, 0) view M; memory X,Y,Z,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_81"
+    },
+    "FOOD_TRUCK_81_3": {
+        "trajectory": "WWM**\nW****\nWZ**X\n***YA\n*****\n (4, 3) view X,Y; memory X,Y\n(3, 3) view X,Y; memory X,Y\n(2, 3) view Y,Z; memory X,Y,Z\n(2, 2) view Y,Z; memory X,Y,Z\n(1, 2) view Z; memory X,Y,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_81"
+    },
+    "FOOD_TRUCK_81_4": {
+        "trajectory": "WWM**\nW****\nWZ**X\n***YA\n*****\n (4, 3) view X,Y; memory X,Y\n(3, 3) view X,Y; memory X,Y\n(2, 3) view Y,Z; memory X,Y,Z\n(2, 2) view Y,Z; memory X,Y,Z\n(2, 1) view Z,M; memory X,Y,Z,M\n(2, 2) view Y,Z; memory X,Y,Z,M\n(1, 2) view Z; memory X,Y,Z,M; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_81"
+    },
+    "FOOD_TRUCK_82_0": {
+        "trajectory": "*WW**\nXWWY*\nAWW**\nM****\n**Z**\n (0, 2) view X,M; memory X,M\n(0, 3) view M; memory X,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_82"
+    },
+    "FOOD_TRUCK_82_1": {
+        "trajectory": "*WW**\nXWWY*\nAWW**\nM****\n**Z**\n (0, 2) view X,M; memory X,M\n(0, 3) view M; memory X,M\n(1, 3) view Z,M; memory X,M,Z\n(2, 3) view Z; memory X,M,Z\n(3, 3) view Z; memory X,M,Z\n(3, 2) view Y; memory X,M,Z,Y\n(3, 1) view Y; memory X,M,Z,Y; pick Y",
+        "gt": "Y > { {N,M,X,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_82"
+    },
+    "FOOD_TRUCK_82_2": {
+        "trajectory": "*WW**\nXWWY*\nAWW**\nM****\n**Z**\n (0, 2) view X,M; memory X,M\n(0, 1) view X; memory X,M; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_82"
+    },
+    "FOOD_TRUCK_82_3": {
+        "trajectory": "*WW**\nXWWY*\nAWW**\nM****\n**Z**\n (0, 2) view X,M; memory X,M\n(0, 3) view M; memory X,M\n(1, 3) view Z,M; memory X,M,Z\n(2, 3) view Z; memory X,M,Z\n(3, 3) view Z; memory X,M,Z\n(3, 2) view Y; memory X,M,Z,Y\n(3, 3) view Z; memory X,M,Z,Y\n(3, 4) view Z; memory X,M,Z,Y\n(2, 4) view Z; memory X,M,Z,Y; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_82"
+    },
+    "FOOD_TRUCK_82_4": {
+        "trajectory": "*WW**\nXWWY*\nAWW**\nM****\n**Z**\n (0, 2) view X,M; memory X,M\n(0, 3) view M; memory X,M\n(1, 3) view Z,M; memory X,M,Z\n(2, 3) view Z; memory X,M,Z\n(3, 3) view Z; memory X,M,Z\n(3, 2) view Y; memory X,M,Z,Y\n(3, 3) view Z; memory X,M,Z,Y\n(2, 3) view Z; memory X,M,Z,Y\n(1, 3) view Z,M; memory X,M,Z,Y\n(0, 3) view M; memory X,M,Z,Y\n(0, 2) view X,M; memory X,M,Z,Y\n(0, 1) view X; memory X,M,Z,Y; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_82"
+    },
+    "FOOD_TRUCK_83_0": {
+        "trajectory": "WWWW*\n*Z***\n*WWW*\nM*Y*X\n****A\n (4, 4) view X; memory X\n(4, 3) view X; memory X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_83"
+    },
+    "FOOD_TRUCK_83_1": {
+        "trajectory": "WWWW*\n*Z***\n*WWW*\nM*Y*X\n****A\n (4, 4) view X; memory X\n(3, 4) view X,Y; memory X,Y\n(2, 4) view Y; memory X,Y\n(1, 4) view Y,M; memory X,Y,M\n(1, 3) view Y,M; memory X,Y,M\n(0, 3) view M; memory X,Y,M\n(0, 2) view Z,M; memory X,Y,M,Z\n(0, 1) view Z; memory X,Y,M,Z\n(1, 1) view Z; memory X,Y,M,Z; pick Z",
+        "gt": "Z > { {N,M,X,Y}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_83"
+    },
+    "FOOD_TRUCK_83_2": {
+        "trajectory": "WWWW*\n*Z***\n*WWW*\nM*Y*X\n****A\n (4, 4) view X; memory X\n(3, 4) view X,Y; memory X,Y\n(2, 4) view Y; memory X,Y\n(1, 4) view Y,M; memory X,Y,M\n(1, 3) view Y,M; memory X,Y,M\n(0, 3) view M; memory X,Y,M\n(0, 2) view Z,M; memory X,Y,M,Z\n(0, 3) view M; memory X,Y,M,Z\n(1, 3) view Y,M; memory X,Y,M,Z\n(2, 3) view Y; memory X,Y,M,Z; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_83"
+    },
+    "FOOD_TRUCK_83_3": {
+        "trajectory": "WWWW*\n*Z***\n*WWW*\nM*Y*X\n****A\n (4, 4) view X; memory X\n(3, 4) view X,Y; memory X,Y\n(3, 3) view X,Y; memory X,Y\n(2, 3) view Y; memory X,Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_83"
+    },
+    "FOOD_TRUCK_83_4": {
+        "trajectory": "WWWW*\n*Z***\n*WWW*\nM*Y*X\n****A\n (4, 4) view X; memory X\n(3, 4) view X,Y; memory X,Y\n(2, 4) view Y; memory X,Y\n(1, 4) view Y,M; memory X,Y,M\n(1, 3) view Y,M; memory X,Y,M\n(0, 3) view M; memory X,Y,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_83"
+    },
+    "FOOD_TRUCK_84_0": {
+        "trajectory": "W*M**\nW**W*\nW**WY\n***W*\nZ**XA\n (4, 4) view X; memory X\n(4, 3) view X,Y; memory X,Y\n(4, 4) view X; memory X,Y\n(3, 4) view X; memory X,Y\n(2, 4) view X; memory X,Y\n(1, 4) view Z; memory X,Y,Z\n(1, 3) view Z; memory X,Y,Z\n(1, 2) memory X,Y,Z\n(1, 1) view M; memory X,Y,Z,M\n(1, 0) view M; memory X,Y,Z,M\n(2, 0) view M; memory X,Y,Z,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_84"
+    },
+    "FOOD_TRUCK_84_1": {
+        "trajectory": "W*M**\nW**W*\nW**WY\n***W*\nZ**XA\n (4, 4) view X; memory X\n(4, 3) view X,Y; memory X,Y\n(4, 4) view X; memory X,Y\n(3, 4) view X; memory X,Y\n(2, 4) view X; memory X,Y\n(1, 4) view Z; memory X,Y,Z\n(1, 3) view Z; memory X,Y,Z\n(1, 2) memory X,Y,Z\n(1, 1) view M; memory X,Y,Z,M\n(1, 0) view M; memory X,Y,Z,M\n(2, 0) view M; memory X,Y,Z,M\n(3, 0) view M; memory X,Y,Z,M\n(4, 0) memory X,Y,Z,M\n(4, 1) view Y; memory X,Y,Z,M\n(4, 2) view Y; memory X,Y,Z,M; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_84"
+    },
+    "FOOD_TRUCK_84_2": {
+        "trajectory": "W*M**\nW**W*\nW**WY\n***W*\nZ**XA\n (4, 4) view X; memory X\n(4, 3) view X,Y; memory X,Y\n(4, 4) view X; memory X,Y\n(3, 4) view X; memory X,Y\n(2, 4) view X; memory X,Y\n(1, 4) view Z; memory X,Y,Z\n(0, 4) view Z; memory X,Y,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_84"
+    },
+    "FOOD_TRUCK_84_3": {
+        "trajectory": "W*M**\nW**W*\nW**WY\n***W*\nZ**XA\n (4, 4) view X; memory X\n(4, 3) view X,Y; memory X,Y\n(4, 2) view Y; memory X,Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_84"
+    },
+    "FOOD_TRUCK_84_4": {
+        "trajectory": "W*M**\nW**W*\nW**WY\n***W*\nZ**XA\n (4, 4) view X; memory X\n(3, 4) view X; memory X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_84"
+    },
+    "FOOD_TRUCK_85_0": {
+        "trajectory": "X***W\n*Y**W\nM***W\n**WWW\nZ**A*\n (3, 4)\n(2, 4)\n(1, 4) view Z; memory Z\n(1, 3) view Z,M; memory Z,M\n(1, 2) view Y,M; memory Z,M,Y\n(0, 2) view Y,M; memory Z,M,Y; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_85"
+    },
+    "FOOD_TRUCK_85_1": {
+        "trajectory": "X***W\n*Y**W\nM***W\n**WWW\nZ**A*\n (3, 4)\n(2, 4)\n(1, 4) view Z; memory Z\n(1, 3) view Z,M; memory Z,M\n(1, 2) view Y,M; memory Z,M,Y\n(1, 1) view X,Y,M; memory Z,M,Y,X\n(1, 0) view X,Y; memory Z,M,Y,X\n(0, 0) view X,Y; memory Z,M,Y,X; pick X",
+        "gt": "X > { {N,M,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_85"
+    },
+    "FOOD_TRUCK_85_2": {
+        "trajectory": "X***W\n*Y**W\nM***W\n**WWW\nZ**A*\n (3, 4)\n(2, 4)\n(1, 4) view Z; memory Z\n(1, 3) view Z,M; memory Z,M\n(1, 2) view Y,M; memory Z,M,Y\n(1, 1) view X,Y,M; memory Z,M,Y,X; pick Y",
+        "gt": "Y > { {N,M,X,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_85"
+    },
+    "FOOD_TRUCK_85_3": {
+        "trajectory": "X***W\n*Y**W\nM***W\n**WWW\nZ**A*\n (3, 4)\n(2, 4)\n(1, 4) view Z; memory Z\n(0, 4) view Z; memory Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_85"
+    },
+    "FOOD_TRUCK_85_4": {
+        "trajectory": "X***W\n*Y**W\nM***W\n**WWW\nZ**A*\n (3, 4)\n(2, 4)\n(1, 4) view Z; memory Z\n(1, 3) view Z,M; memory Z,M\n(1, 2) view Y,M; memory Z,M,Y\n(1, 1) view X,Y,M; memory Z,M,Y,X\n(1, 2) view Y,M; memory Z,M,Y,X\n(0, 2) view Y,M; memory Z,M,Y,X; pick M",
+        "gt": "N > M > {X,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_85"
+    },
+    "FOOD_TRUCK_86_0": {
+        "trajectory": "***WA\nM**W*\n**YW*\nZ**W*\nWWX**\n (4, 0)\n(4, 1)\n(4, 2)\n(4, 3)\n(4, 4)\n(3, 4) view X; memory X\n(2, 4) view X; memory X\n(2, 3) view X,Y; memory X,Y\n(1, 3) view X,Y,Z; memory X,Y,Z\n(0, 3) view Z; memory X,Y,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_86"
+    },
+    "FOOD_TRUCK_86_1": {
+        "trajectory": "***WA\nM**W*\n**YW*\nZ**W*\nWWX**\n (4, 0)\n(4, 1)\n(4, 2)\n(4, 3)\n(4, 4)\n(3, 4) view X; memory X\n(2, 4) view X; memory X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_86"
+    },
+    "FOOD_TRUCK_86_2": {
+        "trajectory": "***WA\nM**W*\n**YW*\nZ**W*\nWWX**\n (4, 0)\n(4, 1)\n(4, 2)\n(4, 3)\n(4, 4)\n(3, 4) view X; memory X\n(2, 4) view X; memory X\n(2, 3) view X,Y; memory X,Y\n(1, 3) view X,Y,Z; memory X,Y,Z\n(1, 2) view Y,Z,M; memory X,Y,Z,M\n(1, 1) view Y,M; memory X,Y,Z,M\n(0, 1) view M; memory X,Y,Z,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_86"
+    },
+    "FOOD_TRUCK_86_3": {
+        "trajectory": "***WA\nM**W*\n**YW*\nZ**W*\nWWX**\n (4, 0)\n(4, 1)\n(4, 2)\n(4, 3)\n(4, 4)\n(3, 4) view X; memory X\n(2, 4) view X; memory X\n(2, 3) view X,Y; memory X,Y\n(1, 3) view X,Y,Z; memory X,Y,Z\n(1, 2) view Y,Z,M; memory X,Y,Z,M\n(2, 2) view Y; memory X,Y,Z,M; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_86"
+    },
+    "FOOD_TRUCK_86_4": {
+        "trajectory": "***WA\nM**W*\n**YW*\nZ**W*\nWWX**\n (4, 0)\n(4, 1)\n(4, 2)\n(4, 3)\n(4, 4)\n(3, 4) view X; memory X\n(2, 4) view X; memory X\n(2, 3) view X,Y; memory X,Y\n(1, 3) view X,Y,Z; memory X,Y,Z\n(1, 2) view Y,Z,M; memory X,Y,Z,M\n(2, 2) view Y; memory X,Y,Z,M\n(2, 3) view X,Y; memory X,Y,Z,M\n(2, 4) view X; memory X,Y,Z,M; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_86"
+    },
+    "FOOD_TRUCK_87_0": {
+        "trajectory": "**Y**\n*Z*A*\nM**W*\nWWWW*\nX****\n (3, 1) view Y; memory Y\n(3, 0) view Y; memory Y\n(2, 0) view Y,Z; memory Y,Z; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_87"
+    },
+    "FOOD_TRUCK_87_1": {
+        "trajectory": "**Y**\n*Z*A*\nM**W*\nWWWW*\nX****\n (3, 1) view Y; memory Y\n(2, 1) view Y,Z; memory Y,Z\n(1, 1) view Y,Z,M; memory Y,Z,M\n(2, 1) view Y,Z; memory Y,Z,M\n(3, 1) view Y; memory Y,Z,M\n(4, 1) memory Y,Z,M\n(4, 2) memory Y,Z,M\n(4, 3) memory Y,Z,M\n(4, 4) memory Y,Z,M\n(3, 4) memory Y,Z,M\n(2, 4) memory Y,Z,M\n(1, 4) view X; memory Y,Z,M,X\n(0, 4) view X; memory Y,Z,M,X; pick X",
+        "gt": "X > { {N,M,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_87"
+    },
+    "FOOD_TRUCK_87_2": {
+        "trajectory": "**Y**\n*Z*A*\nM**W*\nWWWW*\nX****\n (3, 1) view Y; memory Y\n(2, 1) view Y,Z; memory Y,Z\n(1, 1) view Y,Z,M; memory Y,Z,M\n(1, 2) view Z,M; memory Y,Z,M\n(0, 2) view Z,M; memory Y,Z,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_87"
+    },
+    "FOOD_TRUCK_87_3": {
+        "trajectory": "**Y**\n*Z*A*\nM**W*\nWWWW*\nX****\n (3, 1) view Y; memory Y\n(2, 1) view Y,Z; memory Y,Z\n(1, 1) view Y,Z,M; memory Y,Z,M; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_87"
+    },
+    "FOOD_TRUCK_87_4": {
+        "trajectory": "**Y**\n*Z*A*\nM**W*\nWWWW*\nX****\n (3, 1) view Y; memory Y\n(2, 1) view Y,Z; memory Y,Z\n(1, 1) view Y,Z,M; memory Y,Z,M\n(2, 1) view Y,Z; memory Y,Z,M\n(3, 1) view Y; memory Y,Z,M\n(4, 1) memory Y,Z,M\n(4, 2) memory Y,Z,M\n(4, 3) memory Y,Z,M\n(4, 4) memory Y,Z,M\n(3, 4) memory Y,Z,M\n(2, 4) memory Y,Z,M\n(1, 4) view X; memory Y,Z,M,X\n(2, 4) memory Y,Z,M,X\n(3, 4) memory Y,Z,M,X\n(4, 4) memory Y,Z,M,X\n(4, 3) memory Y,Z,M,X\n(4, 2) memory Y,Z,M,X\n(4, 1) memory Y,Z,M,X\n(4, 0) memory Y,Z,M,X\n(3, 0) view Y; memory Y,Z,M,X\n(2, 0) view Y,Z; memory Y,Z,M,X; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_87"
+    },
+    "FOOD_TRUCK_88_0": {
+        "trajectory": "**MW*\nWA*W*\nW**WX\n***W*\n**Z*Y\n (1, 1) view M; memory M\n(1, 2) memory M\n(1, 3) view Z; memory M,Z\n(2, 3) view Z; memory M,Z\n(2, 4) view Z; memory M,Z\n(3, 4) view Y,Z; memory M,Z,Y\n(4, 4) view Y; memory M,Z,Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_88"
+    },
+    "FOOD_TRUCK_88_1": {
+        "trajectory": "**MW*\nWA*W*\nW**WX\n***W*\n**Z*Y\n (1, 1) view M; memory M\n(1, 2) memory M\n(1, 3) view Z; memory M,Z\n(2, 3) view Z; memory M,Z\n(2, 4) view Z; memory M,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_88"
+    },
+    "FOOD_TRUCK_88_2": {
+        "trajectory": "**MW*\nWA*W*\nW**WX\n***W*\n**Z*Y\n (1, 1) view M; memory M\n(1, 2) memory M\n(1, 3) view Z; memory M,Z\n(2, 3) view Z; memory M,Z\n(2, 4) view Z; memory M,Z\n(3, 4) view Y,Z; memory M,Z,Y\n(4, 4) view Y; memory M,Z,Y\n(4, 3) view X,Y; memory M,Z,Y,X\n(4, 2) view X; memory M,Z,Y,X; pick X",
+        "gt": "X > { {N,M,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_88"
+    },
+    "FOOD_TRUCK_88_3": {
+        "trajectory": "**MW*\nWA*W*\nW**WX\n***W*\n**Z*Y\n (1, 1) view M; memory M\n(1, 0) view M; memory M\n(2, 0) view M; memory M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_88"
+    },
+    "FOOD_TRUCK_88_4": {
+        "trajectory": "**MW*\nWA*W*\nW**WX\n***W*\n**Z*Y\n (1, 1) view M; memory M\n(1, 2) memory M\n(1, 3) view Z; memory M,Z\n(2, 3) view Z; memory M,Z\n(2, 4) view Z; memory M,Z\n(3, 4) view Y,Z; memory M,Z,Y\n(4, 4) view Y; memory M,Z,Y\n(4, 3) view X,Y; memory M,Z,Y,X\n(4, 4) view Y; memory M,Z,Y,X\n(3, 4) view Y,Z; memory M,Z,Y,X\n(2, 4) view Z; memory M,Z,Y,X; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_88"
+    },
+    "FOOD_TRUCK_89_0": {
+        "trajectory": "M*W**\n*ZW**\n****X\n*****\nWWAY*\n (2, 4) view Y; memory Y\n(2, 3) view Y; memory Y\n(3, 3) view X,Y; memory Y,X\n(3, 2) view X; memory Y,X\n(2, 2) view Z; memory Y,X,Z\n(1, 2) view Z; memory Y,X,Z\n(1, 1) view Z,M; memory Y,X,Z,M; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_89"
+    },
+    "FOOD_TRUCK_89_1": {
+        "trajectory": "M*W**\n*ZW**\n****X\n*****\nWWAY*\n (2, 4) view Y; memory Y\n(2, 3) view Y; memory Y\n(3, 3) view X,Y; memory Y,X\n(3, 2) view X; memory Y,X\n(4, 2) view X; memory Y,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_89"
+    },
+    "FOOD_TRUCK_89_2": {
+        "trajectory": "M*W**\n*ZW**\n****X\n*****\nWWAY*\n (2, 4) view Y; memory Y\n(2, 3) view Y; memory Y\n(3, 3) view X,Y; memory Y,X\n(3, 2) view X; memory Y,X\n(2, 2) view Z; memory Y,X,Z\n(1, 2) view Z; memory Y,X,Z\n(1, 1) view Z,M; memory Y,X,Z,M\n(1, 0) view Z,M; memory Y,X,Z,M\n(0, 0) view Z,M; memory Y,X,Z,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_89"
+    },
+    "FOOD_TRUCK_89_3": {
+        "trajectory": "M*W**\n*ZW**\n****X\n*****\nWWAY*\n (2, 4) view Y; memory Y\n(2, 3) view Y; memory Y\n(3, 3) view X,Y; memory Y,X\n(3, 2) view X; memory Y,X\n(2, 2) view Z; memory Y,X,Z\n(1, 2) view Z; memory Y,X,Z\n(1, 1) view Z,M; memory Y,X,Z,M\n(1, 2) view Z; memory Y,X,Z,M\n(2, 2) view Z; memory Y,X,Z,M\n(3, 2) view X; memory Y,X,Z,M\n(3, 3) view X,Y; memory Y,X,Z,M\n(3, 4) view Y; memory Y,X,Z,M; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_89"
+    },
+    "FOOD_TRUCK_89_4": {
+        "trajectory": "M*W**\n*ZW**\n****X\n*****\nWWAY*\n (2, 4) view Y; memory Y\n(3, 4) view Y; memory Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_89"
+    },
+    "FOOD_TRUCK_90_0": {
+        "trajectory": "*X*WA\n**YW*\n*WWW*\n***W*\n**M*Z\n (4, 0)\n(4, 1)\n(4, 2)\n(4, 3) view Z; memory Z\n(4, 4) view Z; memory Z\n(3, 4) view Z,M; memory Z,M\n(2, 4) view M; memory Z,M\n(2, 3) view M; memory Z,M\n(1, 3) view M; memory Z,M\n(0, 3) memory Z,M\n(0, 2) memory Z,M\n(0, 1) view X; memory Z,M,X\n(1, 1) view X,Y; memory Z,M,X,Y\n(0, 1) view X; memory Z,M,X,Y\n(0, 2) memory Z,M,X,Y\n(0, 3) memory Z,M,X,Y\n(1, 3) view M; memory Z,M,X,Y\n(2, 3) view M; memory Z,M,X,Y\n(2, 4) view M; memory Z,M,X,Y; pick M",
+        "gt": "N > M > {X,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_90"
+    },
+    "FOOD_TRUCK_90_1": {
+        "trajectory": "*X*WA\n**YW*\n*WWW*\n***W*\n**M*Z\n (4, 0)\n(4, 1)\n(4, 2)\n(4, 3) view Z; memory Z\n(4, 4) view Z; memory Z\n(3, 4) view Z,M; memory Z,M\n(2, 4) view M; memory Z,M\n(2, 3) view M; memory Z,M\n(1, 3) view M; memory Z,M\n(0, 3) memory Z,M\n(0, 2) memory Z,M\n(0, 1) view X; memory Z,M,X\n(1, 1) view X,Y; memory Z,M,X,Y\n(2, 1) view X,Y; memory Z,M,X,Y; pick Y",
+        "gt": "Y > { {N,M,X,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_90"
+    },
+    "FOOD_TRUCK_90_2": {
+        "trajectory": "*X*WA\n**YW*\n*WWW*\n***W*\n**M*Z\n (4, 0)\n(4, 1)\n(4, 2)\n(4, 3) view Z; memory Z\n(4, 4) view Z; memory Z\n(3, 4) view Z,M; memory Z,M\n(2, 4) view M; memory Z,M\n(2, 3) view M; memory Z,M\n(1, 3) view M; memory Z,M\n(0, 3) memory Z,M\n(0, 2) memory Z,M\n(0, 1) view X; memory Z,M,X\n(0, 0) view X; memory Z,M,X\n(1, 0) view X,Y; memory Z,M,X,Y; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_90"
+    },
+    "FOOD_TRUCK_90_3": {
+        "trajectory": "*X*WA\n**YW*\n*WWW*\n***W*\n**M*Z\n (4, 0)\n(4, 1)\n(4, 2)\n(4, 3) view Z; memory Z\n(4, 4) view Z; memory Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_90"
+    },
+    "FOOD_TRUCK_90_4": {
+        "trajectory": "*X*WA\n**YW*\n*WWW*\n***W*\n**M*Z\n (4, 0)\n(4, 1)\n(4, 2)\n(4, 3) view Z; memory Z\n(4, 4) view Z; memory Z\n(3, 4) view Z,M; memory Z,M\n(2, 4) view M; memory Z,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_90"
+    },
+    "FOOD_TRUCK_91_0": {
+        "trajectory": "****Y\n***Z*\nWWWW*\n*MWWX\n*A***\n (1, 4) view M; memory M\n(2, 4) view M; memory M\n(3, 4) view X; memory M,X\n(4, 4) view X; memory M,X\n(4, 3) view X; memory M,X\n(4, 2) view X,Z; memory M,X,Z\n(4, 1) view Y,Z; memory M,X,Z,Y\n(4, 2) view X,Z; memory M,X,Z,Y\n(4, 3) view X; memory M,X,Z,Y\n(4, 4) view X; memory M,X,Z,Y\n(3, 4) view X; memory M,X,Z,Y\n(2, 4) view M; memory M,X,Z,Y\n(1, 4) view M; memory M,X,Z,Y\n(1, 3) view M; memory M,X,Z,Y; pick M",
+        "gt": "N > M > {X,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_91"
+    },
+    "FOOD_TRUCK_91_1": {
+        "trajectory": "****Y\n***Z*\nWWWW*\n*MWWX\n*A***\n (1, 4) view M; memory M\n(2, 4) view M; memory M\n(3, 4) view X; memory M,X\n(4, 4) view X; memory M,X\n(4, 3) view X; memory M,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_91"
+    },
+    "FOOD_TRUCK_91_2": {
+        "trajectory": "****Y\n***Z*\nWWWW*\n*MWWX\n*A***\n (1, 4) view M; memory M\n(2, 4) view M; memory M\n(3, 4) view X; memory M,X\n(4, 4) view X; memory M,X\n(4, 3) view X; memory M,X\n(4, 2) view X,Z; memory M,X,Z\n(4, 1) view Y,Z; memory M,X,Z,Y\n(4, 0) view Y,Z; memory M,X,Z,Y; pick Y",
+        "gt": "Y > { {N,M,X,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_91"
+    },
+    "FOOD_TRUCK_91_3": {
+        "trajectory": "****Y\n***Z*\nWWWW*\n*MWWX\n*A***\n (1, 4) view M; memory M\n(1, 3) view M; memory M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_91"
+    },
+    "FOOD_TRUCK_91_4": {
+        "trajectory": "****Y\n***Z*\nWWWW*\n*MWWX\n*A***\n (1, 4) view M; memory M\n(2, 4) view M; memory M\n(3, 4) view X; memory M,X\n(4, 4) view X; memory M,X\n(4, 3) view X; memory M,X\n(4, 2) view X,Z; memory M,X,Z\n(4, 1) view Y,Z; memory M,X,Z,Y\n(4, 2) view X,Z; memory M,X,Z,Y\n(4, 3) view X; memory M,X,Z,Y; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_91"
+    },
+    "FOOD_TRUCK_92_0": {
+        "trajectory": "*Z**X\nW*Y**\nW****\nA**M*\nWW***\n (0, 3)\n(1, 3)\n(1, 2) view Y; memory Y\n(1, 1) view Y,Z; memory Y,Z\n(1, 0) view Y,Z; memory Y,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_92"
+    },
+    "FOOD_TRUCK_92_1": {
+        "trajectory": "*Z**X\nW*Y**\nW****\nA**M*\nWW***\n (0, 3)\n(1, 3)\n(1, 2) view Y; memory Y\n(1, 1) view Y,Z; memory Y,Z\n(2, 1) view Y,Z; memory Y,Z\n(3, 1) view X,Y; memory Y,Z,X\n(3, 2) view Y,M; memory Y,Z,X,M\n(3, 3) view M; memory Y,Z,X,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_92"
+    },
+    "FOOD_TRUCK_92_2": {
+        "trajectory": "*Z**X\nW*Y**\nW****\nA**M*\nWW***\n (0, 3)\n(1, 3)\n(1, 2) view Y; memory Y\n(1, 1) view Y,Z; memory Y,Z\n(2, 1) view Y,Z; memory Y,Z; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_92"
+    },
+    "FOOD_TRUCK_92_3": {
+        "trajectory": "*Z**X\nW*Y**\nW****\nA**M*\nWW***\n (0, 3)\n(1, 3)\n(1, 2) view Y; memory Y\n(1, 1) view Y,Z; memory Y,Z\n(2, 1) view Y,Z; memory Y,Z\n(3, 1) view X,Y; memory Y,Z,X\n(3, 2) view Y,M; memory Y,Z,X,M\n(3, 1) view X,Y; memory Y,Z,X,M\n(3, 0) view X,Y; memory Y,Z,X,M\n(4, 0) view X; memory Y,Z,X,M; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_92"
+    },
+    "FOOD_TRUCK_92_4": {
+        "trajectory": "*Z**X\nW*Y**\nW****\nA**M*\nWW***\n (0, 3)\n(1, 3)\n(1, 2) view Y; memory Y\n(1, 1) view Y,Z; memory Y,Z\n(2, 1) view Y,Z; memory Y,Z\n(3, 1) view X,Y; memory Y,Z,X\n(3, 0) view X,Y; memory Y,Z,X\n(4, 0) view X; memory Y,Z,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_92"
+    },
+    "FOOD_TRUCK_93_0": {
+        "trajectory": "WZ*X*\nWW***\n*WY**\n*W*M*\n**A**\n (2, 4) view M; memory M\n(2, 3) view Y,M; memory M,Y\n(3, 3) view Y,M; memory M,Y; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_93"
+    },
+    "FOOD_TRUCK_93_1": {
+        "trajectory": "WZ*X*\nWW***\n*WY**\n*W*M*\n**A**\n (2, 4) view M; memory M\n(2, 3) view Y,M; memory M,Y\n(2, 2) view Y,M; memory M,Y\n(2, 1) view X,Y,Z; memory M,Y,X,Z\n(2, 0) view X,Z; memory M,Y,X,Z\n(3, 0) view X; memory M,Y,X,Z; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_93"
+    },
+    "FOOD_TRUCK_93_2": {
+        "trajectory": "WZ*X*\nWW***\n*WY**\n*W*M*\n**A**\n (2, 4) view M; memory M\n(2, 3) view Y,M; memory M,Y\n(2, 2) view Y,M; memory M,Y\n(2, 1) view X,Y,Z; memory M,Y,X,Z\n(3, 1) view X,Y; memory M,Y,X,Z\n(3, 2) view Y,M; memory M,Y,X,Z\n(3, 3) view Y,M; memory M,Y,X,Z; pick M",
+        "gt": "N > M > {X,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_93"
+    },
+    "FOOD_TRUCK_93_3": {
+        "trajectory": "WZ*X*\nWW***\n*WY**\n*W*M*\n**A**\n (2, 4) view M; memory M\n(2, 3) view Y,M; memory M,Y\n(2, 2) view Y,M; memory M,Y\n(2, 1) view X,Y,Z; memory M,Y,X,Z\n(2, 0) view X,Z; memory M,Y,X,Z\n(1, 0) view Z; memory M,Y,X,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_93"
+    },
+    "FOOD_TRUCK_93_4": {
+        "trajectory": "WZ*X*\nWW***\n*WY**\n*W*M*\n**A**\n (2, 4) view M; memory M\n(2, 3) view Y,M; memory M,Y\n(2, 2) view Y,M; memory M,Y\n(2, 1) view X,Y,Z; memory M,Y,X,Z\n(2, 2) view Y,M; memory M,Y,X,Z; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_93"
+    },
+    "FOOD_TRUCK_94_0": {
+        "trajectory": "*W**Z\nMW**A\n****W\n*Y**W\n****X\n (4, 1) view Z; memory Z\n(3, 1) view Z; memory Z\n(3, 2) memory Z\n(3, 3) view X; memory Z,X\n(2, 3) view Y; memory Z,X,Y\n(2, 2) view Y; memory Z,X,Y\n(1, 2) view Y,M; memory Z,X,Y,M\n(0, 2) view Y,M; memory Z,X,Y,M\n(0, 1) view M; memory Z,X,Y,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_94"
+    },
+    "FOOD_TRUCK_94_1": {
+        "trajectory": "*W**Z\nMW**A\n****W\n*Y**W\n****X\n (4, 1) view Z; memory Z\n(3, 1) view Z; memory Z\n(3, 2) memory Z\n(3, 3) view X; memory Z,X\n(3, 4) view X; memory Z,X\n(4, 4) view X; memory Z,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_94"
+    },
+    "FOOD_TRUCK_94_2": {
+        "trajectory": "*W**Z\nMW**A\n****W\n*Y**W\n****X\n (4, 1) view Z; memory Z\n(3, 1) view Z; memory Z\n(3, 2) memory Z\n(3, 3) view X; memory Z,X\n(2, 3) view Y; memory Z,X,Y\n(1, 3) view Y; memory Z,X,Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_94"
+    },
+    "FOOD_TRUCK_94_3": {
+        "trajectory": "*W**Z\nMW**A\n****W\n*Y**W\n****X\n (4, 1) view Z; memory Z\n(4, 0) view Z; memory Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_94"
+    },
+    "FOOD_TRUCK_94_4": {
+        "trajectory": "*W**Z\nMW**A\n****W\n*Y**W\n****X\n (4, 1) view Z; memory Z\n(3, 1) view Z; memory Z\n(3, 2) memory Z\n(3, 3) view X; memory Z,X\n(2, 3) view Y; memory Z,X,Y\n(2, 2) view Y; memory Z,X,Y\n(1, 2) view Y,M; memory Z,X,Y,M\n(2, 2) view Y; memory Z,X,Y,M\n(3, 2) memory Z,X,Y,M\n(3, 3) view X; memory Z,X,Y,M\n(3, 4) view X; memory Z,X,Y,M\n(4, 4) view X; memory Z,X,Y,M; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_94"
+    },
+    "FOOD_TRUCK_95_0": {
+        "trajectory": "***W*\nWWWW*\nY**WZ\n***M*\n*AX**\n (1, 4) view X; memory X\n(1, 3) view X,Y; memory X,Y\n(2, 3) view X,M; memory X,Y,M\n(3, 3) view X,Z,M; memory X,Y,M,Z\n(4, 3) view Z,M; memory X,Y,M,Z\n(4, 2) view Z,M; memory X,Y,M,Z; pick Z",
+        "gt": "Z > { {N,M,X,Y}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_95"
+    },
+    "FOOD_TRUCK_95_1": {
+        "trajectory": "***W*\nWWWW*\nY**WZ\n***M*\n*AX**\n (1, 4) view X; memory X\n(2, 4) view X,M; memory X,M; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_95"
+    },
+    "FOOD_TRUCK_95_2": {
+        "trajectory": "***W*\nWWWW*\nY**WZ\n***M*\n*AX**\n (1, 4) view X; memory X\n(1, 3) view X,Y; memory X,Y\n(2, 3) view X,M; memory X,Y,M\n(3, 3) view X,Z,M; memory X,Y,M,Z\n(2, 3) view X,M; memory X,Y,M,Z\n(2, 2) view M; memory X,Y,M,Z\n(1, 2) view Y; memory X,Y,M,Z\n(0, 2) view Y; memory X,Y,M,Z; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_95"
+    },
+    "FOOD_TRUCK_95_3": {
+        "trajectory": "***W*\nWWWW*\nY**WZ\n***M*\n*AX**\n (1, 4) view X; memory X\n(1, 3) view X,Y; memory X,Y\n(2, 3) view X,M; memory X,Y,M\n(3, 3) view X,Z,M; memory X,Y,M,Z; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_95"
+    },
+    "FOOD_TRUCK_95_4": {
+        "trajectory": "***W*\nWWWW*\nY**WZ\n***M*\n*AX**\n (1, 4) view X; memory X\n(1, 3) view X,Y; memory X,Y\n(2, 3) view X,M; memory X,Y,M\n(3, 3) view X,Z,M; memory X,Y,M,Z\n(3, 4) view X,M; memory X,Y,M,Z\n(2, 4) view X,M; memory X,Y,M,Z; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_95"
+    },
+    "FOOD_TRUCK_96_0": {
+        "trajectory": "W**Y*\nW*WW*\nW****\nW*X**\nMA*Z*\n (1, 4) view X,M; memory X,M\n(2, 4) view X,Z; memory X,M,Z\n(2, 3) view X,Z; memory X,M,Z\n(2, 2) view X; memory X,M,Z\n(3, 2) view X; memory X,M,Z\n(4, 2) memory X,M,Z\n(4, 1) view Y; memory X,M,Z,Y\n(4, 2) memory X,M,Z,Y\n(4, 3) view Z; memory X,M,Z,Y\n(4, 4) view Z; memory X,M,Z,Y\n(3, 4) view X,Z; memory X,M,Z,Y; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_96"
+    },
+    "FOOD_TRUCK_96_1": {
+        "trajectory": "W**Y*\nW*WW*\nW****\nW*X**\nMA*Z*\n (1, 4) view X,M; memory X,M\n(2, 4) view X,Z; memory X,M,Z\n(3, 4) view X,Z; memory X,M,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_96"
+    },
+    "FOOD_TRUCK_96_2": {
+        "trajectory": "W**Y*\nW*WW*\nW****\nW*X**\nMA*Z*\n (1, 4) view X,M; memory X,M\n(0, 4) view M; memory X,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_96"
+    },
+    "FOOD_TRUCK_96_3": {
+        "trajectory": "W**Y*\nW*WW*\nW****\nW*X**\nMA*Z*\n (1, 4) view X,M; memory X,M\n(1, 3) view X,M; memory X,M\n(2, 3) view X,Z; memory X,M,Z; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_96"
+    },
+    "FOOD_TRUCK_96_4": {
+        "trajectory": "W**Y*\nW*WW*\nW****\nW*X**\nMA*Z*\n (1, 4) view X,M; memory X,M\n(2, 4) view X,Z; memory X,M,Z\n(2, 3) view X,Z; memory X,M,Z\n(2, 2) view X; memory X,M,Z\n(3, 2) view X; memory X,M,Z\n(4, 2) memory X,M,Z\n(4, 1) view Y; memory X,M,Z,Y\n(4, 0) view Y; memory X,M,Z,Y\n(3, 0) view Y; memory X,M,Z,Y; pick Y",
+        "gt": "Y > { {N,M,X,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_96"
+    },
+    "FOOD_TRUCK_97_0": {
+        "trajectory": "**W*X\nWWWW*\n*ZW**\nY*W**\nA*M**\n (0, 4) view Y; memory Y\n(0, 3) view Y,Z; memory Y,Z\n(1, 3) view Y,Z,M; memory Y,Z,M\n(1, 4) view Y,M; memory Y,Z,M\n(2, 4) view M; memory Y,Z,M\n(3, 4) view M; memory Y,Z,M\n(3, 3) view M; memory Y,Z,M\n(3, 2) memory Y,Z,M\n(4, 2) memory Y,Z,M\n(4, 1) view X; memory Y,Z,M,X\n(4, 0) view X; memory Y,Z,M,X; pick X",
+        "gt": "X > { {N,M,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_97"
+    },
+    "FOOD_TRUCK_97_1": {
+        "trajectory": "**W*X\nWWWW*\n*ZW**\nY*W**\nA*M**\n (0, 4) view Y; memory Y\n(0, 3) view Y,Z; memory Y,Z\n(1, 3) view Y,Z,M; memory Y,Z,M\n(1, 4) view Y,M; memory Y,Z,M\n(2, 4) view M; memory Y,Z,M; pick M",
+        "gt": "M > {N,X,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_97"
+    },
+    "FOOD_TRUCK_97_2": {
+        "trajectory": "**W*X\nWWWW*\n*ZW**\nY*W**\nA*M**\n (0, 4) view Y; memory Y\n(0, 3) view Y,Z; memory Y,Z\n(1, 3) view Y,Z,M; memory Y,Z,M\n(1, 4) view Y,M; memory Y,Z,M\n(2, 4) view M; memory Y,Z,M\n(3, 4) view M; memory Y,Z,M\n(3, 3) view M; memory Y,Z,M\n(3, 2) memory Y,Z,M\n(4, 2) memory Y,Z,M\n(4, 1) view X; memory Y,Z,M,X\n(4, 2) memory Y,Z,M,X\n(4, 3) memory Y,Z,M,X\n(4, 4) memory Y,Z,M,X\n(3, 4) view M; memory Y,Z,M,X\n(2, 4) view M; memory Y,Z,M,X; pick M",
+        "gt": "N > M > {X,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_97"
+    },
+    "FOOD_TRUCK_97_3": {
+        "trajectory": "**W*X\nWWWW*\n*ZW**\nY*W**\nA*M**\n (0, 4) view Y; memory Y\n(0, 3) view Y,Z; memory Y,Z\n(0, 2) view Y,Z; memory Y,Z\n(1, 2) view Y,Z; memory Y,Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_97"
+    },
+    "FOOD_TRUCK_97_4": {
+        "trajectory": "**W*X\nWWWW*\n*ZW**\nY*W**\nA*M**\n (0, 4) view Y; memory Y\n(0, 3) view Y,Z; memory Y,Z; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_97"
+    },
+    "FOOD_TRUCK_98_0": {
+        "trajectory": "WM***\nWWWW*\nWZ**X\nW****\n*A*Y*\n (1, 4)\n(2, 4) view Y; memory Y\n(2, 3) view Y,Z; memory Y,Z\n(3, 3) view X,Y; memory Y,Z,X\n(3, 2) view X; memory Y,Z,X\n(4, 2) view X; memory Y,Z,X\n(4, 1) view X; memory Y,Z,X\n(4, 0) memory Y,Z,X\n(3, 0) memory Y,Z,X\n(2, 0) view M; memory Y,Z,X,M\n(1, 0) view M; memory Y,Z,X,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_98"
+    },
+    "FOOD_TRUCK_98_1": {
+        "trajectory": "WM***\nWWWW*\nWZ**X\nW****\n*A*Y*\n (1, 4)\n(2, 4) view Y; memory Y\n(2, 3) view Y,Z; memory Y,Z\n(3, 3) view X,Y; memory Y,Z,X\n(3, 2) view X; memory Y,Z,X\n(4, 2) view X; memory Y,Z,X; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_98"
+    },
+    "FOOD_TRUCK_98_2": {
+        "trajectory": "WM***\nWWWW*\nWZ**X\nW****\n*A*Y*\n (1, 4)\n(2, 4) view Y; memory Y\n(2, 3) view Y,Z; memory Y,Z\n(3, 3) view X,Y; memory Y,Z,X\n(3, 2) view X; memory Y,Z,X\n(4, 2) view X; memory Y,Z,X\n(4, 1) view X; memory Y,Z,X\n(4, 0) memory Y,Z,X\n(3, 0) memory Y,Z,X\n(2, 0) view M; memory Y,Z,X,M\n(3, 0) memory Y,Z,X,M\n(4, 0) memory Y,Z,X,M\n(4, 1) view X; memory Y,Z,X,M\n(4, 2) view X; memory Y,Z,X,M\n(3, 2) view X; memory Y,Z,X,M\n(2, 2) view Z; memory Y,Z,X,M\n(1, 2) view Z; memory Y,Z,X,M; pick Z",
+        "gt": "N > Z > {M,X,Y}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_98"
+    },
+    "FOOD_TRUCK_98_3": {
+        "trajectory": "WM***\nWWWW*\nWZ**X\nW****\n*A*Y*\n (1, 4)\n(2, 4) view Y; memory Y\n(2, 3) view Y,Z; memory Y,Z\n(3, 3) view X,Y; memory Y,Z,X\n(3, 2) view X; memory Y,Z,X\n(4, 2) view X; memory Y,Z,X\n(4, 1) view X; memory Y,Z,X\n(4, 0) memory Y,Z,X\n(3, 0) memory Y,Z,X\n(2, 0) view M; memory Y,Z,X,M\n(3, 0) memory Y,Z,X,M\n(4, 0) memory Y,Z,X,M\n(4, 1) view X; memory Y,Z,X,M\n(4, 2) view X; memory Y,Z,X,M; pick X",
+        "gt": "N > X > {M,Y,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_98"
+    },
+    "FOOD_TRUCK_98_4": {
+        "trajectory": "WM***\nWWWW*\nWZ**X\nW****\n*A*Y*\n (1, 4)\n(2, 4) view Y; memory Y\n(3, 4) view Y; memory Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_98"
+    },
+    "FOOD_TRUCK_99_0": {
+        "trajectory": "***M*\n**X*W\n**W*W\nZ*WYW\nA****\n (0, 4) view Z; memory Z\n(1, 4) view Z; memory Z\n(2, 4) view Y; memory Z,Y\n(1, 4) view Z; memory Z,Y\n(1, 3) view Z; memory Z,Y\n(1, 2) view X,Z; memory Z,Y,X\n(1, 1) view X; memory Z,Y,X\n(2, 1) view X,M; memory Z,Y,X,M\n(2, 0) view X,M; memory Z,Y,X,M\n(3, 0) view X,M; memory Z,Y,X,M; pick M",
+        "gt": "M > { {N,X,Y,Z}}",
+        "scene_type": 1,
+        "campus_id": "FOOD_TRUCK_99"
+    },
+    "FOOD_TRUCK_99_1": {
+        "trajectory": "***M*\n**X*W\n**W*W\nZ*WYW\nA****\n (0, 4) view Z; memory Z\n(1, 4) view Z; memory Z\n(2, 4) view Y; memory Z,Y\n(1, 4) view Z; memory Z,Y\n(1, 3) view Z; memory Z,Y\n(1, 2) view X,Z; memory Z,Y,X\n(1, 1) view X; memory Z,Y,X\n(2, 1) view X,M; memory Z,Y,X,M; pick X",
+        "gt": "X > {M,N,Y,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_99"
+    },
+    "FOOD_TRUCK_99_2": {
+        "trajectory": "***M*\n**X*W\n**W*W\nZ*WYW\nA****\n (0, 4) view Z; memory Z\n(1, 4) view Z; memory Z\n(2, 4) view Y; memory Z,Y\n(3, 4) view Y; memory Z,Y\n(3, 3) view Y; memory Z,Y; pick Y",
+        "gt": "Y > {M,N,X,Z}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_99"
+    },
+    "FOOD_TRUCK_99_3": {
+        "trajectory": "***M*\n**X*W\n**W*W\nZ*WYW\nA****\n (0, 4) view Z; memory Z\n(0, 3) view Z; memory Z; pick Z",
+        "gt": "Z > {M,N,X,Y}",
+        "scene_type": 0,
+        "campus_id": "FOOD_TRUCK_99"
+    },
+    "FOOD_TRUCK_99_4": {
+        "trajectory": "***M*\n**X*W\n**W*W\nZ*WYW\nA****\n (0, 4) view Z; memory Z\n(1, 4) view Z; memory Z\n(2, 4) view Y; memory Z,Y\n(1, 4) view Z; memory Z,Y\n(1, 3) view Z; memory Z,Y\n(1, 2) view X,Z; memory Z,Y,X\n(1, 1) view X; memory Z,Y,X\n(2, 1) view X,M; memory Z,Y,X,M\n(3, 1) view X,M; memory Z,Y,X,M\n(3, 2) view X,Y; memory Z,Y,X,M\n(3, 3) view Y; memory Z,Y,X,M; pick Y",
+        "gt": "N > Y > {M,X,Z}",
+        "scene_type": 2,
+        "campus_id": "FOOD_TRUCK_99"
+    }
+}
